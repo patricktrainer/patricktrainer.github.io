@@ -1,3 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>data - misc</title><link href="https://patricktrainer.github.io/" rel="alternate"></link><link href="https://patricktrainer.github.io/feeds/misc.atom.xml" rel="self"></link><id>https://patricktrainer.github.io/</id><updated>2020-06-22T00:00:00-05:00</updated><entry><title>Test post</title><link href="https://patricktrainer.github.io/test-post.html" rel="alternate"></link><published>2020-06-22T00:00:00-05:00</published><updated>2020-06-22T00:00:00-05:00</updated><author><name>Patrick Trainer</name></author><id>tag:patricktrainer.github.io,2020-06-22:/test-post.html</id><content type="html">&lt;h1&gt;hello world&lt;/h1&gt;
-&lt;p&gt;This is a test post&lt;/p&gt;</content><category term="misc"></category></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>data - misc</title><link href="https://patricktrainer.github.io/" rel="alternate"></link><link href="https://patricktrainer.github.io/feeds/misc.atom.xml" rel="self"></link><id>https://patricktrainer.github.io/</id><updated>2020-06-23T00:00:00-05:00</updated><entry><title>World, Hello.</title><link href="https://patricktrainer.github.io/world-hello.html" rel="alternate"></link><published>2020-06-23T00:00:00-05:00</published><updated>2020-06-23T00:00:00-05:00</updated><author><name>Patrick Trainer</name></author><id>tag:patricktrainer.github.io,2020-06-23:/world-hello.html</id><content type="html">&lt;h2&gt;hello&lt;/h2&gt;
+&lt;p&gt;this is some text&lt;/p&gt;
+&lt;h3&gt;this is a subtitle&lt;/h3&gt;
+&lt;p&gt;this is some more text&lt;/p&gt;
+&lt;p&gt;and a list &lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="err"&gt;- of some things&lt;/span&gt;
+&lt;span class="err"&gt;- and some other things&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;as well as some&lt;/li&gt;
+&lt;li&gt;here too &lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;span class="c1"&gt;# this is some python code&lt;/span&gt;
+&lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;i&lt;/span&gt; &lt;span class="ow"&gt;in&lt;/span&gt; &lt;span class="nb"&gt;range&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="mi"&gt;10&lt;/span&gt;&lt;span class="p"&gt;):&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;i&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;</content><category term="misc"></category></entry><entry><title>Hello, World.</title><link href="https://patricktrainer.github.io/hello-world.html" rel="alternate"></link><published>2020-06-22T00:00:00-05:00</published><updated>2020-06-22T00:00:00-05:00</updated><author><name>Patrick Trainer</name></author><id>tag:patricktrainer.github.io,2020-06-22:/hello-world.html</id><content type="html">&lt;h1&gt;hello world&lt;/h1&gt;
+&lt;p&gt;This is a test post&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;this is a quote to test the quoting&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;and&lt;/th&gt;
+&lt;th&gt;this&lt;/th&gt;
+&lt;th&gt;is&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;some&lt;/td&gt;
+&lt;td&gt;data&lt;/td&gt;
+&lt;td&gt;table&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content><category term="misc"></category></entry></feed>
