@@ -28,4 +28,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           PUBLISH_BRANCH: gh-pages
           CNAME: patricktrainer.xyz
-          publish_dir: ./
+          publish_dir: ./public
