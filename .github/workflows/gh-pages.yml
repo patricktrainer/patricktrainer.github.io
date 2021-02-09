@@ -27,5 +27,6 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           PUBLISH_BRANCH: gh-pages
+          target_repo: patricktrainer/patricktrainer.github.io
           CNAME: patricktrainer.xyz
           publish_dir: ./public
