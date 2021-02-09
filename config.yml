@@ -1,0 +1,16 @@
+baseURL: "https://patricktrainer.xyz/"
+languageCode: en-us
+title: patricktrainer
+theme : PaperMod
+
+params:
+    # home-info mode
+    homeInfoParams:
+        Title: Hello! 👋
+        Content: I'm Patrick.
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/patricktrainer"
+
+
