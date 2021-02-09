@@ -1,4 +1,16 @@
-baseURL: http://example.org/
+baseURL: "https://patricktrainer.xyz/"
 languageCode: en-us
-title: My New Hugo Site
-theme : "PaperMod"
+title: patricktrainer
+theme : PaperMod
+
+params:
+    # home-info mode
+    homeInfoParams:
+        Title: Hello! 👋
+        Content: I'm Patrick.
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/patricktrainer"
+
+
