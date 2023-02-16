@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Explorable-Explanations
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Explorable-Explanations
 ---
 
-# Explorable-Explanations### Proposition 21: Vehicle License Fee for State Parks
+# Explorable-Explanations
+
+### Proposition 21: Vehicle License Fee for State Parks
 The way it is now:
 California has 278 state parks, including state beaches and historic parks.
 An explanation requires an **author**, to interpret the results of the model, and present them to the reader via language and graphics.

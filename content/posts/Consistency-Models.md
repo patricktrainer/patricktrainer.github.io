@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Consistency-Models
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Consistency-Models
 ---
 
-# Consistency-Models# Consistency Models
+# Consistency-Models
+
+# Consistency Models
 Created: June 18, 2020 3:07 PM
 URL: https://jepsen.io/consistency
 This clickable map (adapted from [Bailis, Davidson, Fekete et al](http://www.vldb.org/pvldb/vol7/p181-bailis.pdf) and [Viotti & Vukolic](https://arxiv.org/pdf/1512.00168.pdf)) shows the relationships between common consistency models for concurrent systems.

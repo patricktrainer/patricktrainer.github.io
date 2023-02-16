@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Startup-Marketing-Advice-from-Balsamiq-Studio-The
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Startup-Marketing-Advice-from-Balsamiq-Studio-The
 ---
 
-# Startup-Marketing-Advice-from-Balsamiq-Studio-The# Startup Marketing Advice from Balsamiq Studio | The Balsamiq Blog | Balsamiq
+# Startup-Marketing-Advice-from-Balsamiq-Studio-The
+
+# Startup Marketing Advice from Balsamiq Studio | The Balsamiq Blog | Balsamiq
 Created: May 25, 2020 9:58 PM
 URL: https://blog.balsamiq.com/startup-marketing-advice-from-balsamiq-studios/
 First off, the title of this post is a bit pretentious for my taste, but I wanted to pay homage to Mike Speiser's [excellent post on A/B testing using AdWords](http://www.conceptsl.com/veille/Entrepreneuriat/Startup%20Marketing%20Advice%20with%20AdWords.pdf), and take advantage of his $10.87 investment while I was at it!

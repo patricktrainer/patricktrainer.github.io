@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Software-Development-AntiPatterns
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Software-Development-AntiPatterns
 ---
 
-# Software-Development-AntiPatterns# Software Development AntiPatterns
+# Software-Development-AntiPatterns
+
+# Software Development AntiPatterns
 Created: June 16, 2020 2:17 PM
 Tags: Code, Design patterns
 URL: https://sourcemaking.com/antipatterns/software-development-antipatterns

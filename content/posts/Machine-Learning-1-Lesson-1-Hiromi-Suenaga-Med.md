@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Machine-Learning-1-Lesson-1-Hiromi-Suenaga-Med
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Machine-Learning-1-Lesson-1-Hiromi-Suenaga-Med
 ---
 
-# Machine-Learning-1-Lesson-1-Hiromi-Suenaga-Med[1*ZzaVXSfj0SCERQUCnQljpw.png](Machine%20Learning%201%20Lesson%201%20-%20Hiromi%20Suenaga%20-%20Med%2054b5bb82ebf4439fb80044ea6105c638/1ZzaVXSfj0SCERQUCnQljpw.png)
+# Machine-Learning-1-Lesson-1-Hiromi-Suenaga-Med
+
+[1*ZzaVXSfj0SCERQUCnQljpw.png](Machine%20Learning%201%20Lesson%201%20-%20Hiromi%20Suenaga%20-%20Med%2054b5bb82ebf4439fb80044ea6105c638/1ZzaVXSfj0SCERQUCnQljpw.png)
 # Syllabus in brief
 Depending on time and class interests, we’ll cover something like (not necessarily in this order):
 Train vs. test

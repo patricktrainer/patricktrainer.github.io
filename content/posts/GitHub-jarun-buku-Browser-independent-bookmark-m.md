@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: GitHub-jarun-buku-Browser-independent-bookmark-m
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: GitHub-jarun-buku-Browser-independent-bookmark-m
 ---
 
-# GitHub-jarun-buku-Browser-independent-bookmark-m# GitHub - jarun/buku: Browser-independent bookmark manager
+# GitHub-jarun-buku-Browser-independent-bookmark-m
+
+# GitHub - jarun/buku: Browser-independent bookmark manager
 Created: March 29, 2020 1:00 PM
 URL: https://github.com/jarun/buku
 # buku

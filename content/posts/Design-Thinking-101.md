@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Design-Thinking-101
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Design-Thinking-101
 ---
 
-# Design-Thinking-101## History of Design Thinking
+# Design-Thinking-101
+
+## History of Design Thinking
 It is a common misconception that design thinking is new.
 Cue design thinking, a formalized framework of applying the creative design process to traditional business problems.
 ## What — Definition of Design Thinking

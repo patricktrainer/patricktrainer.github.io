@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Creating-Data-Vault-Point-In-Time-and-Dimension-ta
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Creating-Data-Vault-Point-In-Time-and-Dimension-ta
 ---
 
-# Creating-Data-Vault-Point-In-Time-and-Dimension-ta# Creating Data Vault Point-In-Time and Dimension tables: merging historical data sources - Roelant Vos
+# Creating-Data-Vault-Point-In-Time-and-Dimension-ta
+
+# Creating Data Vault Point-In-Time and Dimension tables: merging historical data sources - Roelant Vos
 Created: February 1, 2020 2:17 PM
 URL: http://roelantvos.com/blog/creating-data-vault-point-in-time-and-dimension-tables-merging-historical-data-sources/
 **Edit 2019-09-05**: I reviewed this paper on relevance today and made a few minor tweaks.

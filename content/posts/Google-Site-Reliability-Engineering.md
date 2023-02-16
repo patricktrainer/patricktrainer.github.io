@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Google-Site-Reliability-Engineering
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Google-Site-Reliability-Engineering
 ---
 
-# Google-Site-Reliability-EngineeringData pipelines go as far back as co-routines [[Con63]](https://landing.google.com/sre/sre-book/chapters/bibliography), the DTSS communication files [[Bul80]](https://landing.google.com/sre/sre-book/chapters/bibliography), the UNIX pipe [[McI86]](https://landing.google.com/sre/sre-book/chapters/bibliography), and later, ETL pipelines,[116](https://landing.google.com/sre/sre-book/chapters/data-processing-pipelines/) but such pipelines have gained increased attention with the rise of "Big Data," or "datasets that are so large and so complex that traditional data processing applications are inadequate.
+# Google-Site-Reliability-Engineering
+
+Data pipelines go as far back as co-routines [[Con63]](https://landing.google.com/sre/sre-book/chapters/bibliography), the DTSS communication files [[Bul80]](https://landing.google.com/sre/sre-book/chapters/bibliography), the UNIX pipe [[McI86]](https://landing.google.com/sre/sre-book/chapters/bibliography), and later, ETL pipelines,[116](https://landing.google.com/sre/sre-book/chapters/data-processing-pipelines/) but such pipelines have gained increased attention with the rise of "Big Data," or "datasets that are so large and so complex that traditional data processing applications are inadequate.
 "[117](https://landing.google.com/sre/sre-book/chapters/data-processing-pipelines/)
 # Initial Effect of Big Data on the Simple Pipeline Pattern
 Programs that perform periodic or continuous transformations on Big Data are usually referred to as "simple, one-phase pipelines."

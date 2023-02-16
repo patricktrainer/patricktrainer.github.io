@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Using-SQL-to-find-my-best-photo-of-a-pelican-accor
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Using-SQL-to-find-my-best-photo-of-a-pelican-accor
 ---
 
-# Using-SQL-to-find-my-best-photo-of-a-pelican-accor# Using SQL to find my best photo of a pelican according to Apple Photos
+# Using-SQL-to-find-my-best-photo-of-a-pelican-accor
+
+# Using SQL to find my best photo of a pelican according to Apple Photos
 Created: May 22, 2020 8:02 PM
 URL: https://simonwillison.net/2020/May/21/dogsheep-photos/
 According to the Apple Photos internal SQLite database, this is the most aesthetically pleasing photograph I have ever taken of a pelican:

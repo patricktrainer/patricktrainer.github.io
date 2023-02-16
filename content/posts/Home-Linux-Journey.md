@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Home-Linux-Journey
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Home-Linux-Journey
 ---
 
-# Home-Linux-Journey## Grasshopper
+# Home-Linux-Journey
+
+## Grasshopper
 !
 [Home%20Linux%20Journey%20b7995621f90e47ce807af99add32e087/getting-started-cd39013b87fac4b4b5d668752511f154a673adc94fad86c9be53f0016bf3bc35.png](Home%20Linux%20Journey%20b7995621f90e47ce807af99add32e087/getting-started-cd39013b87fac4b4b5d668752511f154a673adc94fad86c9be53f0016bf3bc35.png)
 !

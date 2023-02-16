@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Bringing-Data-Sources-Together-with-PipelineWise
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Bringing-Data-Sources-Together-with-PipelineWise
 ---
 
-# Bringing-Data-Sources-Together-with-PipelineWise# Bringing Data Sources Together with PipelineWise
+# Bringing-Data-Sources-Together-with-PipelineWise
+
+# Bringing Data Sources Together with PipelineWise
 Created: December 5, 2019 2:04 PM
 Tags: Data
 URL: [https://tech.transferwise.com/bringing-data-sources-together-with-pipelinewise/?utm_campaign=Up%20%26%20Running%20Weekly&utm_medium=email&utm_source=Revue%20newsletter](https://tech.transferwise.com/bringing-data-sources-together-with-pipelinewise/?utm_campaign=Up%20%26%20Running%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)

@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Qwiklabs-Hands-On-Cloud-Training
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Qwiklabs-Hands-On-Cloud-Training
 ---
 
-# Qwiklabs-Hands-On-Cloud-Training# Qwiklabs - Hands-On Cloud Training
+# Qwiklabs-Hands-On-Cloud-Training
+
+# Qwiklabs - Hands-On Cloud Training
 Created: February 21, 2020 12:07 PM
 URL: https://google.qwiklabs.com/?qlcampaign=1j-cloud-27
 We give you temporary credentials to Google Cloud Platform, so you can learn the cloud using the real thing – no simulations.

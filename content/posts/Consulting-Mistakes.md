@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Consulting-Mistakes
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Consulting-Mistakes
 ---
 
-# Consulting-Mistakes# Consulting Mistakes
+# Consulting-Mistakes
+
+# Consulting Mistakes
 Created: December 7, 2019 1:48 PM
 Tags: Consulting, Self
 URL: https://news.ycombinator.com/item?id=21728436

@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Radiant-based-HVAC
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Radiant-based-HVAC
 ---
 
-# Radiant-based-HVACRadiant based HVAC systems by its implied definition, integrates the [interior surface temperatures](Mean%20Radiant_pg2.htm#Surface temp) of the building enclosure for the purposes of evaluating the [mean radiant temperature](http://www.healthyheating.com/Definitions/Mean%20Radiant.htm) for establishing [thermal comfort](http://www.healthyheating.com/Thermal-Comfort-in-Simple-Terms.htm) based on [human factor design](http://www.healthyheating.com/Definitions/enviro_ergo_def.htm).
+# Radiant-based-HVAC
+
+Radiant based HVAC systems by its implied definition, integrates the [interior surface temperatures](Mean%20Radiant_pg2.htm#Surface temp) of the building enclosure for the purposes of evaluating the [mean radiant temperature](http://www.healthyheating.com/Definitions/Mean%20Radiant.htm) for establishing [thermal comfort](http://www.healthyheating.com/Thermal-Comfort-in-Simple-Terms.htm) based on [human factor design](http://www.healthyheating.com/Definitions/enviro_ergo_def.htm).
 **Background**: The control over surface temperatures for thermal comfort is not new; to set the bookends as it were, are two quotes one from 1857 and another 2010 - both from internationally recognized authorities on health and buildings advising us to focus on the enclosure to control [heat transfer by radiation](http://www.healthyheating.com/Definitions/heat-transfer-radiant.htm):
 1857 - "the Commissioners of the General Board of Health advocated as one of the requirements for comfort that the [walls of a room](http://www.healthyheating.com/Definitions/Mean%20Radiant.htm) be at least as high in temperature as the general temperature of the room, while they included [cold walls or floors](http://www.healthyheating.com/Thermal_Comfort_Working_Copy/Definitions/floor_temps.htm) amongst the conditions which make for discomfort.”1
 2010 - National Building Code of Canada v2010: Section A-5.3.1.2.

@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: JSON-Web-Tokens-JWT
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: JSON-Web-Tokens-JWT
 ---
 
-# JSON-Web-Tokens-JWT[1*9pWUdYPAwCQoWdEnvZli4A.jpeg](JSON%20Web%20Tokens%20(JWT)%2086fe6818c9384adab0f151f589d48ce7/19pWUdYPAwCQoWdEnvZli4A.jpeg)
+# JSON-Web-Tokens-JWT
+
+[1*9pWUdYPAwCQoWdEnvZli4A.jpeg](JSON%20Web%20Tokens%20(JWT)%2086fe6818c9384adab0f151f589d48ce7/19pWUdYPAwCQoWdEnvZli4A.jpeg)
 > JSON Web Token (JWT) Is a JSON object and it is considered one of the safest ways to transfer information between two participants.
 To create it, you need to define a header with general information on the token, payload data, such as the user id, his role, etc.
 First, the user logs on to the authentication server using an authentication key (it can be a *username / password* pair , or a *Facebook* key, or a *Google* key, or a key from another account).

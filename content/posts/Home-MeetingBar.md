@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Home-MeetingBar
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Home-MeetingBar
 ---
 
-# Home-MeetingBar# Home | MeetingBar
+# Home-MeetingBar
+
+# Home | MeetingBar
 Created: July 29, 2020 4:20 PM
 URL: https://meetingbar.onrender.com/
 ## Integrated with Google Meet and Zoom so you can quickly join meetings from event or create ad hoc meeting

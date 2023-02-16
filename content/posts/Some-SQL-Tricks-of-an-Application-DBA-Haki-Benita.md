@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Some-SQL-Tricks-of-an-Application-DBA-Haki-Benita
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Some-SQL-Tricks-of-an-Application-DBA-Haki-Benita
 ---
 
-# Some-SQL-Tricks-of-an-Application-DBA-Haki-BenitaTo demonstrate, set up a small schema for a store:
+# Some-SQL-Tricks-of-an-Application-DBA-Haki-Benita
+
+To demonstrate, set up a small schema for a store:
 ```
 DROP TABLE IF EXISTS product CASCADE;
 CREATE TABLE product (

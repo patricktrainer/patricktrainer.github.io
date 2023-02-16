@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Census
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Census
 ---
 
-# Census# Census
+# Census
+
+# Census
 Created: January 8, 2020 10:10 AM
 Tags: Startup
 Merge data from different sources to build a single record of everything you know about each customer.

@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Product-Overview-Materialize
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Product-Overview-Materialize
 ---
 
-# Product-Overview-MaterializeAll of the interactive queryable capabilities of a traditional SQL data warehouse, but connecting directly to your streaming data sources, and staying up-to-date within milliseconds.
+# Product-Overview-Materialize
+
+All of the interactive queryable capabilities of a traditional SQL data warehouse, but connecting directly to your streaming data sources, and staying up-to-date within milliseconds.
 Materialize delivers SQL exploration for streaming events and real-time data.
 [Product%20Overview%20%E2%80%93%20Materialize%20cf57caaf7a794979bf60da5471332f90/rest-of-SQL-01-1250.png](Product%20Overview%20%E2%80%93%20Materialize%20cf57caaf7a794979bf60da5471332f90/rest-of-SQL-01-1250.png)
 Many streaming solutions require the denormalization of data in order to maintain low latency - thereby prohibiting any kind of data enrichment like joins.

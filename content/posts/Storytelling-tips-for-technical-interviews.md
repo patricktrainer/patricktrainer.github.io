@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Storytelling-tips-for-technical-interviews
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Storytelling-tips-for-technical-interviews
 ---
 
-# Storytelling-tips-for-technical-interviewsGiven the [importance of stories to the human mind](https://www.youtube.com/watch?v=LuD2Aa0zFiA), it seems there is no better way to explore it.
+# Storytelling-tips-for-technical-interviews
+
+Given the [importance of stories to the human mind](https://www.youtube.com/watch?v=LuD2Aa0zFiA), it seems there is no better way to explore it.
 You must assume the candidate will tell you the story you wish to hear; although most of the time, they won’t.
 [Storytelling%20tips%20for%20technical%20interviews%201fa72afa1a72497cbfac10bb09a00fcd/worldbuilding.png](Storytelling%20tips%20for%20technical%20interviews%201fa72afa1a72497cbfac10bb09a00fcd/worldbuilding.png)
 Start the story at the point you think necessary, giving a recap on what happened until that point in which the story is taking place.

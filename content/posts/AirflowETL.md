@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: AirflowETL
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: AirflowETL
 ---
 
-# AirflowETLAirflow is a platform to schedule and monitor workflows and in this post I will show you how to use it to extract the daily weather in New York from the [OpenWeatherMap](https://openweathermap.org/api) API, convert the temperature to Celsius and load the data in a simple [PostgreSQL](https://www.postgresql.org/) database.
+# AirflowETL
+
+Airflow is a platform to schedule and monitor workflows and in this post I will show you how to use it to extract the daily weather in New York from the [OpenWeatherMap](https://openweathermap.org/api) API, convert the temperature to Celsius and load the data in a simple [PostgreSQL](https://www.postgresql.org/) database.
 Specifically I transform and load the following into the database,
 - the city name
 - the country name

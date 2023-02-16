@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Algorithms-interviews-theory-vs-practice
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Algorithms-interviews-theory-vs-practice
 ---
 
-# Algorithms-interviews-theory-vs-practice# Algorithms interviews: theory vs. practice
+# Algorithms-interviews-theory-vs-practice
+
+# Algorithms interviews: theory vs. practice
 Created: May 23, 2020 11:28 AM
 URL: https://danluu.com/algorithms-interviews/
 When I ask people at trendy big tech companies why algorithms quizzes are mandatory, the most common answer I get is something like "we have so much scale, we can't afford to have someone accidentally write an `O(n^2)` algorithm and bring the site down"[1](https://danluu.com/algorithms-interviews/).

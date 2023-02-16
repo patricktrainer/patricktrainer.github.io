@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Chris-Albon
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Chris-Albon
 ---
 
-# Chris-Albon# Chris Albon
+# Chris-Albon
+
+# Chris Albon
 Created: February 21, 2020 12:05 PM
 URL: https://chrisalbon.com/
 [I am a data scientist](https://chrisalbon.com/about/chris_albon/) with a decade of experience applying statistical learning, artificial intelligence, and software engineering to political, social, and humanitarian efforts -- from election monitoring to disaster relief.

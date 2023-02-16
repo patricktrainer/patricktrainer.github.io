@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Ben-Horowitz-s-Best-Startup-Advice-Product-Hunt
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Ben-Horowitz-s-Best-Startup-Advice-Product-Hunt
 ---
 
-# Ben-Horowitz-s-Best-Startup-Advice-Product-HuntWherever he goes, entrepreneurs flock to him like fly to flypaper, hoping for a few minutes to pitch their companies or talk about how his NYT bestselling book, *[The Hard Thing About Hard Things](http://www.amazon.com/The-Hard-Thing-About-Things/dp/0062273205)*, changed the way they think about startups.
+# Ben-Horowitz-s-Best-Startup-Advice-Product-Hunt
+
+Wherever he goes, entrepreneurs flock to him like fly to flypaper, hoping for a few minutes to pitch their companies or talk about how his NYT bestselling book, *[The Hard Thing About Hard Things](http://www.amazon.com/The-Hard-Thing-About-Things/dp/0062273205)*, changed the way they think about startups.
 Find the thing you’re great at, put that into the world, contribute to others, help the world be better.”
 While his advice is often unconventional, it makes so much sense that it’s hard not to listen.
 Recently, Horowitz joined the Product Hunt for a **[LIVE Chat](http://www.producthunt.com/live/ben-horowitz)** — by the way, you can find the full schedule of upcoming LIVE Chats here:

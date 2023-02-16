@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Official-Ghost-GitHub-Integration
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Official-Ghost-GitHub-Integration
 ---
 
-# Official-Ghost-GitHub-Integration# Official Ghost + GitHub Integration
+# Official-Ghost-GitHub-Integration
+
+# Official Ghost + GitHub Integration
 Created: April 23, 2020 2:28 PM
 URL: https://ghost.org/integrations/github/
 Set up simple continuous integration of your Ghost theme to deploy directly to your Ghost website with [GitHub Actions](https://github.com/features/actions).

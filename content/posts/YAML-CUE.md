@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: YAML-CUE
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: YAML-CUE
 ---
 
-# YAML-CUE# YAML | CUE
+# YAML-CUE
+
+# YAML | CUE
 Created: October 26, 2022 1:04 AM
 URL: https://cuelang.org/docs/integrations/yaml/
 # YAML

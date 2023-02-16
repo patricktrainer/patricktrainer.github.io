@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Two-methods-that-have-helped-me-Have-an-ideas-jour
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Two-methods-that-have-helped-me-Have-an-ideas-jour
 ---
 
-# Two-methods-that-have-helped-me-Have-an-ideas-jour# Two methods that have helped me: * Have an ideas journal.
+# Two-methods-that-have-helped-me-Have-an-ideas-jour
+
+# Two methods that have helped me: * Have an ideas journal.
 Write new ideas down ... | Hacker News
 Created: May 10, 2020 11:09 AM
 URL: https://news.ycombinator.com/item?id=23133502

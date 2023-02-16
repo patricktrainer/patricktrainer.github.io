@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: The-API-as-a-marketplace-Version-One
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: The-API-as-a-marketplace-Version-One
 ---
 
-# The-API-as-a-marketplace-Version-One# The API-as-a-marketplace - Version One
+# The-API-as-a-marketplace-Version-One
+
+# The API-as-a-marketplace - Version One
 Created: May 28, 2020 10:17 AM
 URL: https://versionone.vc/api-as-a-marketplace/
 As we’ve been spending time on [B2B marketplaces](https://versionone.vc/b2b-marketplaces-revisited/) and dev tools/platforms, we’ve come to realize that there’s an interesting sub-category that combines elements of both: the API-as-a-marketplace.

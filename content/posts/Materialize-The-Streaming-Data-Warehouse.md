@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Materialize-The-Streaming-Data-Warehouse
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Materialize-The-Streaming-Data-Warehouse
 ---
 
-# Materialize-The-Streaming-Data-Warehouse# Materialize – The Streaming Data Warehouse
+# Materialize-The-Streaming-Data-Warehouse
+
+# Materialize – The Streaming Data Warehouse
 Created: February 18, 2020 5:46 PM
 URL: https://materialize.io/
 ## Building streaming data architecture can be as simple as writing SQL.

@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Indoor-Environmental-Quality-Aging-In-Place-About
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Indoor-Environmental-Quality-Aging-In-Place-About
 ---
 
-# Indoor-Environmental-Quality-Aging-In-Place-About# Indoor Environmental Quality :: Aging In Place :: About Healthy Heating
+# Indoor-Environmental-Quality-Aging-In-Place-About
+
+# Indoor Environmental Quality :: Aging In Place :: About Healthy Heating
 Created: May 23, 2020 11:46 AM
 URL: http://www.healthyheating.com/about.htm#.Wz4YIC2ZMk9
 We support the purposes and missions of the [healthy house institute](http://www.healthyhouseinstitute.com/)TM

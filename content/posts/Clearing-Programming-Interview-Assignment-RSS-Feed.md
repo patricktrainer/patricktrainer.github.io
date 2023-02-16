@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Clearing-Programming-Interview-Assignment-RSS-Feed
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Clearing-Programming-Interview-Assignment-RSS-Feed
 ---
 
-# Clearing-Programming-Interview-Assignment-RSS-FeedInstall the necessary libraries for python:
+# Clearing-Programming-Interview-Assignment-RSS-Feed
+
+Install the necessary libraries for python:
 ```
 docker exec rss-python conda update -c base -c defaults conda
 docker exec rss-python conda install beautifulsoup4 lxml psycopg2

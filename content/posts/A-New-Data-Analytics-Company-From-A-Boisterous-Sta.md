@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: A-New-Data-Analytics-Company-From-A-Boisterous-Sta
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: A-New-Data-Analytics-Company-From-A-Boisterous-Sta
 ---
 
-# A-New-Data-Analytics-Company-From-A-Boisterous-Sta[A%20New%20Data%20Analytics%20Company%20From%20A%20Boisterous%20Sta%2081c5dbbaca8e432dbaee5e2580afb856/960x0.jpg](A%20New%20Data%20Analytics%20Company%20From%20A%20Boisterous%20Sta%2081c5dbbaca8e432dbaee5e2580afb856/960x0.jpg)
+# A-New-Data-Analytics-Company-From-A-Boisterous-Sta
+
+[A%20New%20Data%20Analytics%20Company%20From%20A%20Boisterous%20Sta%2081c5dbbaca8e432dbaee5e2580afb856/960x0.jpg](A%20New%20Data%20Analytics%20Company%20From%20A%20Boisterous%20Sta%2081c5dbbaca8e432dbaee5e2580afb856/960x0.jpg)
 Peter Bailis, founder and CEO of Sisu
 Peter Bailis can’t resist dropping more than a dozen f-bombs as he explains how his startup Sisu aims to upend traditional business intelligence and reshape the way companies act on the massive amounts of information—about products, sales, customers, etc.—that they generate and store.
 “It’s a product problem plus a tech problem.”

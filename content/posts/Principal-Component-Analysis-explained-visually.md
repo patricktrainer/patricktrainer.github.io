@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Principal-Component-Analysis-explained-visually
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Principal-Component-Analysis-explained-visually
 ---
 
-# Principal-Component-Analysis-explained-visually# Principal Component Analysis explained visually
+# Principal-Component-Analysis-explained-visually
+
+# Principal Component Analysis explained visually
 Created: July 13, 2020 9:22 AM
 URL: https://setosa.io/ev/principal-component-analysis/
 !

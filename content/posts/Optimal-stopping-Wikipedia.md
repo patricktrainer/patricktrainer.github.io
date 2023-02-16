@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Optimal-stopping-Wikipedia
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Optimal-stopping-Wikipedia
 ---
 
-# Optimal-stopping-WikipediaA sequence of 'reward' functions which depend on the observed values of the random variables in 1.:
+# Optimal-stopping-Wikipedia
+
+A sequence of 'reward' functions which depend on the observed values of the random variables in 1.:
 [Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/c347dcdade06ab59406dacf0d929e03855856ee8](Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/c347dcdade06ab59406dacf0d929e03855856ee8)
 [Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/4f93e8400461ac4d620680baee52030fa89911db](Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/4f93e8400461ac4d620680baee52030fa89911db)
 Given those objects, the problem is as follows:

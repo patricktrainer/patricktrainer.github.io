@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Apache-Airflow-on-Docker-for-Complete-Beginners
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Apache-Airflow-on-Docker-for-Complete-Beginners
 ---
 
-# Apache-Airflow-on-Docker-for-Complete-BeginnersBut over time, OLAP usually starts to become too burdensome to run on your production tables:
+# Apache-Airflow-on-Docker-for-Complete-Beginners
+
+But over time, OLAP usually starts to become too burdensome to run on your production tables:
 - OLAP queries are more computationally expensive (aggregations, joins)
 - OLAP often requires intermediate steps like data cleaning and featurization
 - Analytics usually runs at regular time intervals, while OLTP is usually event based (e.g. a user does something, so we hit the database)

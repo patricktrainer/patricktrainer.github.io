@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Using-Self-Joins-To-Calculate-Your-Retention-Chur
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Using-Self-Joins-To-Calculate-Your-Retention-Chur
 ---
 
-# Using-Self-Joins-To-Calculate-Your-Retention-ChurHere’s the query:
+# Using-Self-Joins-To-Calculate-Your-Retention-Chur
+
+Here’s the query:
 ```
 with monthly_activity as (
 select distinct

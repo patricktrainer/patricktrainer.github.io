@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: From-What-is-a-Markov-Model-to-Here-is-how-Mark
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: From-What-is-a-Markov-Model-to-Here-is-how-Mark
 ---
 
-# From-What-is-a-Markov-Model-to-Here-is-how-Mark# From “What is a Markov Model” to “Here is how Markov Models Work” - By
+# From-What-is-a-Markov-Model-to-Here-is-how-Mark
+
+# From “What is a Markov Model” to “Here is how Markov Models Work” - By
 Created: February 21, 2020 12:22 PM
 URL: https://hackernoon.com/from-what-is-a-markov-model-to-here-is-how-markov-models-work-1ac5f4629b71
 To be honest, if you are just looking to answer the age old question of “what is a Markov Model” you should take a visit to Wikipedia (or just check the TLDR 😉), but if you are curious and looking to use some examples to aid in your understanding of *what* a Markov Model is, *why* Markov Models Matter, and *how to implement* a Markov Model stick around :) **Show > Tell**

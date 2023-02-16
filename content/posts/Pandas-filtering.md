@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Pandas-filtering
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Pandas-filtering
 ---
 
-# Pandas-filtering# Pandas filtering
+# Pandas-filtering
+
+# Pandas filtering
 Created: January 21, 2020 6:43 PM
 Tags: Data
 URL: https://news.ycombinator.com/item?id=22106575

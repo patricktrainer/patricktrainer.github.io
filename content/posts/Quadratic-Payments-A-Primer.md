@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Quadratic-Payments-A-Primer
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Quadratic-Payments-A-Primer
 ---
 
-# Quadratic-Payments-A-Primer# Quadratic Payments: A Primer
+# Quadratic-Payments-A-Primer
+
+# Quadratic Payments: A Primer
 Created: December 10, 2019 9:55 AM
 Tags: Data, Finance
 URL: https://vitalik.ca/general/2019/12/07/quadratic.html

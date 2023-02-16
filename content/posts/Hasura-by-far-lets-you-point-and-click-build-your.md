@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Hasura-by-far-lets-you-point-and-click-build-your
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Hasura-by-far-lets-you-point-and-click-build-your
 ---
 
-# Hasura-by-far-lets-you-point-and-click-build-your# Hasura by far, lets you point-and-click build your database and table relationsh... | Hacker News
+# Hasura-by-far-lets-you-point-and-click-build-your
+
+# Hasura by far, lets you point-and-click build your database and table relationsh... | Hacker News
 Created: April 5, 2020 5:02 PM
 URL: https://news.ycombinator.com/item?id=22787313
 Hasura by far, lets you point-and-click build your database and table relationships with a web dashboard and autogenerates a full GraphQL CRUD API with permissions you can configure and JWT/webhook auth baked-in.

@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: What-is-the-front-controller-design-pattern
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: What-is-the-front-controller-design-pattern
 ---
 
-# What-is-the-front-controller-design-patternCreated: June 17, 2020 4:45 PM
+# What-is-the-front-controller-design-pattern
+
+Created: June 17, 2020 4:45 PM
 URL: https://www.educative.io/edpresso/what-is-the-front-controller-design-pattern
 The **front controller [design pattern](https://www.educative.io/edpresso/design-patterns-in-java)** is used to refine the structure of an application which:
 1.

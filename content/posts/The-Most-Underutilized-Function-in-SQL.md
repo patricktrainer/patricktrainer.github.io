@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: The-Most-Underutilized-Function-in-SQL
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: The-Most-Underutilized-Function-in-SQL
 ---
 
-# The-Most-Underutilized-Function-in-SQL## #1: Building Yourself a Unique ID
+# The-Most-Underutilized-Function-in-SQL
+
+## #1: Building Yourself a Unique ID
 I’m going to make a really strong statement here, but it’s one that I really believe in: **every single [data model](http://dbt.readthedocs.io/en/docs-0.6.0/guide/building-models/) in your warehouse should have a rock solid unique ID**.
 One reason is that your source data doesn’t have a unique key—if you’re syncing advertising performance data from Facebook Ads via [Stitch](http://stitchdata.com/) or [Fivetran](http://fivetran.com/), the source data in your ad_insights table doesn’t have a unique key you can rely on.
 Using that knowledge, you can build yourself a unique id using md5():

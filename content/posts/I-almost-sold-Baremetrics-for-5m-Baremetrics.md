@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: I-almost-sold-Baremetrics-for-5m-Baremetrics
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: I-almost-sold-Baremetrics-for-5m-Baremetrics
 ---
 
-# I-almost-sold-Baremetrics-for-5m-Baremetrics***
+# I-almost-sold-Baremetrics-for-5m-Baremetrics
+
+***
 In the past six years of Baremetrics’ existence, I’ve received dozens upon dozens of emails from folks interested in acquiring Baremetrics.
 I’ve always sort of assumed that the sale of Baremetrics would one day mean I make a decent chunk of money, but now it was “Hey Josh, you could be a millionaire in a matter of weeks!”
 ## There’s always a price

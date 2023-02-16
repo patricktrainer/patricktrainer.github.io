@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Business-Models
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Business-Models
 ---
 
-# Business-Models# Business Models
+# Business-Models
+
+# Business Models
 Created: December 8, 2019 10:20 AM
 Tags: Finance, Startup
 URL: https://news.ycombinator.com/item?id=21723189

@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Leaflet-How-to-save-various-marker-position-in-db
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Leaflet-How-to-save-various-marker-position-in-db
 ---
 
-# Leaflet-How-to-save-various-marker-position-in-db# Leaflet: How to save various marker position in db and load later - Stack Overflow
+# Leaflet-How-to-save-various-marker-position-in-db
+
+# Leaflet: How to save various marker position in db and load later - Stack Overflow
 Created: February 27, 2020 2:03 PM
 URL: https://stackoverflow.com/questions/36185565/leaflet-how-to-save-various-marker-position-in-db-and-load-later
 !

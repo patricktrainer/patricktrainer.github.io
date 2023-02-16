@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: How-to-Beat-Procrastination-Wait-But-Why
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: How-to-Beat-Procrastination-Wait-But-Why
 ---
 
-# How-to-Beat-Procrastination-Wait-But-WhyLet’s begin by trying to unwrap the procrastinator’s psychology and see what’s really at the core of things:
+# How-to-Beat-Procrastination-Wait-But-Why
+
+Let’s begin by trying to unwrap the procrastinator’s psychology and see what’s really at the core of things:
 We know about the Instant Gratification Monkey (the part of your brain that makes you procrastinate) and his dominion over the Rational Decision Maker, but what’s really happening there?
 The Critical Entrance is where you go to officially start work on the task, the Dark Woods are the process of actually doing the work, and once you finish, you’re rewarded by ending up in The Happy Playground—a place where you feel satisfaction and where leisure time is pleasant and rewarding because you got something hard done.
 [How%20to%20Beat%20Procrastination%20%E2%80%94%20Wait%20But%20Why%205e80a1d1ef8b4588a51618f3f4eafd4c/darkwoodspro2.png](How%20to%20Beat%20Procrastination%20%E2%80%94%20Wait%20But%20Why%205e80a1d1ef8b4588a51618f3f4eafd4c/darkwoodspro2.png)

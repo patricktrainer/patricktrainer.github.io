@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Gitflow-Workflow-Atlassian-Git-Tutorial
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Gitflow-Workflow-Atlassian-Git-Tutorial
 ---
 
-# Gitflow-Workflow-Atlassian-Git-TutorialA simple way to do this is for one developer to create an empty `develop` branch locally and push it to the server:
+# Gitflow-Workflow-Atlassian-Git-Tutorial
+
+A simple way to do this is for one developer to create an empty `develop` branch locally and push it to the server:
 ```
 git branch develop
 git push -u origin develop

@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Dia-taxis
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Dia-taxis
 ---
 
-# Dia-taxis# Diátaxis
+# Dia-taxis
+
+# Diátaxis
 Created: October 26, 2022 1:03 AM
 URL: https://diataxis.fr/
 A systematic framework for technical documentation authoring.

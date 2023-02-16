@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: The-data-model-behind-Notion-s-flexibility
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: The-data-model-behind-Notion-s-flexibility
 ---
 
-# The-data-model-behind-Notion-s-flexibilityNotion supports many types of blocks, most of which you can see in the “new block” menu that appears when you press the `+` button or in the `/` menu:
+# The-data-model-behind-Notion-s-flexibility
+
+Notion supports many types of blocks, most of which you can see in the “new block” menu that appears when you press the `+` button or in the `/` menu:
 In addition to the attributes that describe the block itself, every block has attributes that define their relationship with other blocks:
 - **Content** — an array (or ordered set) of block IDs representing the content inside this block, like nested bullet items in a bulleted list or the text inside a toggle.
 The block type is what specifies how the block is rendered in Notion’s UI — and depending on that type, we interpret the block’s properties and content differently.

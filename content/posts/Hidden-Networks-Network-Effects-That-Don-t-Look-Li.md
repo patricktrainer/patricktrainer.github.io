@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Hidden-Networks-Network-Effects-That-Don-t-Look-Li
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Hidden-Networks-Network-Effects-That-Don-t-Look-Li
 ---
 
-# Hidden-Networks-Network-Effects-That-Don-t-Look-Li# Hidden Networks: Network Effects That Don't Look Like Network Effects - Andreessen Horowitz
+# Hidden-Networks-Network-Effects-That-Don-t-Look-Li
+
+# Hidden Networks: Network Effects That Don't Look Like Network Effects - Andreessen Horowitz
 Created: February 21, 2020 12:06 PM
 URL: https://a16z.com/2019/07/29/hidden-networks-effects/
 Many of the most consequential projects of the internet era — from Wikipedia to Facebook and bitcoin — have all been predicated on [network effects](https://a16z.com/2016/03/07/all-about-network-effects/), where the network becomes more valuable to users as more people use it.

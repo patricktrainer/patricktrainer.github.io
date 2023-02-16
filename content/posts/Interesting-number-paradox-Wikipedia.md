@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Interesting-number-paradox-Wikipedia
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Interesting-number-paradox-Wikipedia
 ---
 
-# Interesting-number-paradox-Wikipedia# Interesting number paradox - Wikipedia
+# Interesting-number-paradox-Wikipedia
+
+# Interesting number paradox - Wikipedia
 Created: February 2, 2020 7:56 AM
 URL: https://en.wikipedia.org/wiki/Interesting_number_paradox
 The **interesting number paradox** is a semi-humorous [paradox](https://en.wikipedia.org/wiki/Paradox) which arises from the attempt to classify every [natural number](https://en.wikipedia.org/wiki/Natural_number) as either "interesting" or "uninteresting".

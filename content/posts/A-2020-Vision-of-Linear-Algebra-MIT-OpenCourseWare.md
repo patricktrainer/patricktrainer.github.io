@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: A-2020-Vision-of-Linear-Algebra-MIT-OpenCourseWare
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: A-2020-Vision-of-Linear-Algebra-MIT-OpenCourseWare
 ---
 
-# A-2020-Vision-of-Linear-Algebra-MIT-OpenCourseWare# A 2020 Vision of Linear Algebra | MIT OpenCourseWare
+# A-2020-Vision-of-Linear-Algebra-MIT-OpenCourseWare
+
+# A 2020 Vision of Linear Algebra | MIT OpenCourseWare
 Created: May 12, 2020 6:46 AM
 URL: https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/
 !

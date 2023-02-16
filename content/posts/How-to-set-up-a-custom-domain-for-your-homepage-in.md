@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: How-to-set-up-a-custom-domain-for-your-homepage-in
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: How-to-set-up-a-custom-domain-for-your-homepage-in
 ---
 
-# How-to-set-up-a-custom-domain-for-your-homepage-in# How to set up a custom domain for your homepage in Notion
+# How-to-set-up-a-custom-domain-for-your-homepage-in
+
+# How to set up a custom domain for your homepage in Notion
 Created: January 29, 2020 9:01 AM
 Tags: How To
 URL: https://medium.com/@TarasPyoneer/how-to-set-up-a-custom-domain-for-your-homepage-in-notion-53fa3d54f848

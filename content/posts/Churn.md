@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Churn
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Churn
 ---
 
-# Churn[Churn%203075f664cd834b5b8e5d6924f4ad1f2f/0j3iK6M7Jt1TCV-NX.png](Churn%203075f664cd834b5b8e5d6924f4ad1f2f/0j3iK6M7Jt1TCV-NX.png)
+# Churn
+
+[Churn%203075f664cd834b5b8e5d6924f4ad1f2f/0j3iK6M7Jt1TCV-NX.png](Churn%203075f664cd834b5b8e5d6924f4ad1f2f/0j3iK6M7Jt1TCV-NX.png)
 *If a user has a constant churn probability over time, this implies that customer lifetimes come from an Exponential distribution.
 If the churn probability gets lower the longer the customer has been subscribed, you could model that as `c/(t+1)`, where `t` is the timestep (e.g. number of days the customer has been subscribed), and `c` is some constant.
 [Churn%203075f664cd834b5b8e5d6924f4ad1f2f/0_ceJxW5UQmjQze15.png](Churn%203075f664cd834b5b8e5d6924f4ad1f2f/0_ceJxW5UQmjQze15.png)

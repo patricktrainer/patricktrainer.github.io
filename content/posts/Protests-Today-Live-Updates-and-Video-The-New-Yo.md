@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Protests-Today-Live-Updates-and-Video-The-New-Yo
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Protests-Today-Live-Updates-and-Video-The-New-Yo
 ---
 
-# Protests-Today-Live-Updates-and-Video-The-New-YoMayor Jim Kenney and Danielle Outlaw, the city’s police commissioner, [both](https://twitter.com/AlexHolleyFOX29/status/1269355512317050880?s=20) [took a knee](https://twitter.com/PhillyMayor/status/1269353967596777472?s=20) at the protests, as aerial footage showed a swarm of demonstrators packed together downtown.
+# Protests-Today-Live-Updates-and-Video-The-New-Yo
+
+Mayor Jim Kenney and Danielle Outlaw, the city’s police commissioner, [both](https://twitter.com/AlexHolleyFOX29/status/1269355512317050880?s=20) [took a knee](https://twitter.com/PhillyMayor/status/1269353967596777472?s=20) at the protests, as aerial footage showed a swarm of demonstrators packed together downtown.
 More than 100 people gathered on Saturday for a protest against racism in Vidor, Texas, a town about 10,000 that has a [history](https://www.cnn.com/2006/US/12/08/oppenheim.sundown.town/) of Ku Klux Klan and white supremacist activity.
 The demonstrators, many holding “Black Lives Matter” signs, stood in a grassy area, chanting, “I can’t breathe!” and “No justice, no peace!”
 # [Latest Updates: George Floyd Protests](https://www.nytimes.com/2020/06/06/us/protests-today-police-george-floyd.html?action=click&pgtype=Article&state=default&module=styln-george-floyd&region=MAIN_CONTENT_1&context=storylines_live_updates)

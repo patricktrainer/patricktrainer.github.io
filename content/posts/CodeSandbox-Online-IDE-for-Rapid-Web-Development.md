@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: CodeSandbox-Online-IDE-for-Rapid-Web-Development
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: CodeSandbox-Online-IDE-for-Rapid-Web-Development
 ---
 
-# CodeSandbox-Online-IDE-for-Rapid-Web-Development# CodeSandbox: Online IDE for Rapid Web Development
+# CodeSandbox-Online-IDE-for-Rapid-Web-Development
+
+# CodeSandbox: Online IDE for Rapid Web Development
 Created: May 25, 2020 11:02 AM
 URL: https://codesandbox.io/
 !

@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Building-a-Mature-Analytics-Workflow
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Building-a-Mature-Analytics-Workflow
 ---
 
-# Building-a-Mature-Analytics-WorkflowThe center of gravity in mature analytics organizations has shifted away from proprietary, end-to-end tools towards more composable solutions made up of:
+# Building-a-Mature-Analytics-Workflow
+
+The center of gravity in mature analytics organizations has shifted away from proprietary, end-to-end tools towards more composable solutions made up of:
 - data integration scripts and/or tools,
 - high-performance analytic databases,
 - SQL, R, and/or Python, and

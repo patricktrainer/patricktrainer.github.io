@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Hosting-Flask-servers-on-Firebase-from-scratch-F
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Hosting-Flask-servers-on-Firebase-from-scratch-F
 ---
 
-# Hosting-Flask-servers-on-Firebase-from-scratch-F## Any server backend with Cloud Run
+# Hosting-Flask-servers-on-Firebase-from-scratch-F
+
+## Any server backend with Cloud Run
 With Firebase Hosting integrating with Cloud Run, you can generate content from anything that fits within a stateless Docker container.
 ## Cloud Run has a free tier
 To use Cloud Run with Firebase Hosting you currently need billing enabled, which requires putting a credit card on file.

@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Glitch-Create
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Glitch-Create
 ---
 
-# Glitch-Create# Glitch - Create
+# Glitch-Create
+
+# Glitch - Create
 Created: May 14, 2021 3:12 AM
 URL: https://glitch.com/create
 Whether you’re new to code or an experienced developer, simply pick a starter app to remix.

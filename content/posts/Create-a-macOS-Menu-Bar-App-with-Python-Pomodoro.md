@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Create-a-macOS-Menu-Bar-App-with-Python-Pomodoro
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Create-a-macOS-Menu-Bar-App-with-Python-Pomodoro
 ---
 
-# Create-a-macOS-Menu-Bar-App-with-Python-Pomodoro# Create a macOS Menu Bar App with Python (Pomodoro Timer) – Camillo Visini
+# Create-a-macOS-Menu-Bar-App-with-Python-Pomodoro
+
+# Create a macOS Menu Bar App with Python (Pomodoro Timer) – Camillo Visini
 Created: July 13, 2020 2:44 AM
 URL: https://camillovisini.com/create-macos-menu-bar-app-pomodoro/
 !

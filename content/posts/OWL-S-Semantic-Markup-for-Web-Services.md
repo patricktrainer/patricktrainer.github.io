@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: OWL-S-Semantic-Markup-for-Web-Services
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: OWL-S-Semantic-Markup-for-Web-Services
 ---
 
-# OWL-S-Semantic-Markup-for-Web-ServicesWith OWL-S markup of services, the information necessary for Web service discovery could be specified as computer-interpretable semantic markup at the service Web sites, and a service registry or ontology-enhanced search engine could be used to locate the services automatically.
+# OWL-S-Semantic-Markup-for-Web-Services
+
+With OWL-S markup of services, the information necessary for Web service discovery could be specified as computer-interpretable semantic markup at the service Web sites, and a service registry or ontology-enhanced search engine could be used to locate the services automatically.
 For nontrivial services (those composed of several steps over time), this description may be used by a service-seeking agent in at least four different ways: (1) to perform a more in-depth analysis of whether the service meets its needs; (2) to compose service descriptions from multiple services to perform a specific task; (3) during the course of the service enactment, to coordinate the activities of the different participants; and (4) to monitor the execution of the service.
 Specifically, it specifies the inputs required by the service and the outputs generated; furthermore, since a service may require external conditions to be satisfied, and it has the effect of changing such conditions, the profile describes the preconditions required by the service and the expected effects that result from the execution of the service.
 ## 4.1 Compiling a Profile: The Relation with Process Model

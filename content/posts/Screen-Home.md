@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Screen-Home
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Screen-Home
 ---
 
-# Screen-Home# Screen | Home
+# Screen-Home
+
+# Screen | Home
 Created: March 24, 2020 4:24 PM
 URL: https://screen.so/#/home
 Fast screen sharing with multiplayer control, drawing & video.

@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Flask-GoogleCharts-Flask-GoogleCharts-0-0-docume
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Flask-GoogleCharts-Flask-GoogleCharts-0-0-docume
 ---
 
-# Flask-GoogleCharts-Flask-GoogleCharts-0-0-docume# Flask-GoogleCharts — Flask-GoogleCharts 0.0 documentation
+# Flask-GoogleCharts-Flask-GoogleCharts-0-0-docume
+
+# Flask-GoogleCharts — Flask-GoogleCharts 0.0 documentation
 Created: March 24, 2020 11:56 AM
 URL: https://pythonhosted.org/Flask-GoogleCharts/
 ## Set Up

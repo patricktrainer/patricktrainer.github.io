@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: 16-Startup-Metrics-Andreessen-Horowitz
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: 16-Startup-Metrics-Andreessen-Horowitz
 ---
 
-# 16-Startup-Metrics-Andreessen-Horowitz## **#2 Recurring Revenue vs. Total Revenue**
+# 16-Startup-Metrics-Andreessen-Horowitz
+
+## **#2 Recurring Revenue vs. Total Revenue**
 Investors more highly value companies where the majority of total revenue comes from product revenue (vs. from services).
 Contribution margin per customer (per month) = revenue from customer minus variable costs associated with a customer.
 As the company starts to recognize revenue from the software as service, it reduces its deferred revenue balance and increases revenue: for a 24-month deal, as each month goes by deferred revenue drops by 1/24th and revenue increases by 1/24th.

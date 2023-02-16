@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Effortless-API-Request-Caching-with-Python-Redis
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Effortless-API-Request-Caching-with-Python-Redis
 ---
 
-# Effortless-API-Request-Caching-with-Python-Redis# Effortless API Request Caching with Python & Redis | Red’s Digressions
+# Effortless-API-Request-Caching-with-Python-Redis
+
+# Effortless API Request Caching with Python & Redis | Red’s Digressions
 Created: May 25, 2020 3:09 PM
 URL: https://rednafi.github.io/digressions/python/database/2020/05/25/python-redis-cache.html
 Recently, I was working with [MapBox](https://www.mapbox.com/)’s [Route Optimization API](https://docs.mapbox.com/api/navigation/#optimization).

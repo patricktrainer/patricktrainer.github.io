@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Mapbox-Tutorial-Heatmap-using-GL-JS-Madison-Drap
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Mapbox-Tutorial-Heatmap-using-GL-JS-Madison-Drap
 ---
 
-# Mapbox-Tutorial-Heatmap-using-GL-JS-Madison-Drap# Mapbox Tutorial: Heatmap using GL JS - Madison Draper - Medium
+# Mapbox-Tutorial-Heatmap-using-GL-JS-Madison-Drap
+
+# Mapbox Tutorial: Heatmap using GL JS - Madison Draper - Medium
 Created: February 20, 2020 9:02 AM
 URL: https://medium.com/@mzdraper/mapbox-tutorial-heatmap-using-gl-js-bc2e5199d630
 !

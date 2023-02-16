@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: NVCA-medium-article
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: NVCA-medium-article
 ---
 
-# NVCA-medium-article[1*ZJQ8rax1gAVjYGucTl46IA.jpeg](NVCA%20medium%20article%20c005e400a66b456db32e43e5b44b60c6/1ZJQ8rax1gAVjYGucTl46IA.jpeg)
+# NVCA-medium-article
+
+[1*ZJQ8rax1gAVjYGucTl46IA.jpeg](NVCA%20medium%20article%20c005e400a66b456db32e43e5b44b60c6/1ZJQ8rax1gAVjYGucTl46IA.jpeg)
 ## Only by returning to its roots can the VC industry thrive in the years ahead
 Though I’ve worked in venture capital for the past four years, I still identify as an outsider.
 Many investors seem to think venture capital began with a philosophy rooted in the belief that operators (that is,those who have been founders or early employees of a venture-backed startup) know how to build companies and can help you build yours, too.

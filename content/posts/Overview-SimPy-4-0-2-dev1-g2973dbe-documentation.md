@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Overview-SimPy-4-0-2-dev1-g2973dbe-documentation
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Overview-SimPy-4-0-2-dev1-g2973dbe-documentation
 ---
 
-# Overview-SimPy-4-0-2-dev1-g2973dbe-documentation# Overview — SimPy 4.0.2.dev1+g2973dbe documentation
+# Overview-SimPy-4-0-2-dev1-g2973dbe-documentation
+
+# Overview — SimPy 4.0.2.dev1+g2973dbe documentation
 Created: June 19, 2020 11:21 AM
 URL: https://simpy.readthedocs.io/en/latest/
 learn the basics of SimPy in just a couple of minutes for a complete overview

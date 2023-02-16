@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Emotional-Debt
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Emotional-Debt
 ---
 
-# Emotional-Debt# Emotional Debt
+# Emotional-Debt
+
+# Emotional Debt
 Created: April 17, 2020 9:43 PM
 URL: https://news.ycombinator.com/item?id=22875923
 > I saw some TV show where some guy said he flew more than a hundred missions in the Air Force and was shot at in all of them.

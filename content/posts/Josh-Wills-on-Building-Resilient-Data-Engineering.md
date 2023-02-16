@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Josh-Wills-on-Building-Resilient-Data-Engineering
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Josh-Wills-on-Building-Resilient-Data-Engineering
 ---
 
-# Josh-Wills-on-Building-Resilient-Data-Engineering# Josh Wills on Building Resilient Data Engineering and Machine Learning Products at Slack
+# Josh-Wills-on-Building-Resilient-Data-Engineering
+
+# Josh Wills on Building Resilient Data Engineering and Machine Learning Products at Slack
 Created: May 27, 2020 12:45 PM
 Tags: Data engineering, Etl, Programming
 URL: https://www.infoq.com/podcasts/slack-building-resilient-data-engineering/?useSponsorshipSuggestions=true&itm_source=podcasts_about_ai-ml-data-eng&itm_medium=link&itm_campaign=ai-ml-data-eng

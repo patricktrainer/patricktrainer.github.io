@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: MCF-Data-Driven-Attribution-methodology-Analytic
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: MCF-Data-Driven-Attribution-methodology-Analytic
 ---
 
-# MCF-Data-Driven-Attribution-methodology-Analytic# MCF Data-Driven Attribution methodology - Analytics Help
+# MCF-Data-Driven-Attribution-methodology-Analytic
+
+# MCF Data-Driven Attribution methodology - Analytics Help
 Created: February 21, 2020 12:08 PM
 URL: https://support.google.com/analytics/answer/3191594?hl=en&ref_topic=3180362
 There are two main parts to the Multi-Channel Funnels (MCF) Data-Driven Attribution methodology: (1) analyzing *all* of your available path data to develop custom conversion probability models, and (2) applying to that probabilistic data set a sophisticated algorithm that assigns partial conversion credit to your marketing touchpoints.

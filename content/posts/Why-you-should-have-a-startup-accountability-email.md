@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Why-you-should-have-a-startup-accountability-email
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Why-you-should-have-a-startup-accountability-email
 ---
 
-# Why-you-should-have-a-startup-accountability-email# Why you should have a startup accountability email list | Dan Moore!
+# Why-you-should-have-a-startup-accountability-email
+
+# Why you should have a startup accountability email list | Dan Moore!
 Created: March 8, 2020 2:52 PM
 URL: http://www.mooreds.com/wordpress/archives/3324
 If you're new here, you may want to subscribe to my [RSS feed](http://www.mooreds.com/wordpress/feed/) or [get my posts in your inbox](http://www.mooreds.com/wordpress/subscribe).

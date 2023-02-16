@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Welcome-to-pdfminer-six-s-documentation-pdfmine
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Welcome-to-pdfminer-six-s-documentation-pdfmine
 ---
 
-# Welcome-to-pdfminer-six-s-documentation-pdfmine— pdfminer.six 20191020 documentation
+# Welcome-to-pdfminer-six-s-documentation-pdfmine
+
+— pdfminer.six 20191020 documentation
 Created: January 28, 2020 9:01 PM
 Tags: Tools
 URL: https://pdfminersix.readthedocs.io/en/latest/index.html

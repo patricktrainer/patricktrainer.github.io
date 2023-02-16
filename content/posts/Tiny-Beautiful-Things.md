@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Tiny-Beautiful-Things
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Tiny-Beautiful-Things
 ---
 
-# Tiny-Beautiful-Things# Tiny Beautiful Things
+# Tiny-Beautiful-Things
+
+# Tiny Beautiful Things
 Created: March 22, 2020 12:49 PM
 URL: https://fs.blog/2014/11/cheryl-strayed-tiny-beautiful-things/
 She claimed she would offer a combination of “the by-the-book common sense of Dear Abby and the earnest spiritual cheesiness of Cary Tennis and the butt-pluggy irreverence of Dan Savage and the closeted Upper East Side nymphomania of Miss Manners.”

@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Distill-Why-do-we-need-Flask-Celery-and-Redis-w
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Distill-Why-do-we-need-Flask-Celery-and-Redis-w
 ---
 
-# Distill-Why-do-we-need-Flask-Celery-and-Redis-w** In the next section, we’ll discuss the various components of Mcdonald’s task queue and how they map to the three technologies above.
+# Distill-Why-do-we-need-Flask-Celery-and-Redis-w
+
+** In the next section, we’ll discuss the various components of Mcdonald’s task queue and how they map to the three technologies above.
 ## Diving into Mcdonald’s Task Queue
 In the Mcdonalds near our office, there are three major components that are in play:
 - **The *Ate*/*Kuya* cashier**: they’re the ones who talk to customers, take their orders, and give them their reference numbers *(remember that in the Mcdo near our apartment, they’re also the ones who prepares the meal, which is inefficient)*.

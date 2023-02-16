@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Collecting-data-from-a-leaflet-map-with-flask-St
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Collecting-data-from-a-leaflet-map-with-flask-St
 ---
 
-# Collecting-data-from-a-leaflet-map-with-flask-St# Collecting data from a leaflet map with flask - Stack Overflow
+# Collecting-data-from-a-leaflet-map-with-flask-St
+
+# Collecting data from a leaflet map with flask - Stack Overflow
 Created: February 27, 2020 2:27 PM
 URL: https://stackoverflow.com/questions/52172010/collecting-data-from-a-leaflet-map-with-flask
 !

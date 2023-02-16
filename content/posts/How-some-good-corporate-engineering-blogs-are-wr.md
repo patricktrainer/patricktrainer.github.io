@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: How-some-good-corporate-engineering-blogs-are-wr
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: How-some-good-corporate-engineering-blogs-are-wr
 ---
 
-# How-some-good-corporate-engineering-blogs-are-wr# How (some) good corporate engineering blogs are written
+# How-some-good-corporate-engineering-blogs-are-wr
+
+# How (some) good corporate engineering blogs are written
 Created: March 29, 2020 8:56 AM
 URL: https://danluu.com/corp-eng-blogs/
 I've been comparing notes with people who run corporate engineering blogs and one thing that I think is curious is that it's pretty common for my personal blog to get more traffic than the entire corp eng blog for a company with a nine to ten figure valuation and it's not uncommon for my blog to get an order of magnitude more traffic.

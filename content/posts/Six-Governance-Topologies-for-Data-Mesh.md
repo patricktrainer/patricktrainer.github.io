@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Six-Governance-Topologies-for-Data-Mesh
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Six-Governance-Topologies-for-Data-Mesh
 ---
 
-# Six-Governance-Topologies-for-Data-Mesh# Six Governance Topologies for Data Mesh
+# Six-Governance-Topologies-for-Data-Mesh
+
+# Six Governance Topologies for Data Mesh
 Created: December 15, 2022 9:12 PM
 URL: https://www.infoq.com/news/2022/06/data-mesh-topologies/
 Piethein Strengholt, author of *Data Management at Scale*, recently published an article presenting [six data-mesh governance topologies and domain granularity](https://towardsdatascience.com/data-mesh-topologies-and-domain-granularity-65290a4ebb90).

@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Picture-hanging-knot-for-a-picture-frame-UK-Pict
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Picture-hanging-knot-for-a-picture-frame-UK-Pict
 ---
 
-# Picture-hanging-knot-for-a-picture-frame-UK-Pict# Picture hanging knot (for a picture frame) | UK Picture Framing Supplies Blog
+# Picture-hanging-knot-for-a-picture-frame-UK-Pict
+
+# Picture hanging knot (for a picture frame) | UK Picture Framing Supplies Blog
 Created: May 22, 2020 4:17 PM
 URL: http://blog.ukpictureframingsupplies.co.uk/picture-framing-information/picture-framing-a-picture-cord-knot/
 A commonly asked question is what picture cord knot works best for hanging a picture frame?

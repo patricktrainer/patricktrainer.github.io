@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Glossary-of-tags-I-m-using-and-why-they-matter-to
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Glossary-of-tags-I-m-using-and-why-they-matter-to
 ---
 
-# Glossary-of-tags-I-m-using-and-why-they-matter-to# Glossary of tags I'm using and why they matter to me | Mildly entertainingᵝ
+# Glossary-of-tags-I-m-using-and-why-they-matter-to
+
+# Glossary of tags I'm using and why they matter to me | Mildly entertainingᵝ
 Created: January 28, 2020 12:33 AM
 Tags: Productivity, Self
 URL: https://beepb00p.xyz/tags.html

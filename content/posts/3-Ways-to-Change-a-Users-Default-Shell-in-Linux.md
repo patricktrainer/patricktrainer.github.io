@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: 3-Ways-to-Change-a-Users-Default-Shell-in-Linux
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: 3-Ways-to-Change-a-Users-Default-Shell-in-Linux
 ---
 
-# 3-Ways-to-Change-a-Users-Default-Shell-in-Linux# 3 Ways to Change a Users Default Shell in Linux
+# 3-Ways-to-Change-a-Users-Default-Shell-in-Linux
+
+# 3 Ways to Change a Users Default Shell in Linux
 Created: April 26, 2020 11:45 PM
 URL: https://www.tecmint.com/change-a-users-default-shell-in-linux/
 In this article, we will describe how to change a user’s shell in Linux.

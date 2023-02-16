@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: The-COVID-Tracking-Project-Homepage
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: The-COVID-Tracking-Project-Homepage
 ---
 
-# The-COVID-Tracking-Project-Homepage[card.png](The%20COVID%20Tracking%20Project%20-%20Homepage%20915c87be1dc848f79a7f9d63ff8a3d39/card.png)
+# The-COVID-Tracking-Project-Homepage
+
+[card.png](The%20COVID%20Tracking%20Project%20-%20Homepage%20915c87be1dc848f79a7f9d63ff8a3d39/card.png)
 The COVID Tracking Project collects information from 50 US states, the District of Columbia, and 5 other US territories to provide the most comprehensive testing data we can collect for the novel coronavirus, SARS-CoV-2.
 We attempt to include **positive and negative results**, **pending tests**, and **total people tested for** each state or district currently reporting that data.
 From here, you can also [learn about our methodology](https://covidtracking.com/about-tracker/), [see who makes this](https://covidtracking.com/about-team/), and [find out what information states provide and how we handle it](https://covidtracking.com/notes/).

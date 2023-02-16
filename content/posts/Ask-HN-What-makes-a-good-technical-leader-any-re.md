@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Ask-HN-What-makes-a-good-technical-leader-any-re
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Ask-HN-What-makes-a-good-technical-leader-any-re
 ---
 
-# Ask-HN-What-makes-a-good-technical-leader-any-re# Ask HN: What makes a good technical leader – any recommended books?
+# Ask-HN-What-makes-a-good-technical-leader-any-re
+
+# Ask HN: What makes a good technical leader – any recommended books?
 | Hacker News
 Created: July 7, 2020 12:51 PM
 Tags: Leadership, Technical writing

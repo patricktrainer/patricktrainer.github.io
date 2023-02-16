@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Getting-Ramped-Up-on-Airflow-with-MySQL-S3-Red
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Getting-Ramped-Up-on-Airflow-with-MySQL-S3-Red
 ---
 
-# Getting-Ramped-Up-on-Airflow-with-MySQL-S3-Red# Getting Ramped-Up on Airflow with MySQL → S3 → Redshift - By Austin Gibbons
+# Getting-Ramped-Up-on-Airflow-with-MySQL-S3-Red
+
+# Getting Ramped-Up on Airflow with MySQL → S3 → Redshift - By Austin Gibbons
 Created: January 28, 2020 8:06 PM
 Tags: Data
 URL: https://hackernoon.com/getting-ramped-up-on-airflow-with-mysql-s3-redshift-defcc4522c8c

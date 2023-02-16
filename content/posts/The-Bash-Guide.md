@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: The-Bash-Guide
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: The-Bash-Guide
 ---
 
-# The-Bash-Guide# The Bash Guide
+# The-Bash-Guide
+
+# The Bash Guide
 Created: March 21, 2020 10:12 PM
 URL: https://guide.bash.academy/
 This guide is an introduction to basic and advanced concepts of the bash shell.

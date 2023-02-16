@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: The-five-minute-feedback-fix
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: The-five-minute-feedback-fix
 ---
 
-# The-five-minute-feedback-fix*
+# The-five-minute-feedback-fix
+
+*
 ### Overview
 The core idea of formal specifications is simple: Create a blueprint of your design, write some properties the blueprint should maintain, and test that you have those properties.
 ### Decision tables

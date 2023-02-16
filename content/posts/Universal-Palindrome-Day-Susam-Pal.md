@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Universal-Palindrome-Day-Susam-Pal
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Universal-Palindrome-Day-Susam-Pal
 ---
 
-# Universal-Palindrome-Day-Susam-Pal# Universal Palindrome Day - Susam Pal
+# Universal-Palindrome-Day-Susam-Pal
+
+# Universal Palindrome Day - Susam Pal
 Created: February 3, 2020 9:12 AM
 URL: https://susam.in/blog/universal-palindrome-day/
 There are three popular date formats followed worldwide: big-endian, little-endian, and middle-endian.

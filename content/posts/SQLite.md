@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: SQLite
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: SQLite
 ---
 
-# SQLiteTo put it another way, a recursive common table expression must look like the following:
+# SQLite
+
+To put it another way, a recursive common table expression must look like the following:
 Call the table named by the [cte-table-name](https://www.sqlite.org/syntax/cte-table-name.html) in a recursive common table expression the "recursive table".
 A limit of zero means that no rows are ever added to the recursive table, and a negative limit means an unlimited number of rows may be added to the recursive table.
 The recursive CTE is then used in the final query:

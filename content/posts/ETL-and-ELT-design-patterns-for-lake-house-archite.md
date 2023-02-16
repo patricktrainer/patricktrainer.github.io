@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: ETL-and-ELT-design-patterns-for-lake-house-archite
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: ETL-and-ELT-design-patterns-for-lake-house-archite
 ---
 
-# ETL-and-ELT-design-patterns-for-lake-house-archite# ETL and ELT design patterns for lake house architecture using Amazon Redshift: Part 2 | AWS Big Data Blog
+# ETL-and-ELT-design-patterns-for-lake-house-archite
+
+# ETL and ELT design patterns for lake house architecture using Amazon Redshift: Part 2 | AWS Big Data Blog
 Created: January 28, 2020 8:42 PM
 Tags: Data
 URL: https://aws.amazon.com/blogs/big-data/etl-and-elt-design-patterns-for-lake-house-architecture-using-amazon-redshift-part-2/?nc1=b_rp

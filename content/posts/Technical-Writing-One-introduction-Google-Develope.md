@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Technical-Writing-One-introduction-Google-Develope
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Technical-Writing-One-introduction-Google-Develope
 ---
 
-# Technical-Writing-One-introduction-Google-Develope# Technical Writing One introduction | Google Developers
+# Technical-Writing-One-introduction-Google-Develope
+
+# Technical Writing One introduction | Google Developers
 Created: March 29, 2020 9:16 AM
 Tags: Communication, Technical writing
 URL: https://developers.google.com/tech-writing/one

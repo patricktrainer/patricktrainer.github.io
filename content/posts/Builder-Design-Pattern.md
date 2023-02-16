@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Builder-Design-Pattern
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Builder-Design-Pattern
 ---
 
-# Builder-Design-Pattern# Builder Design Pattern
+# Builder-Design-Pattern
+
+# Builder Design Pattern
 Created: June 16, 2020 2:18 PM
 URL: https://sourcemaking.com/design_patterns/builder
 !

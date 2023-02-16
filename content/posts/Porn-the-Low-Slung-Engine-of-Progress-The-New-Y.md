@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Porn-the-Low-Slung-Engine-of-Progress-The-New-Y
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Porn-the-Low-Slung-Engine-of-Progress-The-New-Y
 ---
 
-# Porn-the-Low-Slung-Engine-of-Progress-The-New-YThe erotic technological impulse dates back at least to some of the earliest works of art, the so-called Venus figurines of women with exaggerated breasts and buttocks, which were made by firing clay 27,000 years ago -- 15 millenniums before ceramics technology was used for anything utilitarian like pots.
+# Porn-the-Low-Slung-Engine-of-Progress-The-New-Y
+
+The erotic technological impulse dates back at least to some of the earliest works of art, the so-called Venus figurines of women with exaggerated breasts and buttocks, which were made by firing clay 27,000 years ago -- 15 millenniums before ceramics technology was used for anything utilitarian like pots.
 Government regulation kept sex off radio and television airwaves, but eventually pornographers helped establish new audio and visual technologies for getting into the home.
 The feisty academic Camille Paglia has argued in her book "Sexual Personae" that developments in art and technology are related to the male sex drive: "Phallic aggression and projection are intrinsic to Western conceptualization.
 "

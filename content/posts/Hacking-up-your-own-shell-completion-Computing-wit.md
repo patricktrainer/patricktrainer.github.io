@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Hacking-up-your-own-shell-completion-Computing-wit
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Hacking-up-your-own-shell-completion-Computing-wit
 ---
 
-# Hacking-up-your-own-shell-completion-Computing-witI’ve often used `fzf` as a file finder, you can simply run something like `git ls-files | fzf`, and pass the output to your editor, and you’ve already made a git aware fuzzy file finder, running this inside your editor like [fzf-vim](https://github.com/junegunn/fzf.vim) makes this even more powerful.
+# Hacking-up-your-own-shell-completion-Computing-wit
+
+I’ve often used `fzf` as a file finder, you can simply run something like `git ls-files | fzf`, and pass the output to your editor, and you’ve already made a git aware fuzzy file finder, running this inside your editor like [fzf-vim](https://github.com/junegunn/fzf.vim) makes this even more powerful.
 One quick solution to our `doer` problem is to write a bash script like this:
 ```
 #!/bin/bash

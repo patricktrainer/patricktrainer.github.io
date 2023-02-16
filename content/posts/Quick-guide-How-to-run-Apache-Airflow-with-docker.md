@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Quick-guide-How-to-run-Apache-Airflow-with-docker
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Quick-guide-How-to-run-Apache-Airflow-with-docker
 ---
 
-# Quick-guide-How-to-run-Apache-Airflow-with-dockerWe will create a docker-compose file with:
+# Quick-guide-How-to-run-Apache-Airflow-with-docker
+
+We will create a docker-compose file with:
 - airflow webserver
 - airflow scheduler (with LocalExecutor)
 - PostgreSQL DB (we will use it as DB for Airflow)

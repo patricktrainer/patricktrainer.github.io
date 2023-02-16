@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: So-the-time-value-of-money-is-more-or-less-zero-no
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: So-the-time-value-of-money-is-more-or-less-zero-no
 ---
 
-# So-the-time-value-of-money-is-more-or-less-zero-no# So the time value of money is more or less zero now and loan rates depend much m... | Hacker News
+# So-the-time-value-of-money-is-more-or-less-zero-no
+
+# So the time value of money is more or less zero now and loan rates depend much m... | Hacker News
 Created: March 31, 2020 11:00 AM
 URL: https://news.ycombinator.com/item?id=22738370
 So the time value of money is more or less zero now and loan rates depend much more on default risk than any opportunity cost in loaning the money.

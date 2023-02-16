@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Adding-Faust-to-your-Existing-Architecture-Robin
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Adding-Faust-to-your-Existing-Architecture-Robin
 ---
 
-# Adding-Faust-to-your-Existing-Architecture-Robin# Adding Faust to your Existing Architecture - Robinhood Engineering
+# Adding-Faust-to-your-Existing-Architecture-Robin
+
+# Adding Faust to your Existing Architecture - Robinhood Engineering
 Created: June 12, 2020 10:58 PM
 URL: https://robinhood.engineering/adding-faust-to-your-existing-architecture-39b0ebd1f7c9
 A few weeks ago we [open sourced](https://robinhood.engineering/faust-stream-processing-for-python-a66d3a51212d) [Faust](https://github.com/robinhood/faust), a Python stream processing library that we built at [Robinhood](https://robinhood.com/) to make it extremely easy to build and deploy traditionally complex streaming architectures.

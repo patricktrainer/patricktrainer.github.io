@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: YCAdvice
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: YCAdvice
 ---
 
-# YCAdvice# YCAdvice
+# YCAdvice
+
+# YCAdvice
 Created: March 28, 2020 9:22 AM
 URL: https://ycadvice.com/
 Kevin Hale on how investors think about ideas.

@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Building-Analytics-at-500px-Samson-Hu-Medium
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Building-Analytics-at-500px-Samson-Hu-Medium
 ---
 
-# Building-Analytics-at-500px-Samson-Hu-MediumA place where:
+# Building-Analytics-at-500px-Samson-Hu-Medium
+
+A place where:
 - Everyone understands company metrics and knows how their work fits into the measurement framework
 - We measure the impact of decisions and acknowledge their success or failure
 - Teams use self service tools to answer their own questions with data

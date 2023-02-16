@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Using-Docker-to-explore-Airflow-and-other-open-sou
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Using-Docker-to-explore-Airflow-and-other-open-sou
 ---
 
-# Using-Docker-to-explore-Airflow-and-other-open-sou# Using Docker to explore Airflow and other open source projects
+# Using-Docker-to-explore-Airflow-and-other-open-sou
+
+# Using Docker to explore Airflow and other open source projects
 Created: January 30, 2020 12:17 PM
 URL: https://medium.com/@segal.levi/using-docker-to-explore-airflow-and-other-open-source-projects-e6349ffadf5a
 I’m in love with the idea that open source software has, and will continue to, change the world as we know it.

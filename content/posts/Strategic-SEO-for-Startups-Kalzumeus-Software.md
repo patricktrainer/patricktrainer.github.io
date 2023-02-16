@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Strategic-SEO-for-Startups-Kalzumeus-Software
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Strategic-SEO-for-Startups-Kalzumeus-Software
 ---
 
-# Strategic-SEO-for-Startups-Kalzumeus-Software## Why Startup SEO Is Different
+# Strategic-SEO-for-Startups-Kalzumeus-Software
+
+## Why Startup SEO Is Different
 Essentially every business on the Internet from multi-billion dollar giants like Bank of America down to a one-man software business is dependent on SEO, because Google has become the primary navigation tool for the Internet.
 This is partially because search engine spam is indeed a problem and partially because Google is very good at influencing the culture of technically adept people, and it is in Google’s best interest to make people think that their algorithms are the authoritative voice of God.
 ## SEO Is A Feedback Loop

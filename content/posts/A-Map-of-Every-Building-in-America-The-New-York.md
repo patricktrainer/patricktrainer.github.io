@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: A-Map-of-Every-Building-in-America-The-New-York
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: A-Map-of-Every-Building-in-America-The-New-York
 ---
 
-# A-Map-of-Every-Building-in-America-The-New-York# A Map of Every Building in America - The New York Times
+# A-Map-of-Every-Building-in-America-The-New-York
+
+# A Map of Every Building in America - The New York Times
 Created: December 4, 2019 10:25 AM
 Tags: Data, Maps
 URL: https://www.nytimes.com/interactive/2018/10/12/us/map-of-every-building-in-the-united-states.html

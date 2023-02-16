@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Data-Engineer-Auth0
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Data-Engineer-Auth0
 ---
 
-# Data-Engineer-Auth0N+1 > N.
+# Data-Engineer-Auth0
+
+N+1 > N.
 The Data engineer will help build, scale and maintain the entire data platform.
 The ideal candidate will have a deep technical understanding, hands-on experience in distributed computing, big data, ETL, dimensional modeling , columnar databases and data visualization.
 This job plays a key role in data infrastructure, analytics projects, and systems design and development.

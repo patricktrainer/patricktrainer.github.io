@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Medical-Care-of-Neonatal-Kittens-Ontario-Shelter
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Medical-Care-of-Neonatal-Kittens-Ontario-Shelter
 ---
 
-# Medical-Care-of-Neonatal-Kittens-Ontario-Shelter### Nursing: Watch out for too much of a good thing
+# Medical-Care-of-Neonatal-Kittens-Ontario-Shelter
+
+### Nursing: Watch out for too much of a good thing
 It may seem really obvious, but kitten carers often think that if a kitten is constantly nursing from the queen, all must be well.
 [Medical%20Care%20of%20Neonatal%20Kittens%20-%20Ontario%20Shelter%20571e024c67844e75b5d4773072420d3d/Kitten-incubator-1-150x150.jpg](Medical%20Care%20of%20Neonatal%20Kittens%20-%20Ontario%20Shelter%20571e024c67844e75b5d4773072420d3d/Kitten-incubator-1-150x150.jpg)
 *DIY kitten incubator (Courtesy: Linda Jacobson, Toronto Humane Society)*

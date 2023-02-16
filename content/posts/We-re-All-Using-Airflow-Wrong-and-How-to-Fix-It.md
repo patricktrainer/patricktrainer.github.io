@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: We-re-All-Using-Airflow-Wrong-and-How-to-Fix-It
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: We-re-All-Using-Airflow-Wrong-and-How-to-Fix-It
 ---
 
-# We-re-All-Using-Airflow-Wrong-and-How-to-Fix-ItWhen a DAG is executed, the Worker will execute the work of each Operator, whether it is an HTTPOperator, a BigQueryOperator, or any other Operator, on the Airflow worker itself.
+# We-re-All-Using-Airflow-Wrong-and-How-to-Fix-It
+
+When a DAG is executed, the Worker will execute the work of each Operator, whether it is an HTTPOperator, a BigQueryOperator, or any other Operator, on the Airflow worker itself.
 The DAG for this workflow would look something like this:
 First, because each step of this DAG is a different functional task, each step is created using a different Airflow Operator.
 Developer after developer moved a previously-working workflow over to Airflow only to have it brought down by an issue with an Airflow Operator itself.

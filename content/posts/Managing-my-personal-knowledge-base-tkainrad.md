@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Managing-my-personal-knowledge-base-tkainrad
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Managing-my-personal-knowledge-base-tkainrad
 ---
 
-# Managing-my-personal-knowledge-base-tkainradSome examples of well-suited Chrome bookmarks:
+# Managing-my-personal-knowledge-base-tkainrad
+
+Some examples of well-suited Chrome bookmarks:
 - AWS EC2 dashboard
 - Google cloud platform console
 - Slack workspaces

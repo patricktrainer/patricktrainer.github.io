@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: The-Art-of-Bargaining-Positional-vs-Interest-Base
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: The-Art-of-Bargaining-Positional-vs-Interest-Base
 ---
 
-# The-Art-of-Bargaining-Positional-vs-Interest-Base# The Art of Bargaining, Positional vs Interest-Based Negotiation
+# The-Art-of-Bargaining-Positional-vs-Interest-Base
+
+# The Art of Bargaining, Positional vs Interest-Based Negotiation
 Created: December 11, 2019 7:27 PM
 Tags: Negotiation, Self
 URL: https://f3fundit.com/the-art-of-bargaining-positional-vs-interest-based-negotiation/

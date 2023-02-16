@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: A-Beginner-s-Guide-to-Data-Engineering-Part-II
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: A-Beginner-s-Guide-to-Data-Engineering-Part-II
 ---
 
-# A-Beginner-s-Guide-to-Data-Engineering-Part-IIFrom collecting raw data and building data warehouses to applying Machine Learning, we saw why data engineering plays a critical role in all of these areas.
+# A-Beginner-s-Guide-to-Data-Engineering-Part-II
+
+From collecting raw data and building data warehouses to applying Machine Learning, we saw why data engineering plays a critical role in all of these areas.
 First, I will introduce the concept of **Data Modeling**, a design process where one carefully defines table schemas and data relations to capture business metrics and dimensions.
 **
 ## Data Modeling, Normalization, and Star Schema

@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Tell-HN-How-to-run-a-startup-for-6-a-year-Hacker
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Tell-HN-How-to-run-a-startup-for-6-a-year-Hacker
 ---
 
-# Tell-HN-How-to-run-a-startup-for-6-a-year-Hacker# Tell HN: How to run a startup for $6 a year | Hacker News
+# Tell-HN-How-to-run-a-startup-for-6-a-year-Hacker
+
+# Tell HN: How to run a startup for $6 a year | Hacker News
 Created: July 20, 2020 2:17 AM
 URL: https://news.ycombinator.com/item?id=22354060
 Use this stack.

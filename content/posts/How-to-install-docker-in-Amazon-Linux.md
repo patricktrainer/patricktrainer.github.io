@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: How-to-install-docker-in-Amazon-Linux
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: How-to-install-docker-in-Amazon-Linux
 ---
 
-# How-to-install-docker-in-Amazon-Linux# How to install docker in Amazon Linux
+# How-to-install-docker-in-Amazon-Linux
+
+# How to install docker in Amazon Linux
 Created: June 13, 2020 12:14 AM
 URL: https://www.lewuathe.com/how-to-install-docker-in-amazon-linux.html
 !

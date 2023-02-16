@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: OODA-loop-Wikipedia
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: OODA-loop-Wikipedia
 ---
 
-# OODA-loop-Wikipedia[OODA%20loop%20-%20Wikipedia%207586e3c43c104f478b528198e05ac5f3/500px-OODA.Boyd.svg.png](OODA%20loop%20-%20Wikipedia%207586e3c43c104f478b528198e05ac5f3/500px-OODA.Boyd.svg.png)
+# OODA-loop-Wikipedia
+
+[OODA%20loop%20-%20Wikipedia%207586e3c43c104f478b528198e05ac5f3/500px-OODA.Boyd.svg.png](OODA%20loop%20-%20Wikipedia%207586e3c43c104f478b528198e05ac5f3/500px-OODA.Boyd.svg.png)
 Diagram of the OODA loop
 The **OODA loop** is the cycle observe–orient–decide–act, developed by [military strategist](https://en.wikipedia.org/wiki/Military_strategy) and [United States Air Force](https://en.wikipedia.org/wiki/United_States_Air_Force) Colonel [John Boyd](https://en.wikipedia.org/wiki/John_Boyd_(military_strategist)).
 It is especially applicable to cyber security and cyberwarfare [[1]](https://en.wikipedia.org/wiki/OODA_loop)

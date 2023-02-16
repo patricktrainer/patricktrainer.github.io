@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: American-Trestle-Table-Popular-Woodworking-Magazin
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: American-Trestle-Table-Popular-Woodworking-Magazin
 ---
 
-# American-Trestle-Table-Popular-Woodworking-Magazin[American%20Trestle%20Table%20Popular%20Woodworking%20Magazin%2042d9ddc982d540d0983ec53791c56f15/American_Trestle_Table_Page_1_Image_0001-300x237.jpg](American%20Trestle%20Table%20Popular%20Woodworking%20Magazin%2042d9ddc982d540d0983ec53791c56f15/American_Trestle_Table_Page_1_Image_0001-300x237.jpg)
+# American-Trestle-Table-Popular-Woodworking-Magazin
+
+[American%20Trestle%20Table%20Popular%20Woodworking%20Magazin%2042d9ddc982d540d0983ec53791c56f15/American_Trestle_Table_Page_1_Image_0001-300x237.jpg](American%20Trestle%20Table%20Popular%20Woodworking%20Magazin%2042d9ddc982d540d0983ec53791c56f15/American_Trestle_Table_Page_1_Image_0001-300x237.jpg)
 *One of the oldest designs for a dining table is also one of the most highly engineered and contemporary.
 Still, despite their spare charm and long history, there are some things about the dimensions of trestle tables that don’t conform to our typical expectations for tables.
 [American%20Trestle%20Table%20Popular%20Woodworking%20Magazin%2042d9ddc982d540d0983ec53791c56f15/American_Trestle_Table_Page_2_Image_0001-150x150.jpg](American%20Trestle%20Table%20Popular%20Woodworking%20Magazin%2042d9ddc982d540d0983ec53791c56f15/American_Trestle_Table_Page_2_Image_0001-150x150.jpg)

@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Building-a-simple-VPN-with-WireGuard-with-a-Raspbe
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Building-a-simple-VPN-with-WireGuard-with-a-Raspbe
 ---
 
-# Building-a-simple-VPN-with-WireGuard-with-a-Raspbe# Building a simple VPN with WireGuard with a Raspberry Pi as Server // Andreas Happe
+# Building-a-simple-VPN-with-WireGuard-with-a-Raspbe
+
+# Building a simple VPN with WireGuard with a Raspberry Pi as Server // Andreas Happe
 Created: January 30, 2020 9:07 AM
 Tags: Projects, Tech
 URL: https://snikt.net/blog/2020/01/29/building-a-simple-vpn-with-wireguard-with-a-raspberry-pi-as-server/

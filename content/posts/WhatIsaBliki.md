@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: WhatIsaBliki
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: WhatIsaBliki
 ---
 
-# WhatIsaBliki# WhatIsaBliki
+# WhatIsaBliki
+
+# WhatIsaBliki
 Created: June 7, 2020 3:15 PM
 URL: https://martinfowler.com/bliki/WhatIsaBliki.html
 I've been watching the blog scene develop for a while, and it's impossible to not want to join in.

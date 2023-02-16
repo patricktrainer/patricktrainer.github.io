@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: Odds-Algorithm
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: Odds-Algorithm
 ---
 
-# Odds-Algorithm# Odds Algorithm
+# Odds-Algorithm
+
+# Odds Algorithm
 Created: December 7, 2019 10:57 PM
 Tags: Data, Statistics
 URL: https://en.m.wikipedia.org/wiki/Odds_algorithm

@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: DISTINCT-ON-The-confusing-unique-and-useful-featu
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: DISTINCT-ON-The-confusing-unique-and-useful-featu
 ---
 
-# DISTINCT-ON-The-confusing-unique-and-useful-featu**
+# DISTINCT-ON-The-confusing-unique-and-useful-featu
+
+**
 > The DISTINCT ON clause will only return the first row based on the DISTINCT ON(column) and ORDER BY clause provided in the query.
 ### Is there any difference between the results of DISTINCT and DISTINCT ON queries?
 [DISTINCT%20ON%20The%20confusing,%20unique%20and%20useful%20featu%200254dbd04e6143d5af762bdaf289732b/distinct-on-query-output-yogesh-chauhan-1.jpg](DISTINCT%20ON%20The%20confusing,%20unique%20and%20useful%20featu%200254dbd04e6143d5af762bdaf289732b/distinct-on-query-output-yogesh-chauhan-1.jpg)

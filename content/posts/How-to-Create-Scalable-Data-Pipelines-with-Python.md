@@ -1,12 +1,13 @@
 ---
- 	layout: post
- 	title: How-to-Create-Scalable-Data-Pipelines-with-Python
- 	date: 2021-01-01
- 	draft: false
- 	tags: []
+date: '2021-01-01'
+draft: false
+tags: '[]'
+title: How-to-Create-Scalable-Data-Pipelines-with-Python
 ---
 
-# How-to-Create-Scalable-Data-Pipelines-with-PythonThe definition of the message structure is available [online](https://www.mediawiki.org/wiki/Manual:RCFeed), but here’s a sample message:
+# How-to-Create-Scalable-Data-Pipelines-with-Python
+
+The definition of the message structure is available [online](https://www.mediawiki.org/wiki/Manual:RCFeed), but here’s a sample message:
 ```
 event: message
 id: [{"topic":"eqiad.mediawiki.recentchange","partition":0,"timestamp":1532031066001},{"topic":"codfw.mediawiki.recentchange","partition":0,"offset":-1}]data: {"event": "data", "is": "here"}
