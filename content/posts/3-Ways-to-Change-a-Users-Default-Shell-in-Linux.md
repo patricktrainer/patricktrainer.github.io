@@ -1,7 +1,6 @@
 ---
-date: '2021-01-01'
+date: '2023-02-16'
 draft: false
-tags: '[]'
 title: 3-Ways-to-Change-a-Users-Default-Shell-in-Linux
 ---
 

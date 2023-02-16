@@ -1,7 +1,6 @@
 ---
-date: '2021-01-01'
+date: '2023-02-16'
 draft: false
-tags: '[]'
 title: Creating-Data-Vault-Point-In-Time-and-Dimension-ta
 ---
 

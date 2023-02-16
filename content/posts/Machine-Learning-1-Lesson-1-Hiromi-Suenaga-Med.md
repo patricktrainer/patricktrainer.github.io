@@ -1,7 +1,6 @@
 ---
-date: '2021-01-01'
+date: '2023-02-16'
 draft: false
-tags: '[]'
 title: Machine-Learning-1-Lesson-1-Hiromi-Suenaga-Med
 ---
 

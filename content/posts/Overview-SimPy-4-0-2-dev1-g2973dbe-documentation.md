@@ -1,7 +1,6 @@
 ---
-date: '2021-01-01'
+date: '2023-02-16'
 draft: false
-tags: '[]'
 title: Overview-SimPy-4-0-2-dev1-g2973dbe-documentation
 ---
 
