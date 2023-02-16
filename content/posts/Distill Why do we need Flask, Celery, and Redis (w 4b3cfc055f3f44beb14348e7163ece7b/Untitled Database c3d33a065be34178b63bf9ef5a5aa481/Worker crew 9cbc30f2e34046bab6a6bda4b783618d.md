@@ -1,4 +1,0 @@
-# Worker crew
-
-?: ?
-Client: Worker

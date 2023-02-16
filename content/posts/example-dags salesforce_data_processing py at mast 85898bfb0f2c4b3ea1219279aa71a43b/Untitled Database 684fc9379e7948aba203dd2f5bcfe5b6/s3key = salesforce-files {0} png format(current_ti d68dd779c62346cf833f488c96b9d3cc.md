@@ -1,1 +1,0 @@
-# s3key = "salesforce-files/{0}.png".format(current_time)

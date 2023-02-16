@@ -1,1 +1,0 @@
-# new_results.append("*_{0}_*: {1}".format(i[0],i[1]))

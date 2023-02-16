@@ -1,1 +1,0 @@
-# path = 'https://s3.amazonaws.com/example-bucket/{0}'.format(s3key)

@@ -1,1 +1,0 @@
-# current_time = datetime.fromtimestamp(time.time()).strftime('%Y%m%d%H%M%S')
