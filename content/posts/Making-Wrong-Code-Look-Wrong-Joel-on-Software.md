@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Making-Wrong-Code-Look-Wrong-Joel-on-Software
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Making-Wrong-Code-Look-Wrong-Joel-on-Software
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Making-Wrong-Code-Look-Wrong-Joel-on-Software# Making Wrong Code Look Wrong – Joel on Software
 Created: May 20, 2021 3:30 AM
 URL: https://www.joelonsoftware.com/2005/05/11/making-wrong-code-look-wrong/

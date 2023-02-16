@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: The-Anatomy-of-a-Great-Decision
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: The-Anatomy-of-a-Great-Decision
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # The-Anatomy-of-a-Great-Decision# The Anatomy of a Great Decision
 Created: February 21, 2020 12:17 PM
 URL: https://fs.blog/2019/04/decision-anatomy/

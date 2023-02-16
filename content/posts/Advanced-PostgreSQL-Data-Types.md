@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Advanced-PostgreSQL-Data-Types
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Advanced-PostgreSQL-Data-Types
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Advanced-PostgreSQL-Data-TypesThe implementation may vary somewhat between systems, but generally there are standard ways you’ll want to process and analyze these types of data (e.g. perform mathematical calculations, find the length of a character string, cast from one type to another, etc).
 ### Array type
 Arrays are likely something familiar, but in case you’re new to programming: it’s a data type meant to hold a collection of things.

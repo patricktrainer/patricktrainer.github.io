@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: How-to-Implement-a-Secure-Central-Authentication-S
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: How-to-Implement-a-Secure-Central-Authentication-S
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # How-to-Implement-a-Secure-Central-Authentication-S[How%20to%20Implement%20a%20Secure%20Central%20Authentication%20S%2062529fc47abc4199930b2db48f5fcd28/002_Shop_isolation_of_users_2x_e46bda9c-6859-4248-86c3-a696f7281e63.jpg](How%20to%20Implement%20a%20Secure%20Central%20Authentication%20S%2062529fc47abc4199930b2db48f5fcd28/002_Shop_isolation_of_users_2x_e46bda9c-6859-4248-86c3-a696f7281e63.jpg)
 Shop isolation of users
 # Modelling User Accounts Within Identity

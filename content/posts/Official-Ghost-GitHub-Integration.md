@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Official-Ghost-GitHub-Integration
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Official-Ghost-GitHub-Integration
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Official-Ghost-GitHub-Integration# Official Ghost + GitHub Integration
 Created: April 23, 2020 2:28 PM
 URL: https://ghost.org/integrations/github/

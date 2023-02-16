@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: COVID-19-Community-Mobility-Reports
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: COVID-19-Community-Mobility-Reports
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # COVID-19-Community-Mobility-Reports# COVID-19 Community Mobility Reports
 Created: April 3, 2020 12:26 PM
 URL: https://www.google.com/covid19/mobility/

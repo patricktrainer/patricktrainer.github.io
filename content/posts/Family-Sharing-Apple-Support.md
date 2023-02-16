@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Family-Sharing-Apple-Support
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Family-Sharing-Apple-Support
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Family-Sharing-Apple-SupportFamily Sharing makes it easy for up to six family members to share App Store, music, movie, TV, and book purchases, an [Apple Music Family Subscription](https://support.apple.com/kb/HT205595), an [Apple Arcade subscription](https://support.apple.com/kb/HT210112), an [Apple News+ subscription](https://support.apple.com/kb/HT209513), an [Apple TV+ subscription](https://support.apple.com/kb/HT210627), and an [iCloud storage plan](https://support.apple.com/kb/HT208147) — all without sharing each other's Apple accounts.
 You can also set up Family Sharing on your iPhone, iPad, or iPod touch when you sign up for an Apple Music Family Subscription, an Apple Arcade subscription, an Apple News+ subscription, an Apple TV+ subscription, or when you buy an iCloud storage plan to share with your family.
 With Family Sharing, you can share an [Apple Music Family Subscription](https://support.apple.com/kb/HT205595), an [Apple Arcade subscription](https://support.apple.com/kb/HT210112), an [Apple News+ subscription](https://support.apple.com/kb/HT209513), and an [Apple TV+ subscription](https://support.apple.com/kb/HT210627) — all without sharing each other's accounts.

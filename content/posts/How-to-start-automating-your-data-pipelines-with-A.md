@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: How-to-start-automating-your-data-pipelines-with-A
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: How-to-start-automating-your-data-pipelines-with-A
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # How-to-start-automating-your-data-pipelines-with-A[How%20to%20start%20automating%20your%20data%20pipelines%20with%20A%203357f45d3f42478594e6578a8c435e54/1xbaTpPkyt_Q5czvXTzZ0wQ.png](How%20to%20start%20automating%20your%20data%20pipelines%20with%20A%203357f45d3f42478594e6578a8c435e54/1xbaTpPkyt_Q5czvXTzZ0wQ.png)
 The DAG that we are building using Airflow
 In Airflow, Directed Acyclic Graphs (DAGs) are used to create the workflows.

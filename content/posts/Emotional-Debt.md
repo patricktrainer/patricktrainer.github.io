@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Emotional-Debt
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Emotional-Debt
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Emotional-Debt# Emotional Debt
 Created: April 17, 2020 9:43 PM
 URL: https://news.ycombinator.com/item?id=22875923

@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Flask-and-Firebase-and-Pyrebase-Oh-my-upperlin
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Flask-and-Firebase-and-Pyrebase-Oh-my-upperlin
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Flask-and-Firebase-and-Pyrebase-Oh-my-upperlin## Connecting to your Firebase DB
 To connect to your firebase database, you’ll need to set up a dictionary variable with your configuration data in your `routes.py` file.
 Back to the routes.py file — once you’ve set up your config variable correctly, add the following code underneath:

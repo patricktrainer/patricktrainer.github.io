@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: How-we-scrape-300k-prices-per-day-from-Google-Flig
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: How-we-scrape-300k-prices-per-day-from-Google-Flig
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # How-we-scrape-300k-prices-per-day-from-Google-Flig# How we scrape 300k prices per day from Google Flights
 Created: June 13, 2020 2:23 PM
 URL: https://medium.com/brisk-voyage/how-we-scrape-300k-flight-prices-per-day-from-google-flights-79f5ddbdc4c0

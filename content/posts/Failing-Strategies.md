@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Failing-Strategies
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Failing-Strategies
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Failing-Strategies[Failing%20Strategies%204f40da57c29e4b91ada38c335794c470/nov17-08-135629213-Lobo-Press-1200x675.jpg](Failing%20Strategies%204f40da57c29e4b91ada38c335794c470/nov17-08-135629213-Lobo-Press-1200x675.jpg)
 Many strategy execution processes fail because the firm does not have something worth executing.
 Many strategies fail to get implemented, despite the ample efforts of hard-working people, because they do not represent a set of clear choices.

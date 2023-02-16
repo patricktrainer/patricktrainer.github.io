@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Building-Analytics-at-500px-Samson-Hu-Medium
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Building-Analytics-at-500px-Samson-Hu-Medium
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Building-Analytics-at-500px-Samson-Hu-MediumA place where:
 - Everyone understands company metrics and knows how their work fits into the measurement framework
 - We measure the impact of decisions and acknowledge their success or failure

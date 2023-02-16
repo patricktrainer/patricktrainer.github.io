@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Glitch-Create
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Glitch-Create
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Glitch-Create# Glitch - Create
 Created: May 14, 2021 3:12 AM
 URL: https://glitch.com/create

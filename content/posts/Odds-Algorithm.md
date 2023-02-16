@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Odds-Algorithm
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Odds-Algorithm
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Odds-Algorithm# Odds Algorithm
 Created: December 7, 2019 10:57 PM
 Tags: Data, Statistics

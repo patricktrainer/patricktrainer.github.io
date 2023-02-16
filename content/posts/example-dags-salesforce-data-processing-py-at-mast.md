@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: example-dags-salesforce-data-processing-py-at-mast
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: example-dags-salesforce-data-processing-py-at-mast
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # example-dags-salesforce-data-processing-py-at-mast# example-dags/salesforce_data_processing.py at master · astronomerio-archive/example-dags · GitHub
 Created: February 21, 2020 12:09 PM
 URL: https://github.com/astronomerio-archive/example-dags/blob/master/salesforce_to_slack/salesforce_data_processing.py

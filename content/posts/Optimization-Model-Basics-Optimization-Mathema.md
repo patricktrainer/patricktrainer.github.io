@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Optimization-Model-Basics-Optimization-Mathema
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Optimization-Model-Basics-Optimization-Mathema
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Optimization-Model-Basics-Optimization-MathemaAn Unconstrained optimization problem is an optimization problem where the objective function can be of any kind (linear or nonlinear) and there are no constraints.
 A linear program is an optimization problem with an objective function that is linear in the variables, and all constraints are also linear.
 A quadratic program is an optimization problem with an objective function that is quadratic in the variables (i.e. it may contain squares and cross products of the decision variables), and all constraints are linear.

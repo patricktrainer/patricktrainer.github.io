@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Column-oriented-DBMS
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Column-oriented-DBMS
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Column-oriented-DBMS# Column-oriented DBMS
 Created: April 20, 2020 7:50 AM
 URL: http://people.brandeis.edu/~nga/papers/VLDB05.pdf

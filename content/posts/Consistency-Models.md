@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Consistency-Models
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Consistency-Models
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Consistency-Models# Consistency Models
 Created: June 18, 2020 3:07 PM
 URL: https://jepsen.io/consistency

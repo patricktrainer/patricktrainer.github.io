@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: YC-s-Series-A-Guide
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: YC-s-Series-A-Guide
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # YC-s-Series-A-Guide# YC’s Series A Guide
 Created: February 26, 2020 12:35 PM
 URL: https://blog.ycombinator.com/ycs-series-a-guide/

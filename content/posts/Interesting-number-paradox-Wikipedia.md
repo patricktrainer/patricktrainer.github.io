@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Interesting-number-paradox-Wikipedia
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Interesting-number-paradox-Wikipedia
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Interesting-number-paradox-Wikipedia# Interesting number paradox - Wikipedia
 Created: February 2, 2020 7:56 AM
 URL: https://en.wikipedia.org/wiki/Interesting_number_paradox

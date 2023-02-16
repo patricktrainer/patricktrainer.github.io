@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: 3-Things-to-Avoid-When-Setting-Up-an-Amazon-Redshi
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: 3-Things-to-Avoid-When-Setting-Up-an-Amazon-Redshi
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # 3-Things-to-Avoid-When-Setting-Up-an-Amazon-Redshi# 3 Things to Avoid When Setting Up an Amazon Redshift Cluster | intermix.io
 Created: February 6, 2020 2:11 PM
 URL: https://www.intermix.io/blog/3-mistakes-redshift-setup/

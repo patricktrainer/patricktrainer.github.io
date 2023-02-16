@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Pandas-filtering
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Pandas-filtering
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Pandas-filtering# Pandas filtering
 Created: January 21, 2020 6:43 PM
 Tags: Data

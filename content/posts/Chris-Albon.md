@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Chris-Albon
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Chris-Albon
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Chris-Albon# Chris Albon
 Created: February 21, 2020 12:05 PM
 URL: https://chrisalbon.com/

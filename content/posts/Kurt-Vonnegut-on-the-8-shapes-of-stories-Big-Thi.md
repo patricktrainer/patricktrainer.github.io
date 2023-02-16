@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Kurt-Vonnegut-on-the-8-shapes-of-stories-Big-Thi
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Kurt-Vonnegut-on-the-8-shapes-of-stories-Big-Thi
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Kurt-Vonnegut-on-the-8-shapes-of-stories-Big-Thi# Kurt Vonnegut on the 8 shapes of stories - Big Think
 Created: December 19, 2020 11:30 AM
 URL: https://bigthink.com/culture-religion/vonnegut-shapes

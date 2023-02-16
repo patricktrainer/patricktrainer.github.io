@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: What-is-Next-Architecture-O-Reilly
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: What-is-Next-Architecture-O-Reilly
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # What-is-Next-Architecture-O-Reilly## We’re already there
 Today, many organizations are already thinking and developing software in consonance with Next Architecture’s foundational priorities and principles, even if they are not consciously (or conscientiously) “doing” Next Architecture.
 Next Architecture is likewise premised on the understanding that software (and software architecture) is not merely a digital twin of your business—i.e., its virtual complement or mirror—but *is*, in an essential sense, your business.

@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Your-guide-to-creating-a-website-wireframe-Cacoo
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Your-guide-to-creating-a-website-wireframe-Cacoo
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Your-guide-to-creating-a-website-wireframe-CacooThis guide is useful for:
 - Anyone interested in learning more about UX design,
 - UX Designers just starting their careers,

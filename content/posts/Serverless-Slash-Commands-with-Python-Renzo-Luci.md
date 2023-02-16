@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Serverless-Slash-Commands-with-Python-Renzo-Luci
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Serverless-Slash-Commands-with-Python-Renzo-Luci
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Serverless-Slash-Commands-with-Python-Renzo-Luci# Serverless Slash Commands with Python - Renzo Lucioni
 Created: February 21, 2020 12:03 PM
 URL: https://renzo.lucioni.xyz/serverless-slash-commands-with-python/

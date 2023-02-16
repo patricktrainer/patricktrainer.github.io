@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: JavaScript-Jinja-Flask-Crawford-Collins-Med
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: JavaScript-Jinja-Flask-Crawford-Collins-Med
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # JavaScript-Jinja-Flask-Crawford-Collins-Med# JavaScript, Jinja & Flask - Crawford Collins - Medium
 Created: February 17, 2020 10:14 PM
 URL: https://medium.com/@crawftv/javascript-jinja-flask-b0ebfdb406b3

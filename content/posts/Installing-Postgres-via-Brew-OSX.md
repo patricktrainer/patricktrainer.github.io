@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Installing-Postgres-via-Brew-OSX
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Installing-Postgres-via-Brew-OSX
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Installing-Postgres-via-Brew-OSX# Installing Postgres via Brew (OSX)
 Created: December 5, 2019 4:44 PM
 Tags: Data, How To

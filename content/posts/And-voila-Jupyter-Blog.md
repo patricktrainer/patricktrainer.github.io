@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: And-voila-Jupyter-Blog
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: And-voila-Jupyter-Blog
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # And-voila-Jupyter-BlogThe execution model of voilà is the following: upon connection to a notebook URL, voilà launches the kernel for that notebook, and runs all the cells as it populates the notebook model with the outputs.
 Voilà can render custom Jupyter widget libraries, including (but not limited to) [bqplot](https://github.com/bloomberg/bqplot), [ipyleafet](https://github.com/jupyter-widgets/ipyleaflet), [ipyvolume](https://github.com/maartenbreddels/ipyvolume), [ipympl](https://github.com/matplotlib/jupyter-matplotlib/), [ipysheet](https://github.com/QuantStack/ipysheet), [plotly](https://github.com/plotly/plotly.py), [ipywebrtc](https://github.com/maartenbreddels/ipywebrtc), etc.
 Together with [ipympl](https://github.com/matplotlib/jupyter-matplotlib/), voilà is actually a simple means to render interactive matplotlib figures in a standalone web application:

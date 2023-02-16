@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: 2-How-VC-works-A-Beginner-s-Guide-Simplanatio
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: 2-How-VC-works-A-Beginner-s-Guide-Simplanatio
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # 2-How-VC-works-A-Beginner-s-Guide-SimplanatioVenture capital is the investments of **private capital in private companies**, ie, companies not listed on the stock exchange.
 They are ready to invest in a VC fund because of the high returns expected from it compared to other options they have (public equity markets, debt, real estate, etc).
 - The first 2-3 years, Bala's effort goes into identifying and investing in startups

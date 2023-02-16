@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Quick-Start-Guide-Leaflet-a-JavaScript-library
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Quick-Start-Guide-Leaflet-a-JavaScript-library
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Quick-Start-Guide-Leaflet-a-JavaScript-library# Quick Start Guide - Leaflet - a JavaScript library for interactive maps
 Created: February 15, 2020 8:22 AM
 URL: https://leafletjs.com/examples/quick-start/

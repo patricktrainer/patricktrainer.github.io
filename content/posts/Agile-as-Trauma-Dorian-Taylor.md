@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Agile-as-Trauma-Dorian-Taylor
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Agile-as-Trauma-Dorian-Taylor
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Agile-as-Trauma-Dorian-Taylor# Agile as Trauma — Dorian Taylor
 Created: October 16, 2021 12:37 AM
 URL: https://doriantaylor.com/agile-as-trauma

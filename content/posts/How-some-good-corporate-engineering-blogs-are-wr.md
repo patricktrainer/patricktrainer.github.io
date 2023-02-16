@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: How-some-good-corporate-engineering-blogs-are-wr
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: How-some-good-corporate-engineering-blogs-are-wr
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # How-some-good-corporate-engineering-blogs-are-wr# How (some) good corporate engineering blogs are written
 Created: March 29, 2020 8:56 AM
 URL: https://danluu.com/corp-eng-blogs/

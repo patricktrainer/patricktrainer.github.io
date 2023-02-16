@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Ask-HN-Name-one-idea-that-changed-your-life-Hacker
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Ask-HN-Name-one-idea-that-changed-your-life-Hacker
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Ask-HN-Name-one-idea-that-changed-your-life-Hacker# Ask HN: Name one idea that changed your life | Hacker News
 Created: May 6, 2020 9:25 PM
 URL: https://news.ycombinator.com/item?id=23092657

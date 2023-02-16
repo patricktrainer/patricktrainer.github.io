@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Qwiklabs-Hands-On-Cloud-Training
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Qwiklabs-Hands-On-Cloud-Training
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Qwiklabs-Hands-On-Cloud-Training# Qwiklabs - Hands-On Cloud Training
 Created: February 21, 2020 12:07 PM
 URL: https://google.qwiklabs.com/?qlcampaign=1j-cloud-27

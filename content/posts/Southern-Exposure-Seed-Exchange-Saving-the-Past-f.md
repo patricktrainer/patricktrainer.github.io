@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Southern-Exposure-Seed-Exchange-Saving-the-Past-f
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Southern-Exposure-Seed-Exchange-Saving-the-Past-f
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Southern-Exposure-Seed-Exchange-Saving-the-Past-fPlease note that we are not currently able to keep up with the call volume on our phones.
 If you have a pressing matter, e-mail is a better way to reach us: [gardens@southernexposure.com](mailto:gardens@southernexposure.com)
 If you’re going out for supplies, you may find our seeds in a local [retail store](https://southernexposure.com/retail-stores/).

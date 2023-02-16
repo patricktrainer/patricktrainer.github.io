@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: The-Knapsack-Problem-in-Computer-Science-Explained
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: The-Knapsack-Problem-in-Computer-Science-Explained
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # The-Knapsack-Problem-in-Computer-Science-Explained# The Knapsack Problem in Computer Science Explained | Science | Smithsonian Magazine
 Created: March 9, 2020 8:30 PM
 URL: https://www.smithsonianmag.com/science-nature/why-knapsack-problem-all-around-us-180974333/

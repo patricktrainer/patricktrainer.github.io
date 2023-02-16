@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Valuable-things-in-one-hour
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Valuable-things-in-one-hour
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Valuable-things-in-one-hour# Valuable things in one hour
 Created: January 1, 2020 3:06 PM
 Tags: Self

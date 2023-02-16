@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Compost-Products-REOTEMP-Instruments
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Compost-Products-REOTEMP-Instruments
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Compost-Products-REOTEMP-Instruments# Compost Products - REOTEMP Instruments
 Created: March 7, 2020 9:02 AM
 URL: https://reotemp.com/compost/

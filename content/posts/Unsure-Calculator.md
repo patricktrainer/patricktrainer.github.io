@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Unsure-Calculator
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Unsure-Calculator
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Unsure-Calculator# Unsure Calculator
 Created: April 12, 2020 7:07 PM
 URL: https://filiph.github.io/unsure/

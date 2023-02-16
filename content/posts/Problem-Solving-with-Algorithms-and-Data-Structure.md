@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Problem-Solving-with-Algorithms-and-Data-Structure
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Problem-Solving-with-Algorithms-and-Data-Structure
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Problem-Solving-with-Algorithms-and-Data-Structure# Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
 Created: May 20, 2020 11:23 PM
 URL: https://runestone.academy/runestone/books/published/pythonds/index.html

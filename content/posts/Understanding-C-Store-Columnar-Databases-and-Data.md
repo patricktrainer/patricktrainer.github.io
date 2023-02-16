@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Understanding-C-Store-Columnar-Databases-and-Data
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Understanding-C-Store-Columnar-Databases-and-Data
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Understanding-C-Store-Columnar-Databases-and-Data# Understanding C-Store: Columnar Databases and Data Intensive Analytics
 Created: April 20, 2020 8:26 AM
 URL: https://medium.com/@aakashpydi/understanding-c-store-columnar-databases-and-big-data-analytics-aa669bb60f0

@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Won-t-You-Be-My-Neighbor-Quickly-Finding-Who-is-Ne
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Won-t-You-Be-My-Neighbor-Quickly-Finding-Who-is-Ne
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Won-t-You-Be-My-Neighbor-Quickly-Finding-Who-is-NeIf we want to find the three friends who were closest to us on October 1, 2012 between 7:00am and 9:00am, we could construct a query like this:
 ```
 SELECT visitor, visited_at, geocode

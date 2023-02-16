@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: How-To-Calculate-Cohort-Retention-in-SQL-Sisense
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: How-To-Calculate-Cohort-Retention-in-SQL-Sisense
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # How-To-Calculate-Cohort-Retention-in-SQL-Sisense## **Calculating basic user retention**
 The key to calculating retention is counting users who were active at time #1, then counting how many were active at time #2.
 An easy way to do this in SQL is to left join your user activity table to itself like so:

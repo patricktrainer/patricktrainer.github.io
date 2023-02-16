@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: The-Hardest-Lessons-for-Startups-to-Learn
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: The-Hardest-Lessons-for-Startups-to-Learn
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # The-Hardest-Lessons-for-Startups-to-Learn# The Hardest Lessons for Startups to Learn
 Created: March 28, 2020 9:21 AM
 URL: http://www.paulgraham.com/startuplessons.html

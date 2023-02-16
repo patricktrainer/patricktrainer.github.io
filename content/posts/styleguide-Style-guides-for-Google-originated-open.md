@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: styleguide-Style-guides-for-Google-originated-open
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: styleguide-Style-guides-for-Google-originated-open
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # styleguide-Style-guides-for-Google-originated-openAll new code should contain the following and existing code should be updated to be compatible when possible:
 ```
 from __future__ import absolute_import

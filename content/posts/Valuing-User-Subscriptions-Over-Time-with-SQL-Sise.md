@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Valuing-User-Subscriptions-Over-Time-with-SQL-Sise
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Valuing-User-Subscriptions-Over-Time-with-SQL-Sise
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Valuing-User-Subscriptions-Over-Time-with-SQL-Sise**Starting from the raw data**
 Our primary table is a subscription table that has the company id, plan id, and the start and end dates of each plan:
 This data structure allows us to easily analyze some date slices of our data.

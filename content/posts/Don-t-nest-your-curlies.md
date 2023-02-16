@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Don-t-nest-your-curlies
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Don-t-nest-your-curlies
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Don-t-nest-your-curlies# Don't nest your curlies
 Created: March 6, 2020 10:01 AM
 URL: https://docs.getdbt.com/docs/dont-nest-your-curlies

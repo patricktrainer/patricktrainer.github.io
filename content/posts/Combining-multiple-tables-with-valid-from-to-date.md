@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Combining-multiple-tables-with-valid-from-to-date
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Combining-multiple-tables-with-valid-from-to-date
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Combining-multiple-tables-with-valid-from-to-date# Combining multiple tables with valid from/to date ranges into a single dimension | ORAYLIS
 Created: February 1, 2020 2:17 PM
 URL: https://www.oraylis.de/blog/combining-multiple-tables-with-valid-from-to-date-ranges-into-a-single-dimension

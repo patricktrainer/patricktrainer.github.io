@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: How-to-Speak-How-to-Speak-MIT-OpenCourseWare
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: How-to-Speak-How-to-Speak-MIT-OpenCourseWare
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # How-to-Speak-How-to-Speak-MIT-OpenCourseWare# How to Speak | How to Speak | MIT OpenCourseWare
 Created: April 12, 2020 3:35 PM
 URL: https://ocw.mit.edu/resources/res-tll-005-how-to-speak-january-iap-2018/how-to-speak/index.htm

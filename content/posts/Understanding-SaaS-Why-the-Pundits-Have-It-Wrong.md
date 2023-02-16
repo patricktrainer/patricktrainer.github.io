@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Understanding-SaaS-Why-the-Pundits-Have-It-Wrong
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Understanding-SaaS-Why-the-Pundits-Have-It-Wrong
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Understanding-SaaS-Why-the-Pundits-Have-It-WrongTake a look at the cumulative cash flow for a single customer under a SaaS model — the company doesn’t even break even on that customer until after a year:
 Company A, which is spending $6,000 to acquire the customer and billing them at a rate of $500 per month, doesn’t break even on the customer until month 13.
 **

@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Deploying-Models-with-Flask-And-Docker-datascience
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Deploying-Models-with-Flask-And-Docker-datascience
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Deploying-Models-with-Flask-And-Docker-datascience# Deploying Models with Flask And Docker : datascience
 Created: February 21, 2020 12:04 PM
 URL: https://www.reddit.com/r/datascience/comments/a80y1j/deploying_models_with_flask_and_docker/

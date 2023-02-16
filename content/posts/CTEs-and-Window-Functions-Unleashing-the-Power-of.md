@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: CTEs-and-Window-Functions-Unleashing-the-Power-of
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: CTEs-and-Window-Functions-Unleashing-the-Power-of
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # CTEs-and-Window-Functions-Unleashing-the-Power-ofUltimately you’ll need to read and refer to the PostgreSQL documentation on [Window Functions](http://www.postgresql.org/docs/8.4/static/functions-window.html) and [Window Function Calls](http://www.postgresql.org/docs/8.4/static/sql-expressions.html#SYNTAX-WINDOW-FUNCTIONS), along with the [tutorial](http://www.postgresql.org/docs/8.4/static/tutorial-window.html) when using them in your own queries.
 Window functions are a special class of analytic functions that are applied to windows of rows.
 The frame is another logical concept only used by functions that are relative to the frame (like `first_value` / `last_value`)

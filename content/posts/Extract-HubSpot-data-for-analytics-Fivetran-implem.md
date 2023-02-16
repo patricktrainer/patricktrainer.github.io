@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Extract-HubSpot-data-for-analytics-Fivetran-implem
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Extract-HubSpot-data-for-analytics-Fivetran-implem
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Extract-HubSpot-data-for-analytics-Fivetran-implem# Extract HubSpot data for analytics | Fivetran implementation
 Created: April 18, 2020 6:11 PM
 URL: https://fivetran.com/docs/applications/hubspot

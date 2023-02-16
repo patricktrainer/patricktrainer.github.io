@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: One-Page-Calendar-2020
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: One-Page-Calendar-2020
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # One-Page-Calendar-2020# One Page Calendar 2020
 Created: March 5, 2020 8:11 AM
 URL: https://davebakker.io/onepagecalendar/

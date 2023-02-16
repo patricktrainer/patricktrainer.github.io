@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Bringing-Data-Sources-Together-with-PipelineWise
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Bringing-Data-Sources-Together-with-PipelineWise
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Bringing-Data-Sources-Together-with-PipelineWise# Bringing Data Sources Together with PipelineWise
 Created: December 5, 2019 2:04 PM
 Tags: Data

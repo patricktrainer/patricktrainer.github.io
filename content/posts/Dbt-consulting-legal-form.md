@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Dbt-consulting-legal-form
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Dbt-consulting-legal-form
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Dbt-consulting-legal-form# Dbt consulting legal form
 Created: April 22, 2020 12:11 PM
 URL: https://www.getdbt.com/docs/DataProcessingAddendum.pdf

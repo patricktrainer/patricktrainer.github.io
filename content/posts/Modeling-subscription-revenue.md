@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Modeling-subscription-revenue
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Modeling-subscription-revenue
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Modeling-subscription-revenueThese data points help the business understand the health of your subscriber base, specifically:
 - The health of your subscriber base even when you have seasonality in renewals (since you amortize your revenue over months)
 - The source of revenue changes: new customers, upgrades, downgrades, churns, or reactivations

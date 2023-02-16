@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Building-a-simple-VPN-with-WireGuard-with-a-Raspbe
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Building-a-simple-VPN-with-WireGuard-with-a-Raspbe
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Building-a-simple-VPN-with-WireGuard-with-a-Raspbe# Building a simple VPN with WireGuard with a Raspberry Pi as Server // Andreas Happe
 Created: January 30, 2020 9:07 AM
 Tags: Projects, Tech

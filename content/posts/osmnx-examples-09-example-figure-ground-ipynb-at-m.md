@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: osmnx-examples-09-example-figure-ground-ipynb-at-m
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: osmnx-examples-09-example-figure-ground-ipynb-at-m
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # osmnx-examples-09-example-figure-ground-ipynb-at-m# osmnx-examples/09-example-figure-ground.ipynb at master · gboeing/osmnx-examples
 Created: December 4, 2019 7:28 PM
 [https://github.com/gboeing/osmnx-examples/blob/master/notebooks/09-example-figure-ground.ipynb](https://github.com/gboeing/osmnx-examples/blob/master/notebooks/09-example-figure-ground.ipynb)

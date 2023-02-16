@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Tradeshift-raises-240M-and-appears-to-put-its-exp
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Tradeshift-raises-240M-and-appears-to-put-its-exp
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Tradeshift-raises-240M-and-appears-to-put-its-exp[Tradeshift%20raises%20$240M%20and%20appears%20to%20put%20its%20exp%20a554111d847b4eb08246034ac92257e3/tradeshift.png](Tradeshift%20raises%20$240M%20and%20appears%20to%20put%20its%20exp%20a554111d847b4eb08246034ac92257e3/tradeshift.png)
 [Tradeshift](http://tradeshift.com/) — the startup which set out to disrupt the traditional arena of supply chain payments and marketplaces when it first appeared in 2008 — has today announced a new funding round of $240 million in equity and debt, raised from a combination of existing and new investors.
 The funding will be used to help accelerate its growth and, it says, set the company “on a direct path to profitability in the near future.”

@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: The-Bash-Guide
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: The-Bash-Guide
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # The-Bash-Guide# The Bash Guide
 Created: March 21, 2020 10:12 PM
 URL: https://guide.bash.academy/

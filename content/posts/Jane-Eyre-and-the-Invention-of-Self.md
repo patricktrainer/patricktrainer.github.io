@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Jane-Eyre-and-the-Invention-of-Self
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Jane-Eyre-and-the-Invention-of-Self
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Jane-Eyre-and-the-Invention-of-Self[The actress Joan Fontaine as Jane Eyre in the 1943 film 20TH CENTURY FOX](Jane%20Eyre%20and%20the%20Invention%20of%20Self%20b6a6fbe04f7445a1a9500fc39a802822/Untitled.png)
 The actress Joan Fontaine as Jane Eyre in the 1943 film 20TH CENTURY FOX
 Consider the selfie.

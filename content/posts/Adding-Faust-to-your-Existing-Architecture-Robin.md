@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Adding-Faust-to-your-Existing-Architecture-Robin
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Adding-Faust-to-your-Existing-Architecture-Robin
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Adding-Faust-to-your-Existing-Architecture-Robin# Adding Faust to your Existing Architecture - Robinhood Engineering
 Created: June 12, 2020 10:58 PM
 URL: https://robinhood.engineering/adding-faust-to-your-existing-architecture-39b0ebd1f7c9

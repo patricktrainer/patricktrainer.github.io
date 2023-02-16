@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Do-Things-that-Don-t-Scale
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Do-Things-that-Don-t-Scale
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Do-Things-that-Don-t-Scale# Do Things that Don't Scale
 Created: February 29, 2020 10:50 AM
 URL: http://paulgraham.com/ds.html

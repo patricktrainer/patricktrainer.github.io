@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Fivetran-Makes-NetSuite-s-API-Usable-Fivetran-Blog
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Fivetran-Makes-NetSuite-s-API-Usable-Fivetran-Blog
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Fivetran-Makes-NetSuite-s-API-Usable-Fivetran-Blog# Fivetran Makes NetSuite’s API Usable | Fivetran Blog
 Created: April 20, 2020 1:32 PM
 URL: https://fivetran.com/blog/netsuite-connector-article

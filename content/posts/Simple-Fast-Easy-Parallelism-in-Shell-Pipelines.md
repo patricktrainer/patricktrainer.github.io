@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Simple-Fast-Easy-Parallelism-in-Shell-Pipelines
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Simple-Fast-Easy-Parallelism-in-Shell-Pipelines
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Simple-Fast-Easy-Parallelism-in-Shell-Pipelines# Simple, Fast, Easy Parallelism in Shell Pipelines
 Created: January 12, 2023 9:28 PM
 URL: https://catern.com/posts/pipes.html

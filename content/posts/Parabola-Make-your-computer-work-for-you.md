@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Parabola-Make-your-computer-work-for-you
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Parabola-Make-your-computer-work-for-you
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Parabola-Make-your-computer-work-for-you[Parabola%20-%20Make%20your%20computer%20work%20for%20you%20cacb394ba10143118160ca2654fb9f7e/5dcca6f130b4b1358b962493_broom_icon.png](Parabola%20-%20Make%20your%20computer%20work%20for%20you%20cacb394ba10143118160ca2654fb9f7e/5dcca6f130b4b1358b962493_broom_icon.png)
 Build CRM Workflows
 !

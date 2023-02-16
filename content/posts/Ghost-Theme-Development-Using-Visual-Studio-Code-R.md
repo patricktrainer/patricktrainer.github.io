@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Ghost-Theme-Development-Using-Visual-Studio-Code-R
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Ghost-Theme-Development-Using-Visual-Studio-Code-R
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Ghost-Theme-Development-Using-Visual-Studio-Code-R# Ghost Theme Development Using Visual Studio Code Remote Development With Containers
 Created: April 19, 2020 12:54 PM
 URL: https://geeklearning.io/visual-studio-code-remote-development-ghost-theme-with-containers/

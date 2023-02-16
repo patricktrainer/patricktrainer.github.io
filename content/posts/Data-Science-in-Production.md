@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Data-Science-in-Production
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Data-Science-in-Production
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Data-Science-in-ProductionInstead of doing that, we'll have a server running that's providing the *service* of listening to incoming requests (with model input data) and responding with the model's output, which could be passed on to whatever the next step is (emailing to business stakeholder, passing it into another application, or maybe writing it to a database for further consumption down the line).
 We'll create an `app.py` file in our directory so that we end up with this directory structure:
 ├── housing_app

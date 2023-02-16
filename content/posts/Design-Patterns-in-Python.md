@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Design-Patterns-in-Python
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Design-Patterns-in-Python
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Design-Patterns-in-Python# Design Patterns in Python
 Created: June 21, 2020 6:25 PM
 URL: https://stackabuse.com/design-patterns-in-python/

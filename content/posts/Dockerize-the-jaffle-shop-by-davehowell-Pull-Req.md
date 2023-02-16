@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Dockerize-the-jaffle-shop-by-davehowell-Pull-Req
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Dockerize-the-jaffle-shop-by-davehowell-Pull-Req
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Dockerize-the-jaffle-shop-by-davehowell-Pull-Req# Dockerize the jaffle shop by davehowell · Pull Request #26 · fishtown-analytics/jaffle_shop
 Created: April 27, 2020 10:45 AM
 URL: https://github.com/fishtown-analytics/jaffle_shop/pull/26/files

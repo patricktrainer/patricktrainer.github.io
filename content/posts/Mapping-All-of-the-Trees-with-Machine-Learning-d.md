@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Mapping-All-of-the-Trees-with-Machine-Learning-d
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Mapping-All-of-the-Trees-with-Machine-Learning-d
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Mapping-All-of-the-Trees-with-Machine-Learning-d[1*MZcIQRCAJX5fbn0Zw6cPlA.jpeg](Mapping%20All%20of%20the%20Trees%20with%20Machine%20Learning%20-%20d%20b1278e65ef0743caa067337c00fd9604/1MZcIQRCAJX5fbn0Zw6cPlA.jpeg)
 **[Descartes Labs](https://www.descarteslabs.com/) built a machine learning model to identify tree canopy globally** using a combination of lidar, aerial imagery and satellite imagery.
 San Francisco’s wonderful [Open Forest Map](https://www.opentreemap.org/urbanforestmap/map/) tree inventory (point data) alternating with the Descartes Labs tree canopy layer (image data)

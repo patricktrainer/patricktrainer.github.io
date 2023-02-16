@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: cohost-Systems-Engineering-or-why-james-gets-p
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: cohost-Systems-Engineering-or-why-james-gets-p
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # cohost-Systems-Engineering-or-why-james-gets-pOnce your project has multiple people working on it, sometimes with widely different experiences (e.g. the 'software folks' and the 'hardware folks' and the 'manager folks' and the 'product folks' and so on), the concepts of "what are you building" and "how are you building it" seem to get away from teams and organizations.
 ### Why aren't more people doing "systems engineering"?
 They might think about breaking a problem down in to parts as an individual engineer solving problems, but don't have a lot of tools for breaking down "team sized problems".

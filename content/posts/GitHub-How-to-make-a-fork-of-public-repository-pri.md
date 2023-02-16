@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: GitHub-How-to-make-a-fork-of-public-repository-pri
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: GitHub-How-to-make-a-fork-of-public-repository-pri
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # GitHub-How-to-make-a-fork-of-public-repository-pri# GitHub: How to make a fork of public repository private?
 Created: January 30, 2020 8:55 PM
 URL: https://medium.com/@bilalbayasut/github-how-to-make-a-fork-of-public-repository-private-6ee8cacaf9d3

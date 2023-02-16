@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Javascript-tracker-setup-snowplow-snowplow-Wiki
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Javascript-tracker-setup-snowplow-snowplow-Wiki
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Javascript-tracker-setup-snowplow-snowplow-Wiki# Javascript tracker setup · snowplow/snowplow Wiki
 Created: April 25, 2020 9:36 AM
 URL: https://github.com/snowplow/snowplow/wiki/Javascript-tracker-setup

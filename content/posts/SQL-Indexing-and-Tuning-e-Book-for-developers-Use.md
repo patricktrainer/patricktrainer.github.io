@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: SQL-Indexing-and-Tuning-e-Book-for-developers-Use
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: SQL-Indexing-and-Tuning-e-Book-for-developers-Use
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # SQL-Indexing-and-Tuning-e-Book-for-developers-Use# SQL Indexing and Tuning e-Book for developers: Use The Index, Luke covers Oracle, MySQL, PostgreSQL, SQL Server, ...
 Created: May 11, 2020 4:34 PM
 Tags: Database, Design patterns, SQL

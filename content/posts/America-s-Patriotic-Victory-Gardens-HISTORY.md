@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: America-s-Patriotic-Victory-Gardens-HISTORY
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: America-s-Patriotic-Victory-Gardens-HISTORY
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # America-s-Patriotic-Victory-Gardens-HISTORYIn March of 1917¬—just weeks before the United States entered the war—Charles Lathrop Pack organized the National War Garden Commission to encourage Americans to contribute to the war effort by planting, fertilizing, harvesting and storing their own fruits and vegetables so that more food could be exported to our allies.
 Promoted through propaganda posters advocating that civilians “Sow the seeds of victory” by planting their own vegetables, the war garden movement (as it was originally known) was spread by word of mouth through numerous women’s clubs, civic associations and chambers of commerce, which actively encouraged participation in the campaign.
 In addition to the appeal to men and women, the federal Bureau of Education initiated a U.S. School Garden Army (USSGA) to mobilize children to enlist as “soldiers of the soil.” As a result of these combined efforts, 3 million new garden plots were planted in 1917 and more than 5.2 million were cultivated in 1918, which generated an estimated 1.45 million quarts of canned fruits and vegetables.

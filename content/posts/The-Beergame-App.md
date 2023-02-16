@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: The-Beergame-App
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: The-Beergame-App
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # The-Beergame-App# The Beergame App
 Created: March 23, 2020 6:10 PM
 URL: https://beergameapp.com/

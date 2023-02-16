@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: flask-jsondash-schemas-md-at-master-christabor-f
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: flask-jsondash-schemas-md-at-master-christabor-f
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # flask-jsondash-schemas-md-at-master-christabor-f### Examples
 - [Dashboard configuration](https://github.com/christabor/flask_jsondash/blob/master/example_app/examples/config/vegalite-fixed.json)
 - [Individual dashboard charts data](https://github.com/christabor/flask_jsondash/blob/master/example_app/examples/vegalite)

@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Options-v-cash
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Options-v-cash
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Options-v-cash### Cynical reasons
 One possible answer, perhaps the simplest possible answer, is that options aren’t worth what startups claim they’re worth and startups prefer options because their lack of value is less obvious than it would be with cash.
 However, if the share price stays at $10 for the lifetime of the option, the options will end up being worth $0 because an option with a $10 strike price is an option to buy the stock at $10, which is not the same as a grant of actual shares worth $10 a piece.

@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Ab-testing
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Ab-testing
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Ab-testing# Ab testing
 Created: July 17, 2020 11:43 PM
 URL: https://engineering.upside.com/playbook-for-practical-product-experimentation-ee98e5e31860

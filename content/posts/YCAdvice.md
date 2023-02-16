@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: YCAdvice
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: YCAdvice
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # YCAdvice# YCAdvice
 Created: March 28, 2020 9:22 AM
 URL: https://ycadvice.com/

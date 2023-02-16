@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Technical-Writing-Google-Developers
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Technical-Writing-Google-Developers
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Technical-Writing-Google-Developers[Technical%20Writing%20Google%20Developers%2031c0e595e19845c0830cdc316fc97755/TechWritingCoursesLogo_2880.png](Technical%20Writing%20Google%20Developers%2031c0e595e19845c0830cdc316fc97755/TechWritingCoursesLogo_2880.png)
 Every engineer is also a writer.
 This collection of courses and learning resources aims to improve your technical documentation.

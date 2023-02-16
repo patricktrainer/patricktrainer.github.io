@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: The-Unix-Shell
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: The-Unix-Shell
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # The-Unix-Shell# The Unix Shell
 Created: March 22, 2020 12:46 AM
 URL: http://swcarpentry.github.io/shell-novice/

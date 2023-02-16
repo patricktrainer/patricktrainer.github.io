@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: How-to-analyze-marketing-attribution
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: How-to-analyze-marketing-attribution
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # How-to-analyze-marketing-attribution- “Simple”, “out-of-the-box” solutions that are cheap, but only offer insight on a limited slice of data
 - Marketers that have completely given up on the problem (“trust your gut”) and are exhausted by vendor promises
 Marketers have been told that attribution is a data problem -- “Just get the data and you can have full knowledge of what’s working!” -- when really it’s a data *modeling* problem.

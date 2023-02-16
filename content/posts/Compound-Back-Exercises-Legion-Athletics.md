@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Compound-Back-Exercises-Legion-Athletics
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Compound-Back-Exercises-Legion-Athletics
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Compound-Back-Exercises-Legion-AthleticsThese are kinds of free weight back exercises that give you a full back workout in less time than other back exercises, and allow you to lift heavier weights more safely.
 T-Bar Row](https://legionathletics.com/best-back-exercises/)
 - [An Example Back Workout](https://legionathletics.com/best-back-exercises/)

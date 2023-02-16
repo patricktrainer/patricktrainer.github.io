@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Tips-to-avoid-burnout
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Tips-to-avoid-burnout
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Tips-to-avoid-burnout# Tips to avoid burnout
 Created: December 29, 2019 10:17 AM
 Tags: How To, Productivity

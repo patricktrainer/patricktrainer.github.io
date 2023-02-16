@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: How-to-Create-Scalable-Data-Pipelines-with-Python
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: How-to-Create-Scalable-Data-Pipelines-with-Python
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # How-to-Create-Scalable-Data-Pipelines-with-PythonThe definition of the message structure is available [online](https://www.mediawiki.org/wiki/Manual:RCFeed), but here’s a sample message:
 ```
 event: message

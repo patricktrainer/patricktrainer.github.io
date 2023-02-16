@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: This-entire-thread-is-the-most-amazing-Rorsach-tes
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: This-entire-thread-is-the-most-amazing-Rorsach-tes
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # This-entire-thread-is-the-most-amazing-Rorsach-tesThe first issue worth noting is that the definition of 'employed'(not discussed in the article or the original paper) vs self-employed incorporated vs self-employed non-incorporated are based on self-reporting from the census [5]:
 "CURRENT OR MOST RECENT JOB ACTIVITY.
 If this person had no job or business last week, give information for his/her last job or business.

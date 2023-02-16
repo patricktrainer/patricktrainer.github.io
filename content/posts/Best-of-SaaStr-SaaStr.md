@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Best-of-SaaStr-SaaStr
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Best-of-SaaStr-SaaStr
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Best-of-SaaStr-SaaStr# Best of SaaStr | SaaStr
 Created: May 16, 2020 7:55 AM
 URL: https://www.saastr.com/best-of-saastr/

@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Tiny-Beautiful-Things
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Tiny-Beautiful-Things
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Tiny-Beautiful-Things# Tiny Beautiful Things
 Created: March 22, 2020 12:49 PM
 URL: https://fs.blog/2014/11/cheryl-strayed-tiny-beautiful-things/

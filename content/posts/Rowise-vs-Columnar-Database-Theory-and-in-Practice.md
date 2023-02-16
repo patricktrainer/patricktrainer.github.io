@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Rowise-vs-Columnar-Database-Theory-and-in-Practice
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Rowise-vs-Columnar-Database-Theory-and-in-Practice
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Rowise-vs-Columnar-Database-Theory-and-in-PracticeTheory and in Practice
 Created: April 20, 2020 10:08 PM
 Tags: Database, SQL

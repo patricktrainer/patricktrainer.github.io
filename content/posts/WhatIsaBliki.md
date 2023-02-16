@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: WhatIsaBliki
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: WhatIsaBliki
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # WhatIsaBliki# WhatIsaBliki
 Created: June 7, 2020 3:15 PM
 URL: https://martinfowler.com/bliki/WhatIsaBliki.html

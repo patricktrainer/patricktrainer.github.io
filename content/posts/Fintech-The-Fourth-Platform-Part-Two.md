@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Fintech-The-Fourth-Platform-Part-Two
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Fintech-The-Fourth-Platform-Part-Two
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Fintech-The-Fourth-Platform-Part-Two# Fintech: The Fourth Platform - Part Two
 Created: December 4, 2019 10:32 AM
 Tags: Finance, Startup

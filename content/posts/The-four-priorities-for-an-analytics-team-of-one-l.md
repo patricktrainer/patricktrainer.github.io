@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: The-four-priorities-for-an-analytics-team-of-one-l
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: The-four-priorities-for-an-analytics-team-of-one-l
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # The-four-priorities-for-an-analytics-team-of-one-lAt the start of his tenure at Lola, Sagar laid out his analytics strategy, a 10-page document that described his plan to make Lola a “lean, fact-driven organization.” His plan described an approach that started with enabling business users to self-serve in the near-term–meeting the data needs of the organization today–while he implemented an analytics engineering workflow that would scale to meet future data needs.
 ## Priority #1: Enable business users to understand what is happening in their department today
 Sagar took inspiration from Carl Anderson’s book, [Creating a Data Driven Organization](https://www.amazon.com/Creating-Data-Driven-Organization-Practical-Trenches/dp/1491916915), which outlines the six types of questions that can be answered using analytics:

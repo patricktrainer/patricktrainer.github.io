@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: The-API-as-a-marketplace-Version-One
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: The-API-as-a-marketplace-Version-One
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # The-API-as-a-marketplace-Version-One# The API-as-a-marketplace - Version One
 Created: May 28, 2020 10:17 AM
 URL: https://versionone.vc/api-as-a-marketplace/

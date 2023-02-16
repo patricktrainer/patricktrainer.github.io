@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Binomial-options-pricing-model-Wikipedia
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Binomial-options-pricing-model-Wikipedia
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Binomial-options-pricing-model-WikipediaThe binomial model was first proposed by [William Sharpe](https://en.wikipedia.org/wiki/William_F._Sharpe) in the 1978 edition of Investments ([ISBN](https://en.wikipedia.org/wiki/International_Standard_Book_Number) [013504605X](https://en.wikipedia.org/wiki/Special:BookSources/013504605X)),[[1]](https://en.wikipedia.org/wiki/Binomial_options_pricing_model) and formalized by [Cox](https://en.wikipedia.org/wiki/John_Carrington_Cox), [Ross](https://en.wikipedia.org/wiki/Stephen_Ross_(economist)) and [Rubinstein](https://en.wikipedia.org/wiki/Mark_Rubinstein) in 1979[[2]](https://en.wikipedia.org/wiki/Binomial_options_pricing_model) and by Rendleman and Bartter in that same year.
 [[citation needed](https://en.wikipedia.org/wiki/Wikipedia:Citation_needed)]
 For options with several sources of uncertainty (e.g., [real options](https://en.wikipedia.org/wiki/Real_option)) and for options with complicated features (e.g., [Asian options](https://en.wikipedia.org/wiki/Asian_option)), binomial methods are less practical due to several difficulties, and [Monte Carlo option models](https://en.wikipedia.org/wiki/Monte_Carlo_option_model) are commonly used instead.

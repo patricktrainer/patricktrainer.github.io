@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Financial-Distancing-How-Venture-Capital-Follows-t
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Financial-Distancing-How-Venture-Capital-Follows-t
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Financial-Distancing-How-Venture-Capital-Follows-t# Financial Distancing: How Venture Capital Follows the Economy Down and Curtails Innovation
 Created: May 18, 2020 11:20 PM
 URL: https://www.nber.org/papers/w27150

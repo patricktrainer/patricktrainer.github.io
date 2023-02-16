@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Census
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Census
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Census# Census
 Created: January 8, 2020 10:10 AM
 Tags: Startup

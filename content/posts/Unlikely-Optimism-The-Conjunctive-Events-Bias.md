@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Unlikely-Optimism-The-Conjunctive-Events-Bias
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Unlikely-Optimism-The-Conjunctive-Events-Bias
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Unlikely-Optimism-The-Conjunctive-Events-BiasThe probability of a series of conjunctive events happening is lower than the probability of any individual event.
 The majority of students (85% to 95%) chose the latter statement, seeing the conjunctive events (that she is both a bank teller and a feminist activist) as more probable.
 ### Why the best laid plans often fail

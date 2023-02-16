@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Front-Controller-Microsoft-Docs
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Front-Controller-Microsoft-Docs
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Front-Controller-Microsoft-DocsYou have reviewed the *[Page Controller](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/ff649595%28v%3dpandp.10%29)* pattern, but your page controller classes have complicated logic, are part of a deep inheritance hierarchy, or your application determines the navigation between pages dynamically based on configurable rules.
 The following forces might persuade you to use *Front Controller* as opposed to *Page Controller*:
 A common implementation of *Page Controller* involves creating a base class for behavior shared among individual pages.

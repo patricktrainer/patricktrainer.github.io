@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: The-unreasonable-importance-of-data-preparation
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: The-unreasonable-importance-of-data-preparation
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # The-unreasonable-importance-of-data-preparationWhen executives ask me how to approach an AI transformation, I show them Monica Rogati’s [AI Hierarchy of Needs](https://hackernoon.com/the-ai-hierarchy-of-needs-18f111fcc007), which has AI at the top, and everything is built upon the foundation of data (Rogati is a data science and AI advisor, former VP of data at Jawbone, and former LinkedIn data scientist):
 !
 ## Data professionals spend an inordinate amount on time cleaning, repairing, and preparing data

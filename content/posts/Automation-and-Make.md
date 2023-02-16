@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Automation-and-Make
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Automation-and-Make
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Automation-and-Make# Automation and Make
 Created: March 22, 2020 2:43 AM
 URL: https://swcarpentry.github.io/make-novice/

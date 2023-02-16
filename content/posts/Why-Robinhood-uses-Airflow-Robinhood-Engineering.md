@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Why-Robinhood-uses-Airflow-Robinhood-Engineering
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Why-Robinhood-uses-Airflow-Robinhood-Engineering
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Why-Robinhood-uses-Airflow-Robinhood-EngineeringWe started off with using cron to schedule these jobs but with their growing number and complexity, it became increasingly challenging for us to manage them using cron:
 - **Managing dependencies** between jobs was difficult.
 ## Dependency Management

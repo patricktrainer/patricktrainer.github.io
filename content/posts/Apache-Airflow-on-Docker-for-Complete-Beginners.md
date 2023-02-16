@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Apache-Airflow-on-Docker-for-Complete-Beginners
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Apache-Airflow-on-Docker-for-Complete-Beginners
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Apache-Airflow-on-Docker-for-Complete-BeginnersBut over time, OLAP usually starts to become too burdensome to run on your production tables:
 - OLAP queries are more computationally expensive (aggregations, joins)
 - OLAP often requires intermediate steps like data cleaning and featurization

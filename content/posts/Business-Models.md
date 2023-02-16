@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Business-Models
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Business-Models
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Business-Models# Business Models
 Created: December 8, 2019 10:20 AM
 Tags: Finance, Startup

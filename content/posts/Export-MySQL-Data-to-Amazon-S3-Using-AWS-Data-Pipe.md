@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Export-MySQL-Data-to-Amazon-S3-Using-AWS-Data-Pipe
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Export-MySQL-Data-to-Amazon-S3-Using-AWS-Data-Pipe
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Export-MySQL-Data-to-Amazon-S3-Using-AWS-Data-Pipe# Export MySQL Data to Amazon S3 Using AWS Data Pipeline - AWS Data Pipeline
 Created: April 18, 2020 3:05 PM
 URL: https://docs.aws.amazon.com/datapipeline/latest/DeveloperGuide/dp-copydata-mysql.html

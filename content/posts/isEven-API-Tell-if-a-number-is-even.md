@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: isEven-API-Tell-if-a-number-is-even
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: isEven-API-Tell-if-a-number-is-even
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # isEven-API-Tell-if-a-number-is-even# isEven API - Tell if a number is even
 Created: March 7, 2020 2:59 PM
 URL: https://isevenapi.xyz/

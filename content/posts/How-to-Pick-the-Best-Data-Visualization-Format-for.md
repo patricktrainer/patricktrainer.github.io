@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: How-to-Pick-the-Best-Data-Visualization-Format-for
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: How-to-Pick-the-Best-Data-Visualization-Format-for
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # How-to-Pick-the-Best-Data-Visualization-Format-for# How to Pick the Best Data Visualization Format for Your Story
 Created: February 21, 2020 12:17 PM
 Tags: Communication, Data viz, Technical writing

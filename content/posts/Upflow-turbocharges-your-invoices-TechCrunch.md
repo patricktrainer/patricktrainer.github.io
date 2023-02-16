@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Upflow-turbocharges-your-invoices-TechCrunch
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Upflow-turbocharges-your-invoices-TechCrunch
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Upflow-turbocharges-your-invoices-TechCrunch[Upflow%20turbocharges%20your%20invoices%20TechCrunch%208cd6b5df2d9f444e952719e098a7be19/rawpixel-780494-unsplash.jpg](Upflow%20turbocharges%20your%20invoices%20TechCrunch%208cd6b5df2d9f444e952719e098a7be19/rawpixel-780494-unsplash.jpg)
 Meet [Upflow](https://upflow.io/), a French startup that wants to help you deal with your outstanding invoices — the company first started at [eFounders](https://www.efounders.com/).
 Most companies currently manage invoices using Excel spreadsheets, outdated banking interfaces and unnecessary conversations.

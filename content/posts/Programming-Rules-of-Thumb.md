@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Programming-Rules-of-Thumb
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Programming-Rules-of-Thumb
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Programming-Rules-of-Thumb# Programming Rules of Thumb
 Created: December 4, 2019 6:22 PM
 Tags: Programming

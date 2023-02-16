@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Six-Governance-Topologies-for-Data-Mesh
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Six-Governance-Topologies-for-Data-Mesh
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Six-Governance-Topologies-for-Data-Mesh# Six Governance Topologies for Data Mesh
 Created: December 15, 2022 9:12 PM
 URL: https://www.infoq.com/news/2022/06/data-mesh-topologies/

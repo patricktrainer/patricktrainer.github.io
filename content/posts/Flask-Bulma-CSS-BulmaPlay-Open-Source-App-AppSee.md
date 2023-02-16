@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Flask-Bulma-CSS-BulmaPlay-Open-Source-App-AppSee
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Flask-Bulma-CSS-BulmaPlay-Open-Source-App-AppSee
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Flask-Bulma-CSS-BulmaPlay-Open-Source-App-AppSee# Flask Bulma CSS - BulmaPlay Open-Source App | AppSeed App Generator
 Created: February 4, 2020 11:25 AM
 URL: https://flask-bulma-css.appseed.us/

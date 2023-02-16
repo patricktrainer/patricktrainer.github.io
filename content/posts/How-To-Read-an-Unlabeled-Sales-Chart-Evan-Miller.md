@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: How-To-Read-an-Unlabeled-Sales-Chart-Evan-Miller
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: How-To-Read-an-Unlabeled-Sales-Chart-Evan-Miller
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # How-To-Read-an-Unlabeled-Sales-Chart-Evan-Miller# How To Read an Unlabeled Sales Chart – Evan Miller
 Created: January 14, 2020 4:02 PM
 Tags: Data, How To

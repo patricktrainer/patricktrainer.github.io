@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Five-principles-that-will-keep-your-data-warehouse
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Five-principles-that-will-keep-your-data-warehouse
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Five-principles-that-will-keep-your-data-warehouseIn a data warehouse, you have a lot of objects to name — databases, schemas, relations, columns, users, and shared roles.
 # Use a separate user for each human being and application connecting to your data warehouse
 Before we dive into this, it’s worth noting that different data warehouses treat users, groups, and roles in very different ways (for anyone else that wants to fall down this rabbit hole, I wrote my findings up on [Discourse](https://discourse.getdbt.com/t/the-difference-between-users-groups-and-roles-on-each-data-warehouse/429)).

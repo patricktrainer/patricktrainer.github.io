@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: How-to-hire-an-analytics-engineer
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: How-to-hire-an-analytics-engineer
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # How-to-hire-an-analytics-engineerMany companies still call these people data analysts, but we’ve started to call them “analytics engineers.” It seems to fit–these hybrids sit at the intersection between data analysts and data engineers.
 ### Increase productivity of the data team
 It’s still common for data engineers to own 100% of the ETL process in an organization, although this is often a legacy organizational structure from the time when data warehouses weren’t fast enough to allow for data transformation to be done in-warehouse.

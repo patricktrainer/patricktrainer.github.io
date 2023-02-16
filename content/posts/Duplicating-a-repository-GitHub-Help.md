@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Duplicating-a-repository-GitHub-Help
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Duplicating-a-repository-GitHub-Help
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Duplicating-a-repository-GitHub-Help# Duplicating a repository - GitHub Help
 Created: January 30, 2020 8:55 PM
 URL: https://help.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository

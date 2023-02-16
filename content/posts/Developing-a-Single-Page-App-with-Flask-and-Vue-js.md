@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Developing-a-Single-Page-App-with-Flask-and-Vue-js
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Developing-a-Single-Page-App-with-Flask-and-Vue-js
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Developing-a-Single-Page-App-with-Flask-and-Vue-js>
 Install:
 Enable the Bootstrap Vue library in *client/src/main.js*:

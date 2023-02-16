@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: 16-Startup-Metrics-Andreessen-Horowitz
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: 16-Startup-Metrics-Andreessen-Horowitz
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # 16-Startup-Metrics-Andreessen-Horowitz## **#2 Recurring Revenue vs. Total Revenue**
 Investors more highly value companies where the majority of total revenue comes from product revenue (vs. from services).
 Contribution margin per customer (per month) = revenue from customer minus variable costs associated with a customer.

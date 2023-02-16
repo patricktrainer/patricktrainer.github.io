@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Custom-Storage-Adapters-for-Ghost
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Custom-Storage-Adapters-for-Ghost
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Custom-Storage-Adapters-for-Ghost# Custom Storage Adapters for Ghost
 Created: April 22, 2020 7:06 AM
 URL: https://ghost.org/docs/concepts/storage-adapters/

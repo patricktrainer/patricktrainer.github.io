@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: How-to-take-smart-notes-Ahrens-2017-LessWrong
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: How-to-take-smart-notes-Ahrens-2017-LessWrong
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # How-to-take-smart-notes-Ahrens-2017-LessWrongThese are notes made only for a project, such as a note that collects all the notes that you'd want to assemble into a paper.
 You can experiment with other ways to make the notes and you will see immediately what works and what doesn't.
 Prepare the literature notes so that when you make permanent notes, you can elaborate on the texts, that is, describe the context, find connections and contrasts and contradictions with other texts.

@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Syncing-Redshift-PostgreSQL-in-real-time-with-Ka
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Syncing-Redshift-PostgreSQL-in-real-time-with-Ka
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Syncing-Redshift-PostgreSQL-in-real-time-with-KaBefore showing Kafka Connect, we’ll walk through some setup
 - Setting up a distributed Kafka cluster
 - Setting up a PostgreSQL database on AWS RDS

@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: The-contribution-of-neural-networks-and-genetic-al
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: The-contribution-of-neural-networks-and-genetic-al
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # The-contribution-of-neural-networks-and-genetic-al# The contribution of neural networks and genetic algorithms to business decision support
 Created: November 29, 2019 8:50 PM
 Status: Finished

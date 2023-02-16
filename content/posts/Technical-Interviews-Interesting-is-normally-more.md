@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Technical-Interviews-Interesting-is-normally-more
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Technical-Interviews-Interesting-is-normally-more
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Technical-Interviews-Interesting-is-normally-more[Technical%20Interviews%20Interesting%20is%20normally%20more%20%2064050097a96c43ddbc9d3e07b4346cd2/Untitled-11-825x510.jpg](Technical%20Interviews%20Interesting%20is%20normally%20more%20%2064050097a96c43ddbc9d3e07b4346cd2/Untitled-11-825x510.jpg)
 We’ve already covered that technical interviews are often primarily [about not being too weird](https://codeformore.com/can-you-pretend-to-be-normal-for-up-to-two-hours/) and that you should really try and [show your working](https://codeformore.com/technical-interviews-show-working/) when solving programming questions in interviews.
 When you’re being asked technical questions, the point is not seeing whether or not you know the right answer — the point is to get you to show off your technical skills.

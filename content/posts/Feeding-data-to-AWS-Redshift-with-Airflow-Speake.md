@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Feeding-data-to-AWS-Redshift-with-Airflow-Speake
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Feeding-data-to-AWS-Redshift-with-Airflow-Speake
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Feeding-data-to-AWS-Redshift-with-Airflow-Speake# Feeding data to AWS Redshift with Airflow - Speaker Deck
 Created: February 21, 2020 12:17 PM
 URL: https://speakerdeck.com/fmarani/feeding-data-to-aws-redshift-with-airflow

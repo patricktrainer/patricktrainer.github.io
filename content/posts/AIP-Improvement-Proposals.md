@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: AIP-Improvement-Proposals
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: AIP-Improvement-Proposals
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # AIP-Improvement-Proposals# AIP Improvement Proposals
 Created: July 4, 2021 8:25 PM
 URL: https://google.aip.dev/

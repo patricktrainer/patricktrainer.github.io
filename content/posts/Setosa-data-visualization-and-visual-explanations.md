@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Setosa-data-visualization-and-visual-explanations
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Setosa-data-visualization-and-visual-explanations
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Setosa-data-visualization-and-visual-explanations[Setosa%20data%20visualization%20and%20visual%20explanations%20e5a7b77eba1e4025aa699f7d7b82d9a0/ev.png](Setosa%20data%20visualization%20and%20visual%20explanations%20e5a7b77eba1e4025aa699f7d7b82d9a0/ev.png)
 [Traffic Waves](http://blogs.kqed.org/lowdown/2013/11/12/traffic-waves)
 !

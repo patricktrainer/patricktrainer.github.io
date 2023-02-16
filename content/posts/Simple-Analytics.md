@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Simple-Analytics
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Simple-Analytics
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Simple-Analytics# Simple Analytics
 Created: December 14, 2019 10:38 AM
 Tags: Startup

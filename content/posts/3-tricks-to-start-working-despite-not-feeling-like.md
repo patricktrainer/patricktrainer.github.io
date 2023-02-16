@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: 3-tricks-to-start-working-despite-not-feeling-like
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: 3-tricks-to-start-working-despite-not-feeling-like
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # 3-tricks-to-start-working-despite-not-feeling-like# 3 tricks to start working despite not feeling like it
 Created: January 21, 2020 6:39 PM
 Tags: Productivity

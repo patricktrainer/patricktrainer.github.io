@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Hasura-by-far-lets-you-point-and-click-build-your
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Hasura-by-far-lets-you-point-and-click-build-your
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Hasura-by-far-lets-you-point-and-click-build-your# Hasura by far, lets you point-and-click build your database and table relationsh... | Hacker News
 Created: April 5, 2020 5:02 PM
 URL: https://news.ycombinator.com/item?id=22787313

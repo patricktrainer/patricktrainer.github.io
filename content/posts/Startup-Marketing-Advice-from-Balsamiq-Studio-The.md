@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Startup-Marketing-Advice-from-Balsamiq-Studio-The
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Startup-Marketing-Advice-from-Balsamiq-Studio-The
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Startup-Marketing-Advice-from-Balsamiq-Studio-The# Startup Marketing Advice from Balsamiq Studio | The Balsamiq Blog | Balsamiq
 Created: May 25, 2020 9:58 PM
 URL: https://blog.balsamiq.com/startup-marketing-advice-from-balsamiq-studios/

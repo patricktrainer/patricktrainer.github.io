@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Old-CSS-new-CSS-fuzzy-notepad
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Old-CSS-new-CSS-fuzzy-notepad
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Old-CSS-new-CSS-fuzzy-notepad# Old CSS, new CSS / fuzzy notepad
 Created: February 2, 2020 8:00 AM
 URL: https://eev.ee/blog/2020/02/01/old-css-new-css/

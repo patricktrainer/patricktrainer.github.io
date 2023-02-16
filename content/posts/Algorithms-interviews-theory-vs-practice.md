@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Algorithms-interviews-theory-vs-practice
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Algorithms-interviews-theory-vs-practice
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Algorithms-interviews-theory-vs-practice# Algorithms interviews: theory vs. practice
 Created: May 23, 2020 11:28 AM
 URL: https://danluu.com/algorithms-interviews/

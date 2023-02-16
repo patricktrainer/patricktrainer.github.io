@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Using-Docker-to-explore-Airflow-and-other-open-sou
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Using-Docker-to-explore-Airflow-and-other-open-sou
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Using-Docker-to-explore-Airflow-and-other-open-sou# Using Docker to explore Airflow and other open source projects
 Created: January 30, 2020 12:17 PM
 URL: https://medium.com/@segal.levi/using-docker-to-explore-airflow-and-other-open-source-projects-e6349ffadf5a

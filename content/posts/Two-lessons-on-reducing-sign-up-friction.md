@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Two-lessons-on-reducing-sign-up-friction
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Two-lessons-on-reducing-sign-up-friction
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Two-lessons-on-reducing-sign-up-friction# Two lessons on reducing sign-up friction
 Created: May 13, 2020 11:49 AM
 URL: https://bbirnbaum.com/two-lessons-on-reducing-sign-up-friction/

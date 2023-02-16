@@ -1,10 +1,11 @@
+---
+ 	layout: post
+ 	title: Building-Serverless-Python-Apps-Using-AWS-Chalice
+ 	date: 2021-01-01
+ 	draft: false
+ 	tags: []
+---
 
----
-    title: Building-Serverless-Python-Apps-Using-AWS-Chalice
-    date: 2021-01-01    
-    draft: true
-    tags: []
----
 # Building-Serverless-Python-Apps-Using-AWS-Chalice**By the end of this tutorial, you’ll be able to**:
 - Discuss the benefits of a serverless architecture
 - Explore Chalice, a Python serverless framework
