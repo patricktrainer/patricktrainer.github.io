@@ -2,7 +2,7 @@
 ---
     title: Dia-taxis
     date: 2021-01-01    
-    draft: true
+    draft: false
     tags: []
 ---
 # Dia-taxis# Diátaxis
