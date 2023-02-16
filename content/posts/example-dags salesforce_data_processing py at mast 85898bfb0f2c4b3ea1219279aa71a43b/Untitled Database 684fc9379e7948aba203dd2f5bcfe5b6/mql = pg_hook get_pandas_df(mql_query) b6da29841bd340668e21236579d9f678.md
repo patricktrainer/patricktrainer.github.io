@@ -1,1 +1,0 @@
-# mql = pg_hook.get_pandas_df(mql_query)

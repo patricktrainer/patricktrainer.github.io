@@ -1,4 +1,0 @@
-﻿Customer,Client,Client 1
-Cashier crew,Application,Flask Application
-Worker crew,Worker,Celery Worker
-Database behind LED screen,Database backend,Redis
