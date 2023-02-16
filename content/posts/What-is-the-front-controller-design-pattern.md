@@ -1,17 +1,16 @@
+
 ---
-                title: What-is-the-front-controller-design-pattern
-                date: 2021-01-01    
-                draft: true
-                tags: []
-               ---
-
-
-            # What-is-the-front-controller-design-pattern
-
-Created: June 17, 2020 4:45 PM
+    title: What-is-the-front-controller-design-pattern
+    date: 2021-01-01    
+    draft: true
+    tags: []
+---
+# What-is-the-front-controller-design-patternCreated: June 17, 2020 4:45 PM
 URL: https://www.educative.io/edpresso/what-is-the-front-controller-design-pattern
 The **front controller [design pattern](https://www.educative.io/edpresso/design-patterns-in-java)** is used to refine the structure of an application which:
-1.The **front controller** receives a request from the client, authenticates it, and forwards the request to the *dispatcher*.## UML diagram
+1.
+The **front controller** receives a request from the client, authenticates it, and forwards the request to the *dispatcher*.
+## UML diagram
 [What%20is%20the%20front%20controller%20design%20pattern%20d9380051288b472a831d4d2b541efd19/6238711576526848](What%20is%20the%20front%20controller%20design%20pattern%20d9380051288b472a831d4d2b541efd19/6238711576526848)
 ```
 #include
@@ -20,19 +19,22 @@ using namespace std;
 class View1{
 public:
 void update() {
-cout << "Bills payed."<< endl;
+cout << "Bills payed."
+<< endl;
 }
 };
 class View2{
 public:
 void update() {
-cout << "Username updated."<< endl;
+cout << "Username updated."
+<< endl;
 }
 };
 class View3{
 public:
 void update() {
-cout << "Password changed."<< endl;
+cout << "Password changed."
+<< endl;
 }
 };
 // Handlers:
@@ -89,7 +91,8 @@ handler2->updateView();
 else if(req == "change password")
 handler3->updateView();
 else
-cout << "Invalid request!"<< endl;
+cout << "Invalid request!"
+<< endl;
 }
 };
 // Controller:

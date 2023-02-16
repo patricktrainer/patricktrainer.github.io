@@ -1,14 +1,11 @@
+
 ---
-                title: Optimal-stopping-Wikipedia
-                date: 2021-01-01    
-                draft: true
-                tags: []
-               ---
-
-
-            # Optimal-stopping-Wikipedia
-
-A sequence of 'reward' functions which depend on the observed values of the random variables in 1.:
+    title: Optimal-stopping-Wikipedia
+    date: 2021-01-01    
+    draft: true
+    tags: []
+---
+# Optimal-stopping-WikipediaA sequence of 'reward' functions which depend on the observed values of the random variables in 1.:
 [Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/c347dcdade06ab59406dacf0d929e03855856ee8](Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/c347dcdade06ab59406dacf0d929e03855856ee8)
 [Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/4f93e8400461ac4d620680baee52030fa89911db](Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/4f93e8400461ac4d620680baee52030fa89911db)
 Given those objects, the problem is as follows:
@@ -24,13 +21,15 @@ defined on a [filtered probability space](https://en.wikipedia.org/wiki/Filtered
 [Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/5e3f1b6d200f2bc4fd12f17fcd4b9547da96ce09](Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/5e3f1b6d200f2bc4fd12f17fcd4b9547da96ce09)
 and assume that
 [Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/f5f3c8921a3b352de45446a6789b104458c9f90b](Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/f5f3c8921a3b352de45446a6789b104458c9f90b)
-is [adapted](https://en.wikipedia.org/wiki/Adapted_process) to the filtration.The optimal stopping problem is to find the [stopping time](https://en.wikipedia.org/wiki/Stopping_time)
+is [adapted](https://en.wikipedia.org/wiki/Adapted_process) to the filtration.
+The optimal stopping problem is to find the [stopping time](https://en.wikipedia.org/wiki/Stopping_time)
 [Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/0b4ac981f3c6efc49fbcb3ecd24f7bf152dad0a7](Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/0b4ac981f3c6efc49fbcb3ecd24f7bf152dad0a7)
 which maximizes the expected gain
 [Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/c4da65227df8165056ee82f640793d8e4b37908f](Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/c4da65227df8165056ee82f640793d8e4b37908f)
 where
 [Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/57a433d75842b2d6a28cd5f8ca9cf7dba459084f](Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/57a433d75842b2d6a28cd5f8ca9cf7dba459084f)
-is called the [value function](https://en.wikipedia.org/wiki/Value_function).We consider an adapted strong [Markov process](https://en.wikipedia.org/wiki/Markov_process)
+is called the [value function](https://en.wikipedia.org/wiki/Value_function).
+We consider an adapted strong [Markov process](https://en.wikipedia.org/wiki/Markov_process)
 [Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/478bcaa73ef8daeb8bd07701b59c6384b689f131](Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/478bcaa73ef8daeb8bd07701b59c6384b689f131)
 defined on a filtered probability space
 [Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/becca0fa5b0e6527db1e25d78299511b5320edbb](Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/becca0fa5b0e6527db1e25d78299511b5320edbb)
@@ -38,7 +37,8 @@ where
 [Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/03c8fe9e48980d22020c362b11762a216f8bee58](Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/03c8fe9e48980d22020c362b11762a216f8bee58)
 denotes the [probability measure](https://en.wikipedia.org/wiki/Probability_measure) where the [stochastic process](https://en.wikipedia.org/wiki/Stochastic_process) starts at
 [Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/87f9e315fd7e2ba406057a97300593c4802b53e4](Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/87f9e315fd7e2ba406057a97300593c4802b53e4)
-.## A jump diffusion result[[edit](https://en.wikipedia.org/w/index.php?title=Optimal_stopping&action=edit&section=5)]
+.
+## A jump diffusion result[[edit](https://en.wikipedia.org/w/index.php?title=Optimal_stopping&action=edit&section=5)]
 Let
 [Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/95734a78eb8407939c3496cbfd92763ced1e41e1](Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/95734a78eb8407939c3496cbfd92763ced1e41e1)
 be a [Lévy](https://en.wikipedia.org/wiki/L%C3%A9vy_process) diffusion in
@@ -61,7 +61,8 @@ is an
 [Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/454e9f9964b0205f0e19d54a5e902038bc1e095f](Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/454e9f9964b0205f0e19d54a5e902038bc1e095f)
 are given functions such that a unique solution
 [Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/5446d2e710df1848b39d3474304fa84dbdc60a05](Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/5446d2e710df1848b39d3474304fa84dbdc60a05)
-exists.The optimal stopping problem is:
+exists.
+The optimal stopping problem is:
 [Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/96e90fc8d59f61857be4ba95aff689714bfc5761](Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/96e90fc8d59f61857be4ba95aff689714bfc5761)
 It turns out that under some regularity conditions,[[5]](https://en.wikipedia.org/wiki/Optimal_stopping) the following verification theorem holds:
 If a function
@@ -81,7 +82,8 @@ then
 [Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/812e58cf6049240099f528ebf2c4b403f7a9ebc7](Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/812e58cf6049240099f528ebf2c4b403f7a9ebc7)
 for all
 [Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/45c9dab32dcebce045fc69264dc531a98b9bc6c9](Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/45c9dab32dcebce045fc69264dc531a98b9bc6c9)
-.Moreover, if
+.
+Moreover, if
 - on
 [Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/ab904cee10099523faefb28ada29590acb97c578](Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/ab904cee10099523faefb28ada29590acb97c578)
 [Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/f34a0c600395e5d4345287e21fb26efd386990e6](Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/f34a0c600395e5d4345287e21fb26efd386990e6)
@@ -90,7 +92,8 @@ Then
 for all
 and
 [Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/72be0ff341a0ca9b991ed0249f29a229b223903f](Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/72be0ff341a0ca9b991ed0249f29a229b223903f)
-is an optimal stopping time.The solution is known to be[[7]](https://en.wikipedia.org/wiki/Optimal_stopping)
+is an optimal stopping time.
+The solution is known to be[[7]](https://en.wikipedia.org/wiki/Optimal_stopping)
 - (Perpetual call) where and
 [Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/62363453bd2df75ecda55d5ef3dba9d954f679a5](Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/62363453bd2df75ecda55d5ef3dba9d954f679a5)
 [Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/0b5c45a5b03cdca86ea8deb1ec6e2c10ed35d099](Optimal%20stopping%20-%20Wikipedia%2036ca95b1506f4eae8314e9de4cd135fa/0b5c45a5b03cdca86ea8deb1ec6e2c10ed35d099)

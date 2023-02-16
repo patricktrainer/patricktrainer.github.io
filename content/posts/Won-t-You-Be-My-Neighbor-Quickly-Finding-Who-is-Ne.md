@@ -1,14 +1,11 @@
+
 ---
-                title: Won-t-You-Be-My-Neighbor-Quickly-Finding-Who-is-Ne
-                date: 2021-01-01    
-                draft: true
-                tags: []
-               ---
-
-
-            # Won-t-You-Be-My-Neighbor-Quickly-Finding-Who-is-Ne
-
-If we want to find the three friends who were closest to us on October 1, 2012 between 7:00am and 9:00am, we could construct a query like this:
+    title: Won-t-You-Be-My-Neighbor-Quickly-Finding-Who-is-Ne
+    date: 2021-01-01    
+    draft: true
+    tags: []
+---
+# Won-t-You-Be-My-Neighbor-Quickly-Finding-Who-is-NeIf we want to find the three friends who were closest to us on October 1, 2012 between 7:00am and 9:00am, we could construct a query like this:
 ```
 SELECT visitor, visited_at, geocode
 FROM visits
@@ -18,7 +15,8 @@ ORDER BY POINT(40.7127263,-74.0066592) geocode
 LIMIT 3;
 ```
 The “K-nearest neighbor” portion of the query can be seen in ORDER BY POINT(40.7127263,-74.0066592) geocode LIMIT 3 which is another of saying “order by the shortest distance between my current location and all the other recorded locations, but find the 3 closest locations to me.”
-How does this perform?Let’s pretend that we still have the [covering indexes](https://info.crunchydata.com/blog/why-covering-indexes-are-incredibly-helpful) in place from the previous article:
+How does this perform?
+Let’s pretend that we still have the [covering indexes](https://info.crunchydata.com/blog/why-covering-indexes-are-incredibly-helpful) in place from the previous article:
 ```
 EXPLAIN ANALYZE SELECT visitor, visited_at, geocode
 FROM visits
@@ -45,7 +43,8 @@ Rows Removed by Filter: 805600
 Planning Time: 0.112 ms
 Execution Time: 128.808 ms
 ```
-Looking at this query plan, PostgreSQL determined that none of the indexes could be used, and does a full (parallelized) sequential scan on the visits table in order to find the 3 closest people.You can use a KNN-GiST index simply by creating a GiST index on a supported data type, which in this case, is the geocode column:
+Looking at this query plan, PostgreSQL determined that none of the indexes could be used, and does a full (parallelized) sequential scan on the visits table in order to find the 3 closest people.
+You can use a KNN-GiST index simply by creating a GiST index on a supported data type, which in this case, is the geocode column:
 ```
 CREATE INDEX visits_geocode_gist_idx ON visits USING gist(geocode);
 VACUUM ANALYZE visits;
@@ -64,7 +63,8 @@ Order By: (geocode '(40.7127263,-74.0066592)'::point)
 Planning Time: 0.089 ms
 Execution Time: 0.265 ms
 ```
-Wow!Now let’s try running our original query to find who is closest to us on October 1, 2012 between 7am and 9am and see if this index speeds up:
+Wow!
+Now let’s try running our original query to find who is closest to us on October 1, 2012 between 7am and 9am and see if this index speeds up:
 ```
 EXPLAIN ANALYZE SELECT visitor, visited_at, geocode
 FROM visits
@@ -82,7 +82,8 @@ Rows Removed by Filter: 499207
 Planning Time: 0.140 ms
 Execution Time: 184.361 ms
 ```
-No luck: in this case, because we need also need to filter out our data for the given date/time range, PostgreSQL is unable to take advantage of the KNN-GiST index.You can install this extension by executing the following:
+No luck: in this case, because we need also need to filter out our data for the given date/time range, PostgreSQL is unable to take advantage of the KNN-GiST index.
+You can install this extension by executing the following:
 ```
 CREATE EXTENSION btree_gist;
 ```
@@ -95,7 +96,8 @@ Now, let’s create the multicolumn index on (visited_at,geocode):
 CREATE INDEX visits_visited_at_geocode_gist_idx ON visits USING gist(visited_at, geocode);
 VACUUM ANALYZE visits;
 ```
-What happens to the execution time?```
+What happens to the execution time?
+```
 EXPLAIN ANALYZE SELECT visitor, visited_at, geocode
 FROM visits
 WHERE
@@ -111,4 +113,5 @@ Order By: (geocode '(40.7127263,-74.0066592)'::point)
 Planning Time: 0.133 ms
 Execution Time: 0.068 ms
 ```
-Excellent!They are not without cost: KNN-GiST indexes are larger than regular GiST indexes, but the speedup KNN-GiST indexes provide is significantly (if not orders of magnitude) larger than the additional space and should be in your toolbox for any location-aware application you build.
+Excellent!
+They are not without cost: KNN-GiST indexes are larger than regular GiST indexes, but the speedup KNN-GiST indexes provide is significantly (if not orders of magnitude) larger than the additional space and should be in your toolbox for any location-aware application you build.

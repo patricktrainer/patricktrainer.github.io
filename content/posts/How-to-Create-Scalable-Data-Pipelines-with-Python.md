@@ -1,21 +1,20 @@
+
 ---
-                title: How-to-Create-Scalable-Data-Pipelines-with-Python
-                date: 2021-01-01    
-                draft: true
-                tags: []
-               ---
-
-
-            # How-to-Create-Scalable-Data-Pipelines-with-Python
-
-The definition of the message structure is available [online](https://www.mediawiki.org/wiki/Manual:RCFeed), but here’s a sample message:
+    title: How-to-Create-Scalable-Data-Pipelines-with-Python
+    date: 2021-01-01    
+    draft: true
+    tags: []
+---
+# How-to-Create-Scalable-Data-Pipelines-with-PythonThe definition of the message structure is available [online](https://www.mediawiki.org/wiki/Manual:RCFeed), but here’s a sample message:
 ```
 event: message
 id: [{"topic":"eqiad.mediawiki.recentchange","partition":0,"timestamp":1532031066001},{"topic":"codfw.mediawiki.recentchange","partition":0,"offset":-1}]data: {"event": "data", "is": "here"}
 ```
-Server Side Events (SSE) are defined by the World Wide Web Consortium (W3C) as part of the HTML5 definition.You have two choices:
+Server Side Events (SSE) are defined by the World Wide Web Consortium (W3C) as part of the HTML5 definition.
+You have two choices:
 - Download the pre-built Data Pipeline runtime environment (including Python 3.6) for [Linux](https://platform.activestate.com/Pizza-Team/Data-Pipeline/distributions?utm_source=activestate.com&utm_medium=referral&utm_content=blog-how-to-create-scalable-data-pipelines-python&utm_campaign=user-acquisition) or [macOS](https://platform.activestate.com/Pizza-Team/Data-Pipeline-Mac/distributions?utm_source=activestate.com&utm_medium=referral&utm_content=blog-how-to-create-scalable-data-pipelines-python&utm_campaign=user-acquisition) and install it using the [State Tool](https://platform.activestate.com/dev-tools?utm_source=activestate.com&utm_medium=referral&utm_content=blog-how-to-create-scalable-data-pipelines-python&utm_campaign=user-acquisition) into a virtual environment, or
-- Follow the instructions provided in my [Python Data Pipeline](https://github.com/nickmancol/python_data_pipeline) Github repository to run the code in a containerized instance of JupyterLab.Once you’ve installed the Moto server library and the [AWS CLI](https://aws.amazon.com/es/cli/) client, you have to create a credentials file at ~/.aws/credentials with the following content in order to authenticate to the AWS services:
+- Follow the instructions provided in my [Python Data Pipeline](https://github.com/nickmancol/python_data_pipeline) Github repository to run the code in a containerized instance of JupyterLab.
+Once you’ve installed the Moto server library and the [AWS CLI](https://aws.amazon.com/es/cli/) client, you have to create a credentials file at ~/.aws/credentials with the following content in order to authenticate to the AWS services:
 ```
 [default]
 AWS_ACCESS_KEY_ID = foo
@@ -29,7 +28,8 @@ If everything is OK, you can create a queue in another terminal using the follow
 ```
 aws --endpoint-url=http://localhost:4576 sqs create-queue --queue-name sse_queue --region us-east-1
 ```
-This will return the URL of the queue that we’ll use in our SSE Consumer component.To extract just the JSON, we’ll use the [SSEClient](https://pypi.org/project/sseclient/) Python library and code a simple function to iterate over the message stream to pull out the JSON payload, and then place it into the recently created Message Queue using the AWS [Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) Python library:
+This will return the URL of the queue that we’ll use in our SSE Consumer component.
+To extract just the JSON, we’ll use the [SSEClient](https://pypi.org/project/sseclient/) Python library and code a simple function to iterate over the message stream to pull out the JSON payload, and then place it into the recently created Message Queue using the AWS [Boto3](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html) Python library:
 ```
 import boto3
 import json
@@ -61,8 +61,10 @@ print('\rMessage %s enqueued' % response['MessageId'], sep=' ', end='', flush=Tr
 if __name__== "__main__":
 catch_events()
 ```
-This component will run indefinitely, consuming the SSE events and printing the id of each message queued.## Processing Data Streams with Python
-In order to explore the data from the stream, we’ll consume it in batches of 100 messages.Next, the process_batch function will clean the message’s body and enrich each one with their respective ReceiptHandle*,* which is an attribute from the Message Queue that uniquely identifies the message:
+This component will run indefinitely, consuming the SSE events and printing the id of each message queued.
+## Processing Data Streams with Python
+In order to explore the data from the stream, we’ll consume it in batches of 100 messages.
+Next, the process_batch function will clean the message’s body and enrich each one with their respective ReceiptHandle*,* which is an attribute from the Message Queue that uniquely identifies the message:
 ```
 def process_batch( messages ):
 global list_msgs
@@ -78,7 +80,8 @@ print('Batch ready to be exported to the Data Lake')
 to_data_lake( list_msgs )
 list_msgs = []
 ```
-This function is an oversimplification.Finally, if the list contains the desired batch size (i.e., 100 messages), our processing function will persist the list into the data lake, and then restart the batch:
+This function is an oversimplification.
+Finally, if the list contains the desired batch size (i.e., 100 messages), our processing function will persist the list into the data lake, and then restart the batch:
 ```
 def to_data_lake( df ):
 batch_df = pd.DataFrame( list_msgs )

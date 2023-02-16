@@ -1,14 +1,11 @@
+
 ---
-                title: Flask-GoogleCharts-Flask-GoogleCharts-0-0-docume
-                date: 2021-01-01    
-                draft: true
-                tags: []
-               ---
-
-
-            # Flask-GoogleCharts-Flask-GoogleCharts-0-0-docume
-
-# Flask-GoogleCharts — Flask-GoogleCharts 0.0 documentation
+    title: Flask-GoogleCharts-Flask-GoogleCharts-0-0-docume
+    date: 2021-01-01    
+    draft: true
+    tags: []
+---
+# Flask-GoogleCharts-Flask-GoogleCharts-0-0-docume# Flask-GoogleCharts — Flask-GoogleCharts 0.0 documentation
 Created: March 24, 2020 11:56 AM
 URL: https://pythonhosted.org/Flask-GoogleCharts/
 ## Set Up
@@ -31,7 +28,8 @@ Import a chart type and declare it in your view, and give it a name at a minimum
 from flask_googlecharts import BarChart
 my_chart = BarChart("my_chart")
 ```
-The name you declare will be used to access your chart in the template, and also to name the resulting JavaScript variables and HTML tags, so it must start with a letter and not contain any spaces.You can customize your chart by setting the `options` argument:
+The name you declare will be used to access your chart in the template, and also to name the resulting JavaScript variables and HTML tags, so it must start with a letter and not contain any spaces.
+You can customize your chart by setting the `options` argument:
 ```
 my_chart = BarChart("my_chart", options={'title': 'My Chart'})
 ```
@@ -52,10 +50,14 @@ hot_dog_chart.add_rows([["Matthew Stonie", 62],
 ```
 ## Including Charts in Templates
 First, add the chart javascript to your template:
-```Flask-GoogleCharts Example
+```
+Flask-GoogleCharts Example
 {{ charts_init }}
 ```
-You must always include the Google Charts API loader on any pages that include charts.If you will be populating your charts with JSON data from another endpoint, you must also include jQuery.When the application is running in debug mode, `GoogleCharts` will log a warning if these dependencies are not met.Add the chart HTML to your template:
+You must always include the Google Charts API loader on any pages that include charts.
+If you will be populating your charts with JSON data from another endpoint, you must also include jQuery.
+When the application is running in debug mode, `GoogleCharts` will log a warning if these dependencies are not met.
+Add the chart HTML to your template:
 ```
 {{ charts.my_chart }}
 ```

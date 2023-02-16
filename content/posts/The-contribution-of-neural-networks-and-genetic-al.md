@@ -1,16 +1,19 @@
+
 ---
-                title: The-contribution-of-neural-networks-and-genetic-al
-                date: 2021-01-01    
-                draft: true
-                tags: []
-               ---
-
-
-            # The-contribution-of-neural-networks-and-genetic-al
-
-# The contribution of neural networks and genetic algorithms to business decision support
+    title: The-contribution-of-neural-networks-and-genetic-al
+    date: 2021-01-01    
+    draft: true
+    tags: []
+---
+# The-contribution-of-neural-networks-and-genetic-al# The contribution of neural networks and genetic algorithms to business decision support
 Created: November 29, 2019 8:50 PM
 Status: Finished
 Tags: Data, Finance
 URL: https://www.emeraldinsight.com/doi/abs/10.1108/00251740410518534
-Author(s):Abstract:Managing large amounts of information and efficiently using this information in improved decision making has become increasingly challenging as businesses collect terabytes of data.Intelligent solutions, based on neural networks (NNs) and genetic algorithms (GAs), to solve complicated practical problems in various sectors are becoming more and more widespread nowadays.The current study provides an overview for the operations researcher of the neural networks and genetic algorithms methodology, as well as their historical and current use in business.The main aim is to present and focus on the wide range of business areas of NN and GA applications, avoiding an in‐depth analysis of all the applications – with varying success – recorded in the literature.This review reveals that, although still regarded as a novel methodology, NN and GA are shown to have matured to the point of offering real practical benefits in many of their applications.Keywords: Type: Literature reviewPublisher: Emerald Group Publishing LimitedCopyright:Citation: [Kostas Metaxiotis](https://www.emeraldinsight.com/author/Metaxiotis%2C+Kostas), [John Psarras](https://www.emeraldinsight.com/author/Psarras%2C+John), (2004) "The contribution of neural networks and genetic algorithms to business decision support: Academic myth or practical solution?", Management Decision, Vol.42 Issue: 2, pp.229-242, [https://doi.org/10.1108/00251740410518534](https://doi.org/10.1108/00251740410518534)Downloads: The fulltext of this document has been downloaded 1671 times since 2012
+Author(s):Abstract:Managing large amounts of information and efficiently using this information in improved decision making has become increasingly challenging as businesses collect terabytes of data.
+Intelligent solutions, based on neural networks (NNs) and genetic algorithms (GAs), to solve complicated practical problems in various sectors are becoming more and more widespread nowadays.
+The current study provides an overview for the operations researcher of the neural networks and genetic algorithms methodology, as well as their historical and current use in business.
+The main aim is to present and focus on the wide range of business areas of NN and GA applications, avoiding an in‐depth analysis of all the applications – with varying success – recorded in the literature.
+This review reveals that, although still regarded as a novel methodology, NN and GA are shown to have matured to the point of offering real practical benefits in many of their applications.Keywords: Type: Literature reviewPublisher: Emerald Group Publishing LimitedCopyright:Citation: [Kostas Metaxiotis](https://www.emeraldinsight.com/author/Metaxiotis%2C+Kostas), [John Psarras](https://www.emeraldinsight.com/author/Psarras%2C+John), (2004) "The contribution of neural networks and genetic algorithms to business decision support: Academic myth or practical solution?
+", Management Decision, Vol.
+42 Issue: 2, pp.229-242, [https://doi.org/10.1108/00251740410518534](https://doi.org/10.1108/00251740410518534)Downloads: The fulltext of this document has been downloaded 1671 times since 2012

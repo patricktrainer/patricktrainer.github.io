@@ -1,24 +1,27 @@
+
 ---
-                title: API-Routing-Layers-in-fintech
-                date: 2021-01-01    
-                draft: true
-                tags: []
-               ---
-
-
-            # API-Routing-Layers-in-fintech
-
-Some examples of this are Alloy (aggregating several identity verification vendors and enabling you to access them from a single API) and Payitoff (aggregating several student loan programs and enabling you to access them all from a single API).For the fintech building on an routing layer, you might pay a slightly higher per unit price to consume the service (because the routing layer marks up the cost of the underlying vendor) but the overall organizational cost is lower, simply because you don’t have to distort your org by taking on non-core work.[API%20Routing%20Layers%20in%20fintech%208184cab869324516bfc6424774a9a74d/segment.png](API%20Routing%20Layers%20in%20fintech%208184cab869324516bfc6424774a9a74d/segment.png)
-Segment was the first API routing layer I remember seeing.### One API, multiple vendors
-The common thread amongst API routing layers I’ve seens is that they enable a single integration, that allows you to programmatically access multiple vendors without having to do an additional integration.[API%20Routing%20Layers%20in%20fintech%208184cab869324516bfc6424774a9a74d/alloy.png](API%20Routing%20Layers%20in%20fintech%208184cab869324516bfc6424774a9a74d/alloy.png)
+    title: API-Routing-Layers-in-fintech
+    date: 2021-01-01    
+    draft: true
+    tags: []
+---
+# API-Routing-Layers-in-fintechSome examples of this are Alloy (aggregating several identity verification vendors and enabling you to access them from a single API) and Payitoff (aggregating several student loan programs and enabling you to access them all from a single API).
+For the fintech building on an routing layer, you might pay a slightly higher per unit price to consume the service (because the routing layer marks up the cost of the underlying vendor) but the overall organizational cost is lower, simply because you don’t have to distort your org by taking on non-core work.
+[API%20Routing%20Layers%20in%20fintech%208184cab869324516bfc6424774a9a74d/segment.png](API%20Routing%20Layers%20in%20fintech%208184cab869324516bfc6424774a9a74d/segment.png)
+Segment was the first API routing layer I remember seeing.
+### One API, multiple vendors
+The common thread amongst API routing layers I’ve seens is that they enable a single integration, that allows you to programmatically access multiple vendors without having to do an additional integration.
+[API%20Routing%20Layers%20in%20fintech%208184cab869324516bfc6424774a9a74d/alloy.png](API%20Routing%20Layers%20in%20fintech%208184cab869324516bfc6424774a9a74d/alloy.png)
 ### Advantages for early stage product teams
-When done well, an API routing layer gives an early stage product team material advantages.Advantages:
+When done well, an API routing layer gives an early stage product team material advantages.
+Advantages:
 - Easily switch between KYC vendors
 - Reduce costs through switching
 - Increasing pass rates by running customers through multiple vendors
 - Companies: Alloy
 Payroll linking & income verification
-- Aggregated Services: ADP, Gusto, Paylocity, Gusto, Trinet, Paychex, Paycor.Some financial services subdomains with no routing layers include:
+- Aggregated Services: ADP, Gusto, Paylocity, Gusto, Trinet, Paychex, Paycor.
+Some financial services subdomains with no routing layers include:
 Card manufacturing
 - Idemia, CPI, G&D, Perfect Plastic, Arroweye
 - Advantages: faster card delivery, redundancy

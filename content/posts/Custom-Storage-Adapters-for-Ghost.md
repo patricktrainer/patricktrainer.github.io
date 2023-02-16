@@ -1,18 +1,17 @@
+
 ---
-                title: Custom-Storage-Adapters-for-Ghost
-                date: 2021-01-01    
-                draft: true
-                tags: []
-               ---
-
-
-            # Custom-Storage-Adapters-for-Ghost
-
-# Custom Storage Adapters for Ghost
+    title: Custom-Storage-Adapters-for-Ghost
+    date: 2021-01-01    
+    draft: true
+    tags: []
+---
+# Custom-Storage-Adapters-for-Ghost# Custom Storage Adapters for Ghost
 Created: April 22, 2020 7:06 AM
 URL: https://ghost.org/docs/concepts/storage-adapters/
-It's possible to send your publication's images to a 3rd party service, CDN or database using a custom storage module.## Using a custom storage adapter
-By default Ghost stores images on your filesystem.In order to use a custom storage adapter, your custom configuration file needs to be updated to provide config for your new storage module and set it as active:
+It's possible to send your publication's images to a 3rd party service, CDN or database using a custom storage module.
+## Using a custom storage adapter
+By default Ghost stores images on your filesystem.
+In order to use a custom storage adapter, your custom configuration file needs to be updated to provide config for your new storage module and set it as active:
 ```
 storage: {
 active: 'my-module',
@@ -42,11 +41,14 @@ The storage block should have 2 items:
 - [ghost-b2](https://github.com/martiendt/ghost-storage-adapter-b2) saves to Backblaze B2
 - [ghost-github](https://github.com/ifvictr/ghost-github) saves to GitHub
 - [pages-store](https://github.com/zce/pages-store) saves to GitHub Pages or other pages service, e.g. Coding Pages
-- [WebDAV Storage](https://github.com/bartt/ghost-webdav-storage-adapter) saves to a WebDAV server.- [ghost-qcloud-cos](https://github.com/ZhelinCheng/ghost-qcloud-cos) saves to Tencent Cloud COS.
+- [WebDAV Storage](https://github.com/bartt/ghost-webdav-storage-adapter) saves to a WebDAV server.
+- [ghost-qcloud-cos](https://github.com/ZhelinCheng/ghost-qcloud-cos) saves to Tencent Cloud COS.
 ## Creating a custom storage adapter
-In order to replace the storage module, use these requirements.Inside of `content/adapters/storage` create a file or a folder: `content/adapters/storage/my-module.js` or `content/adapters/storage/my-module` - if using a folder, create a file called `index.js` inside it
+In order to replace the storage module, use these requirements.
+Inside of `content/adapters/storage` create a file or a folder: `content/adapters/storage/my-module.js` or `content/adapters/storage/my-module` - if using a folder, create a file called `index.js` inside it
 ### Base adapter class inheritance
-A custom storage adapter must inherit from your base storage adapter.```
+A custom storage adapter must inherit from your base storage adapter.
+```
 'use strict';
 var BaseAdapter = require('ghost-storage-base');
 class MyCustomAdapter extends BaseAdapter{
@@ -58,7 +60,8 @@ module.exports = MyCustomAdapter;
 ```
 ### Required methods
 Your custom storage adapter must implement five required functions:
-- `save` - The `.save()` method stores the image and returns a promise which resolves the path from which the image should be requested in future.- `exists` - Used by the base storage adapter to check whether a file exists or not
+- `save` - The `.save()` method stores the image and returns a promise which resolves the path from which the image should be requested in future.
+- `exists` - Used by the base storage adapter to check whether a file exists or not
 - `serve` - Ghost calls `.serve()` as part of its middleware stack, and mounts the returned function as the middleware for serving images
 - `delete`
 - `read`

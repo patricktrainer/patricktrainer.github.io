@@ -1,20 +1,21 @@
+
 ---
-                title: OODA-loop-Wikipedia
-                date: 2021-01-01    
-                draft: true
-                tags: []
-               ---
-
-
-            # OODA-loop-Wikipedia
-
-[OODA%20loop%20-%20Wikipedia%207586e3c43c104f478b528198e05ac5f3/500px-OODA.Boyd.svg.png](OODA%20loop%20-%20Wikipedia%207586e3c43c104f478b528198e05ac5f3/500px-OODA.Boyd.svg.png)
+    title: OODA-loop-Wikipedia
+    date: 2021-01-01    
+    draft: true
+    tags: []
+---
+# OODA-loop-Wikipedia[OODA%20loop%20-%20Wikipedia%207586e3c43c104f478b528198e05ac5f3/500px-OODA.Boyd.svg.png](OODA%20loop%20-%20Wikipedia%207586e3c43c104f478b528198e05ac5f3/500px-OODA.Boyd.svg.png)
 Diagram of the OODA loop
-The **OODA loop** is the cycle observe–orient–decide–act, developed by [military strategist](https://en.wikipedia.org/wiki/Military_strategy) and [United States Air Force](https://en.wikipedia.org/wiki/United_States_Air_Force) Colonel [John Boyd](https://en.wikipedia.org/wiki/John_Boyd_(military_strategist)).It is especially applicable to cyber security and cyberwarfare [[1]](https://en.wikipedia.org/wiki/OODA_loop)
+The **OODA loop** is the cycle observe–orient–decide–act, developed by [military strategist](https://en.wikipedia.org/wiki/Military_strategy) and [United States Air Force](https://en.wikipedia.org/wiki/United_States_Air_Force) Colonel [John Boyd](https://en.wikipedia.org/wiki/John_Boyd_(military_strategist)).
+It is especially applicable to cyber security and cyberwarfare [[1]](https://en.wikipedia.org/wiki/OODA_loop)
 ## Overview[[edit](https://en.wikipedia.org/w/index.php?title=OODA_loop&action=edit&section=1)]
-The OODA loop has become an important concept in [litigation](https://en.wikipedia.org/wiki/Litigation_strategy),[[2]](https://en.wikipedia.org/wiki/OODA_loop) business,[[3]](https://en.wikipedia.org/wiki/OODA_loop) [law enforcement](https://en.wikipedia.org/wiki/Law_enforcement),[[4]](https://en.wikipedia.org/wiki/OODA_loop) and [military strategy](https://en.wikipedia.org/wiki/Military_strategy).As one of Boyd's colleagues, Harry Hillaker, put it in "John Boyd, [USAF](https://en.wikipedia.org/wiki/United_States_Air_Force) Retired, Father of the [F16](https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon)":
-> The key is to obscure your intentions and make them unpredictable to your opponent while you simultaneously clarify his intentions.>
-The OODA loop also serves to explain the nature of surprise and shaping operations in a way that unifies [Gestalt psychology](https://en.wikipedia.org/wiki/Gestalt_psychology), [cognitive science](https://en.wikipedia.org/wiki/Cognitive_science) and [game theory](https://en.wikipedia.org/wiki/Game_theory) in a comprehensive theory of strategy.## See also[[edit](https://en.wikipedia.org/w/index.php?title=OODA_loop&action=edit&section=3)]
+The OODA loop has become an important concept in [litigation](https://en.wikipedia.org/wiki/Litigation_strategy),[[2]](https://en.wikipedia.org/wiki/OODA_loop) business,[[3]](https://en.wikipedia.org/wiki/OODA_loop) [law enforcement](https://en.wikipedia.org/wiki/Law_enforcement),[[4]](https://en.wikipedia.org/wiki/OODA_loop) and [military strategy](https://en.wikipedia.org/wiki/Military_strategy).
+As one of Boyd's colleagues, Harry Hillaker, put it in "John Boyd, [USAF](https://en.wikipedia.org/wiki/United_States_Air_Force) Retired, Father of the [F16](https://en.wikipedia.org/wiki/General_Dynamics_F-16_Fighting_Falcon)":
+> The key is to obscure your intentions and make them unpredictable to your opponent while you simultaneously clarify his intentions.
+>
+The OODA loop also serves to explain the nature of surprise and shaping operations in a way that unifies [Gestalt psychology](https://en.wikipedia.org/wiki/Gestalt_psychology), [cognitive science](https://en.wikipedia.org/wiki/Cognitive_science) and [game theory](https://en.wikipedia.org/wiki/Game_theory) in a comprehensive theory of strategy.
+## See also[[edit](https://en.wikipedia.org/w/index.php?title=OODA_loop&action=edit&section=3)]
 - [Control theory](https://en.wikipedia.org/wiki/Control_theory)
 - [Decision cycle](https://en.wikipedia.org/wiki/Decision_cycle)
 - [Double-loop learning](https://en.wikipedia.org/wiki/Double-loop_learning)
@@ -30,9 +31,11 @@ The OODA loop also serves to explain the nature of surprise and shaping operatio
 - [SWOT analysis](https://en.wikipedia.org/wiki/SWOT_analysis)
 ## Notes[[edit](https://en.wikipedia.org/w/index.php?title=OODA_loop&action=edit&section=4)]
 ## [[edit](https://en.wikipedia.org/w/index.php?title=OODA_loop&action=edit&section=5)]
-- Boyd, John R. (3 September 1976).Strategy, Planning & Litigating to Win
+- Boyd, John R. (3 September 1976).
+Strategy, Planning & Litigating to Win
 - [Greene, Robert](https://en.wikipedia.org/wiki/Robert_Greene_(American_author)), [OODA and You](https://web.archive.org/web/20150222130058/http://powerseductionandwar.com/ooda-and-you/)
-- Hillaker, Harry, , ["John Boyd,](https://web.archive.org/web/20070917232626/http://www.codeonemagazine.com/archives/1997/articles/jul_97/july2a_97.html) [USAF](https://en.wikipedia.org/wiki/United_States_Air_Force) Retired, Father of the F16", July 1997.Code one magazine
+- Hillaker, Harry, , ["John Boyd,](https://web.archive.org/web/20070917232626/http://www.codeonemagazine.com/archives/1997/articles/jul_97/july2a_97.html) [USAF](https://en.wikipedia.org/wiki/United_States_Air_Force) Retired, Father of the F16", July 1997.
+Code one magazine
 - Linger, Henry, , p. 449
 Constructing The Infrastructure for the Knowledge Economy: Methods and Tools, Theory and Practice
 - Metayer, Estelle, [Decision making: It's all about taking off – and landing safely…](http://competia.com/decision-making-it-s-all-about-taking-off-and-landing-safely/), Competia, December 2011

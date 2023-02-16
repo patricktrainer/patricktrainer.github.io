@@ -1,20 +1,20 @@
+
 ---
-                title: Scaling-Zapier-to-Automate-Billions-of-Tasks-The
-                date: 2021-01-01    
-                draft: true
-                tags: []
-               ---
-
-
-            # Scaling-Zapier-to-Automate-Billions-of-Tasks-The
-
-# Scaling Zapier to Automate Billions of Tasks - The Zapier Engineering Blog | Zapier
+    title: Scaling-Zapier-to-Automate-Billions-of-Tasks-The
+    date: 2021-01-01    
+    draft: true
+    tags: []
+---
+# Scaling-Zapier-to-Automate-Billions-of-Tasks-The# Scaling Zapier to Automate Billions of Tasks - The Zapier Engineering Blog | Zapier
 Created: June 18, 2020 3:54 AM
 URL: https://zapier.com/engineering/automating-billions-of-tasks/
-!## The Teams Behind the Curtains
+!
+## The Teams Behind the Curtains
 It takes a lot to make Zapier tick, so we have four distinct teams in engineering:
-- The **frontend team** works on the very powerful workflow editor.### Data
-MySQL is our primary relational data store—you'll find our users, Zaps and more inside MySQL.## Some Rough Numbers
+- The **frontend team** works on the very powerful workflow editor.
+### Data
+MySQL is our primary relational data store—you'll find our users, Zaps and more inside MySQL.
+## Some Rough Numbers
 These numbers represent a rough minimum to help the reader gauge the general size and dimensions of Zapier's architecture:
 - over 8m tasks automated daily
 - over 60m API calls daily
@@ -32,4 +32,7 @@ These numbers represent a rough minimum to help the reader gauge the general siz
 - …and tons of microservices and miscellaneous specialty services
 ## Improving the Architecture
 While the broad strokes of the architecture remain the same—we've only performed a few massive migrations—a lot of work has been done to grow the product in two categories:
-1.Every step has to consume some data (which folder to read from or which list ID to add to, for example), do some API magic, and return some data (say, the new file created or the new card added to a list), but otherwise be ignorant of its placement in the workflow.In the middle exists the omniscient workflow engine which coordinates independent Celery tasks by stringing together steps as tasks—one step feeding into the next as defined by the Zap's directed rooted tree.In addition to Multi-Step Zaps, we've also launched the ability to write [Python](https://zapier.com/help/code-python/) and [JavaScript](https://zapier.com/help/code/) as Code steps in your workflow.
+1.
+Every step has to consume some data (which folder to read from or which list ID to add to, for example), do some API magic, and return some data (say, the new file created or the new card added to a list), but otherwise be ignorant of its placement in the workflow.
+In the middle exists the omniscient workflow engine which coordinates independent Celery tasks by stringing together steps as tasks—one step feeding into the next as defined by the Zap's directed rooted tree.
+In addition to Multi-Step Zaps, we've also launched the ability to write [Python](https://zapier.com/help/code-python/) and [JavaScript](https://zapier.com/help/code/) as Code steps in your workflow.

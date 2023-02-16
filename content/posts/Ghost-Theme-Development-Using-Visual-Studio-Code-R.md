@@ -1,24 +1,24 @@
+
 ---
-                title: Ghost-Theme-Development-Using-Visual-Studio-Code-R
-                date: 2021-01-01    
-                draft: true
-                tags: []
-               ---
-
-
-            # Ghost-Theme-Development-Using-Visual-Studio-Code-R
-
-# Ghost Theme Development Using Visual Studio Code Remote Development With Containers
+    title: Ghost-Theme-Development-Using-Visual-Studio-Code-R
+    date: 2021-01-01    
+    draft: true
+    tags: []
+---
+# Ghost-Theme-Development-Using-Visual-Studio-Code-R# Ghost Theme Development Using Visual Studio Code Remote Development With Containers
 Created: April 19, 2020 12:54 PM
 URL: https://geeklearning.io/visual-studio-code-remote-development-ghost-theme-with-containers/
-Earlier, I've introduced [Visual Studio Remote Developmen](https://geeklearning.io/introduction-to-visual-studio-code-remote-development/)t and you might be wondering what a practical use case would be.Here is a quick description of the steps it was running:
+Earlier, I've introduced [Visual Studio Remote Developmen](https://geeklearning.io/introduction-to-visual-studio-code-remote-development/)t and you might be wondering what a practical use case would be.
+Here is a quick description of the steps it was running:
 - Build the theme
 - Copy it to a `.staging` directory
 - Start a docker container with the database mounted to a `.data` and `.staging` mounted in the theme directory
-- Watch for file changes, and repeat the step above.We will customize it as follow:
+- Watch for file changes, and repeat the step above.
+We will customize it as follow:
 - Install Yarn so we can restore the theme dev dependencies
 - Install `gscan` so we can validate our theme easily
-- Configure `bash` as the default shell (who uses sh these days?`.devontainer/Dockerfile`:
+- Configure `bash` as the default shell (who uses sh these days?
+`.devontainer/Dockerfile`:
 ```
 FROM ghost
 # Configure apt
@@ -47,7 +47,8 @@ ENV SHELL /bin/bash
 ENV url http://localhost:3001
 ```
 ## Visual Studio Code configuration
-Visual Studio Code needs a `devcontainer.json` file to be able to understand what to do with you dockerfile.`.devontainer/devcontainer.json`:
+Visual Studio Code needs a `devcontainer.json` file to be able to understand what to do with you dockerfile.
+`.devontainer/devcontainer.json`:
 ```
 {
 "dockerFile": "Dockerfile",
@@ -59,7 +60,8 @@ Visual Studio Code needs a `devcontainer.json` file to be able to understand wha
 }
 ```
 ## Tweaking the gulp file
-This step has nothing to do with Remote development and is only related to the ghost use case.```
+This step has nothing to do with Remote development and is only related to the ghost use case.
+```
 yarn add ps-list @tryghost/admin-api --dev --production=false
 ```
 In `gulpfile.js` we will add the following imports:
@@ -114,7 +116,8 @@ exports.zip = zipBuild;
 exports.dev = dev;
 exports.default = dockerDev;
 ```
-This will change the default gulp task to a task designed to build, zip and deploy the theme to the blog on changes.[Ghost%20Theme%20Development%20Using%20Visual%20Studio%20Code%20R%20cfb55d0e495b4904961745c147db7412/aziz-acharki-gXndgCS-CGo-unsplash.jpg](Ghost%20Theme%20Development%20Using%20Visual%20Studio%20Code%20R%20cfb55d0e495b4904961745c147db7412/aziz-acharki-gXndgCS-CGo-unsplash.jpg)
+This will change the default gulp task to a task designed to build, zip and deploy the theme to the blog on changes.
+[Ghost%20Theme%20Development%20Using%20Visual%20Studio%20Code%20R%20cfb55d0e495b4904961745c147db7412/aziz-acharki-gXndgCS-CGo-unsplash.jpg](Ghost%20Theme%20Development%20Using%20Visual%20Studio%20Code%20R%20cfb55d0e495b4904961745c147db7412/aziz-acharki-gXndgCS-CGo-unsplash.jpg)
 Now we can upgrade the readme with the steps to get started, you'll notice that the longest part has to do we initializing ghost :) :
 ```
 To develop on the theme we recommend that you use Visual Studio Code with the Remote development tools

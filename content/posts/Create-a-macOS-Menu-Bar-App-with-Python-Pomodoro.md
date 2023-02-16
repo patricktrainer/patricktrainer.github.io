@@ -1,20 +1,20 @@
+
 ---
-                title: Create-a-macOS-Menu-Bar-App-with-Python-Pomodoro
-                date: 2021-01-01    
-                draft: true
-                tags: []
-               ---
-
-
-            # Create-a-macOS-Menu-Bar-App-with-Python-Pomodoro
-
-# Create a macOS Menu Bar App with Python (Pomodoro Timer) – Camillo Visini
+    title: Create-a-macOS-Menu-Bar-App-with-Python-Pomodoro
+    date: 2021-01-01    
+    draft: true
+    tags: []
+---
+# Create-a-macOS-Menu-Bar-App-with-Python-Pomodoro# Create a macOS Menu Bar App with Python (Pomodoro Timer) – Camillo Visini
 Created: July 13, 2020 2:44 AM
 URL: https://camillovisini.com/create-macos-menu-bar-app-pomodoro/
-!As an example, we will create a [🍅 pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) app, which you can use to boost your productivity and manage your time from the convenience of your menu bar.We will be using the following software:
+!
+As an example, we will create a [🍅 pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) app, which you can use to boost your productivity and manage your time from the convenience of your menu bar.
+We will be using the following software:
 - **Python 3** and **PyCharm** as an IDE
 - **[Rumps](https://github.com/jaredks/rumps)** → Ridiculously Uncomplicated macOS Python Statusbar apps
-- **[py2app](https://py2app.readthedocs.io/en/latest/)** → For creating standalone macOS apps from Python code *(how cool is that?Enter the following in your terminal:
+- **[py2app](https://py2app.readthedocs.io/en/latest/)** → For creating standalone macOS apps from Python code *(how cool is that?
+Enter the following in your terminal:
 ```
 pip3 install -U py2app # this will install py2app using pip, or to upgrade to the latest released version of py2app
 pip3 install -U rumps # this will install rumps using pip, or to upgrade to the latest released version of rumps
@@ -22,7 +22,8 @@ pip3 install -U rumps # this will install rumps using pip, or to upgrade to the 
 ## Step 2: Basic example
 Open the project directory in your favorite editor or IDE – in my case PyCharm – by typing:
 ```
-charm .```
+charm .
+```
 In `pomodoro.py` we need to set up the following boilerplate code in order to get started:
 ```
 import rumps
@@ -49,7 +50,8 @@ self.config = {
 "pause": "Pause Timer",
 "continue": "Continue Timer",
 "stop": "Stop Timer",
-"break_message": "Time is up!Take a break :)",
+"break_message": "Time is up!
+Take a break :)",
 "interval": 1500
 }
 self.app = rumps.App(self.config["app_name"])
@@ -96,5 +98,6 @@ app = PomodoroApp()
 app.run()
 ```
 By executing the python program again using `python3 pomodoro.py`, you can see our menu bar app in its full glory:
-Now we're getting there!## Step 4: Create macOS app from our python code
+Now we're getting there!
+## Step 4: Create macOS app from our python code
 In `setup.py` we need to add the following code, which provides all the necessary instructions to create the application bundle (app name, app version, app icon, etc.)

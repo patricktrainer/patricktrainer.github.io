@@ -1,15 +1,14 @@
+
 ---
-                title: SQLite
-                date: 2021-01-01    
-                draft: true
-                tags: []
-               ---
-
-
-            # SQLite
-
-To put it another way, a recursive common table expression must look like the following:
-Call the table named by the [cte-table-name](https://www.sqlite.org/syntax/cte-table-name.html) in a recursive common table expression the "recursive table".A limit of zero means that no rows are ever added to the recursive table, and a negative limit means an unlimited number of rows may be added to the recursive table.The recursive CTE is then used in the final query:
+    title: SQLite
+    date: 2021-01-01    
+    draft: true
+    tags: []
+---
+# SQLiteTo put it another way, a recursive common table expression must look like the following:
+Call the table named by the [cte-table-name](https://www.sqlite.org/syntax/cte-table-name.html) in a recursive common table expression the "recursive table".
+A limit of zero means that no rows are ever added to the recursive table, and a negative limit means an unlimited number of rows may be added to the recursive table.
+The recursive CTE is then used in the final query:
 > WITH RECURSIVE
 parent_of(name, parent) AS
 (SELECT name, mom FROM family UNION SELECT name, dad FROM family),
@@ -22,7 +21,8 @@ WHERE ancestor_of_alice.name=family.name
 AND died IS NULL
 ORDER BY born;
 >
-A version control system (VCS) will typically store the evolving versions of a project as a directed acyclic graph (DAG).> WITH RECURSIVE
+A version control system (VCS) will typically store the evolving versions of a project as a directed acyclic graph (DAG).
+> WITH RECURSIVE
 ancestor(id,mtime) AS (
 SELECT id, mtime FROM checkin WHERE id=@BASELINE
 UNION
@@ -35,7 +35,8 @@ LIMIT 20
 )
 SELECT * FROM checkin JOIN ancestor USING(id);
 >
-The "ORDER BY checkin.mtime DESC" term in the recursive-select makes the query run much faster by preventing it from following branches that merge checkins from long ago.To illustrate, we will use a variation on the "org" table from an example above, without the "height" column, and with some real data inserted:
+The "ORDER BY checkin.mtime DESC" term in the recursive-select makes the query run much faster by preventing it from following branches that merge checkins from long ago.
+To illustrate, we will use a variation on the "org" table from an example above, without the "height" column, and with some real data inserted:
 > CREATE TABLE org(
 name TEXT PRIMARY KEY,
 boss TEXT REFERENCES org
@@ -59,7 +60,8 @@ ORDER BY 2
 )
 SELECT substr('..........',1,level*3) || name FROM under_alice;
 >
-The "ORDER BY 2" (which means the same as "ORDER BY under_alice.level+1") causes higher levels in the organization chart (with smaller "level" values) to be processed first, resulting in a breadth-first search.The output is:
+The "ORDER BY 2" (which means the same as "ORDER BY under_alice.level+1") causes higher levels in the organization chart (with smaller "level" values) to be processed first, resulting in a breadth-first search.
+The output is:
 > Alice
 ...Bob
 ...Cindy
@@ -88,7 +90,8 @@ The output of this revised query is:
 ......Fred
 ......Gail
 >
-When the ORDER BY clause is omitted from the recursive-select, the queue behaves as a FIFO, which results in a breadth-first search.Outlandish Recursive Query Examples
+When the ORDER BY clause is omitted from the recursive-select, the queue behaves as a FIFO, which results in a breadth-first search.
+Outlandish Recursive Query Examples
 The following query computes an approximation of the Mandelbrot Set and outputs the result as ASCII-art:
 > WITH RECURSIVE
 xaxis(x) AS (VALUES(-2.0) UNION ALL SELECT x+0.05 FROM xaxis WHERE x<1.2),

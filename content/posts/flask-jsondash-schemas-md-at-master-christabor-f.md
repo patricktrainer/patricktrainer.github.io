@@ -1,18 +1,16 @@
+
 ---
-                title: flask-jsondash-schemas-md-at-master-christabor-f
-                date: 2021-01-01    
-                draft: true
-                tags: []
-               ---
-
-
-            # flask-jsondash-schemas-md-at-master-christabor-f
-
-### Examples
+    title: flask-jsondash-schemas-md-at-master-christabor-f
+    date: 2021-01-01    
+    draft: true
+    tags: []
+---
+# flask-jsondash-schemas-md-at-master-christabor-f### Examples
 - [Dashboard configuration](https://github.com/christabor/flask_jsondash/blob/master/example_app/examples/config/vegalite-fixed.json)
 - [Individual dashboard charts data](https://github.com/christabor/flask_jsondash/blob/master/example_app/examples/vegalite)
 ### Overrides
-Supported.```
+Supported.
+```
 {
 "data d": 16,
 "data e": 77,
@@ -22,11 +20,13 @@ Supported.```
 }
 ```
 ### Area
-An object with each key corresponding to the line label, and a list of integer values.### Examples
+An object with each key corresponding to the line label, and a list of integer values.
+### Examples
 - [Dashboard configuration](https://github.com/christabor/flask_jsondash/blob/master/example_app/examples/config/plotly.json)
 - [Individual dashboard charts data](https://github.com/christabor/flask_jsondash/blob/master/example_app/examples/plotly)
 ### Overrides
-Supported.### Number Group
+Supported.
+### Number Group
 Just like the single number option above, a number group has the same options (`color` and `noformat`), and general format, but supports multiple columns for each number (so you can build multiple big display of aggregate values in a single chart):
 ```
 [
@@ -55,15 +55,18 @@ Just like the single number option above, a number group has the same options (`
 },
 ]
 ```
-You can also override the column width for each item, via `"width": "30%"`.### Examples
+You can also override the column width for each item, via `"width": "30%"`.
+### Examples
 - [Dashboard configuration](https://github.com/christabor/flask_jsondash/blob/master/example_app/examples/config/cytoscape.json)
 - [Individual dashboard charts data](https://github.com/christabor/flask_jsondash/blob/master/example_app/examples/cytoscape)
 ### Overrides
-Supported.### Examples
+Supported.
+### Examples
 - [Dashboard configuration](https://github.com/christabor/flask_jsondash/blob/master/example_app/examples/config/sigma.json)
 - [Individual dashboard charts data](https://github.com/christabor/flask_jsondash/blob/master/example_app/examples/sigma)
 ### Overrides
-Supported.Format should be similar to d3 hierarchical layouts, like:
+Supported.
+Format should be similar to d3 hierarchical layouts, like:
 ```
 {
 "children": [

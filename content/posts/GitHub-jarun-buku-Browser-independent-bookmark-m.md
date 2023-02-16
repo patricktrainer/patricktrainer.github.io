@@ -1,14 +1,11 @@
+
 ---
-                title: GitHub-jarun-buku-Browser-independent-bookmark-m
-                date: 2021-01-01    
-                draft: true
-                tags: []
-               ---
-
-
-            # GitHub-jarun-buku-Browser-independent-bookmark-m
-
-# GitHub - jarun/buku: Browser-independent bookmark manager
+    title: GitHub-jarun-buku-Browser-independent-bookmark-m
+    date: 2021-01-01    
+    draft: true
+    tags: []
+---
+# GitHub-jarun-buku-Browser-independent-bookmark-m# GitHub - jarun/buku: Browser-independent bookmark manager
 Created: March 29, 2020 1:00 PM
 URL: https://github.com/jarun/buku
 # buku
@@ -20,7 +17,8 @@ URL: https://github.com/jarun/buku
 [GitHub%20-%20jarun%20buku%20Browser-independent%20bookmark%20m%20a141975bbaca41e38da331e040915b9a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707269766163792de29c932d6372696d736f6e](GitHub%20-%20jarun%20buku%20Browser-independent%20bookmark%20m%20a141975bbaca41e38da331e040915b9a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707269766163792de29c932d6372696d736f6e)
 [GitHub%20-%20jarun%20buku%20Browser-independent%20bookmark%20m%20a141975bbaca41e38da331e040915b9a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d47504c76332d79656c6c6f772e7376673f6d61784167653d32353932303030](GitHub%20-%20jarun%20buku%20Browser-independent%20bookmark%20m%20a141975bbaca41e38da331e040915b9a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d47504c76332d79656c6c6f772e7376673f6d61784167653d32353932303030)
 [GitHub%20-%20jarun%20buku%20Browser-independent%20bookmark%20m%20a141975bbaca41e38da331e040915b9a/68747470733a2f2f61736369696e656d612e6f72672f612f3133373036352e706e67](GitHub%20-%20jarun%20buku%20Browser-independent%20bookmark%20m%20a141975bbaca41e38da331e040915b9a/68747470733a2f2f61736369696e656d612e6f72672f612f3133373036352e706e67)
-buku in action!*
+buku in action!
+*
 [GitHub%20-%20jarun%20buku%20Browser-independent%20bookmark%20m%20a141975bbaca41e38da331e040915b9a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50617950616c2d646f6e6174652d3165623066632e737667](GitHub%20-%20jarun%20buku%20Browser-independent%20bookmark%20m%20a141975bbaca41e38da331e040915b9a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50617950616c2d646f6e6174652d3165623066632e737667)
 ### Table of Contents
 - [Features](https://github.com/jarun/buku)
@@ -106,28 +104,33 @@ g taglist id|range [...] [>>|>|< https://ddg.gg
 # privacy,search engine
 ```
 where, >: url, +: comment, #: tags
-3.**Export** bookmarks tagged `tag 1` or `tag 2` to HTML, Markdown, Orgfile or a new database:
+3.
+**Export** bookmarks tagged `tag 1` or `tag 2` to HTML, Markdown, Orgfile or a new database:
 ```
 $ buku -e bookmarks.html --stag tag 1, tag 2
 $ buku -e bookmarks.md --stag tag 1, tag 2
 $ buku -e bookmarks.org --stag tag 1, tag 2
 $ buku -e bookmarks.db --stag tag 1, tag 2
 ```
-All bookmarks are exported if search is not opted.**Search** bookmarks for **ANY** of the keywords `kernel` and `debugging` in URL, title or tags:
+All bookmarks are exported if search is not opted.
+**Search** bookmarks for **ANY** of the keywords `kernel` and `debugging` in URL, title or tags:
 ```
 $ buku kernel debugging
 $ buku -s kernel debugging
 ```
-17.**Replace tag** 'old tag' with 'new tag':
+17.
+**Replace tag** 'old tag' with 'new tag':
 ```
 $ buku --replace 'old tag' 'new tag'
 ```
-30.**Append (or delete) tags** 'tag 1', 'tag 2' to (or from) existing tags of bookmark at index 15012014:
+30.
+**Append (or delete) tags** 'tag 1', 'tag 2' to (or from) existing tags of bookmark at index 15012014:
 ```
 $ buku -u 15012014 --tag + tag 1, tag 2
 $ buku -u 15012014 --tag - tag 1, tag 2
 ```
-32.### Related projects
+32.
+### Related projects
 - [bukubrow](https://github.com/SamHH/bukubrow), WebExtension for browser integration
 - [oil](https://github.com/AndreiUlmeyda/oil), search-as-you-type cli front-end
 - [buku_run](https://github.com/carnager/buku_run), rofi front-end
