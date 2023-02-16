@@ -1,0 +1,1 @@
+# new_opps = pg_hook.get_pandas_df(new_opp_query)

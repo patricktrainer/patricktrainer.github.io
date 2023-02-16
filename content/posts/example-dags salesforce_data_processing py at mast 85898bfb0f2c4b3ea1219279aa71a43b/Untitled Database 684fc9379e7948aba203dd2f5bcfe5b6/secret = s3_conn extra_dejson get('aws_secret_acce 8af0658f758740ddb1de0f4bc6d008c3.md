@@ -1,0 +1,1 @@
+# secret = s3_conn.extra_dejson.get('aws_secret_access_key')
